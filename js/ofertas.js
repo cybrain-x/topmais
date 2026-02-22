@@ -242,13 +242,75 @@ function renderCoupons(items) {
                     <div class="coupon-type">
                         ${typeHtml}
                     </div>
-                    <button class="coupon-action-btn" onclick="alert('Funcionalidade de redirecionamento para afiliado. Baixe o app para a experiência completa!')">${btnText}</button>
+                    <button class="coupon-action-btn" onclick="handleOfferClick(${isCodeStr ? 'true' : 'false'}, '${item.code || ''}', '${item.affiliateUrl || brand.affiliateUrl || ''}')">${btnText}</button>
                 </div>
             </div>
         `;
     });
 
     couponsContainer.innerHTML = html;
+}
+
+window.handleOfferClick = (isCode, code, url) => {
+    // Fallback pra caso falte a url no objeto, avisar o usuário
+    if (!url || url === 'undefined') {
+        alert("O link dessa oferta não está disponível no momento. Tente baixar o app!");
+        return;
+    }
+
+    if (isCode && code) {
+        // Tenta copiar o código pro clipboard silenciosamente
+        navigator.clipboard.writeText(code).then(() => {
+            // Mostra um toastzinho simples no topo
+            showToast(`O cupom ${code} foi copiado! Redirecionando...`);
+            setTimeout(() => {
+                window.open(url, '_blank');
+            }, 1000);
+        }).catch(() => {
+            // Se falhar (ex: bloqueio de permissão), apenas redireciona
+            window.open(url, '_blank');
+        });
+    } else {
+        // Oferta apenas (sem código pra copiar), abre direto
+        showToast("Ativando oferta! Redirecionando...");
+        setTimeout(() => {
+            window.open(url, '_blank');
+        }, 800);
+    }
+};
+
+// Um toast system simples e bonito que não trava o JS igual ao alert()
+function showToast(message) {
+    let toast = document.getElementById('offer-toast');
+    if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'offer-toast';
+        Object.assign(toast.style, {
+            position: 'fixed',
+            top: '20px',
+            left: '50%',
+            transform: 'translateX(-50%)',
+            background: 'var(--primary, #FF3B30)',
+            color: 'white',
+            padding: '12px 24px',
+            borderRadius: '50px',
+            boxShadow: '0 10px 20px rgba(0,0,0,0.2)',
+            zIndex: '9999',
+            fontFamily: 'Inter, sans-serif',
+            fontSize: '14px',
+            fontWeight: '600',
+            opacity: '0',
+            transition: 'opacity 0.3s ease'
+        });
+        document.body.appendChild(toast);
+    }
+    toast.innerText = message;
+    toast.style.opacity = '1';
+
+    // Some após 3 segundos
+    setTimeout(() => {
+        toast.style.opacity = '0';
+    }, 3000);
 }
 
 // Inicia aplicação
