@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TopMais - Ofertas e Cupons</title>
+    <meta name="description" content="Encontre os melhores descontos, cupons e ofertas no aplicativo TopMais.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body style="padding-top: 80px; background-color: var(--bg-secondary);">
+    <!-- Navbar -->
+    <nav class="navbar scrolled" id="navbar">
+        <div class="container nav-content">
+            <a href="index.html" class="logo">
+                <i class="fa-solid fa-tags"></i> Top<span>Mais</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="ofertas.html" style="color: var(--primary);">Ofertas</a></li>
+            </ul>
+            <a href="index.html#download" class="btn btn-primary d-none-mobile">Baixar App</a>
+
+            <button class="mobile-menu-btn" id="mobile-menu-btn" style="color: var(--text-dark);">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobile-menu">
+        <div class="mobile-menu-header">
+            <a href="index.html" class="logo"><i class="fa-solid fa-tags"></i> Top<span>Mais</span></a>
+            <button class="close-menu" id="close-menu"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <ul class="mobile-nav-links">
+            <li><a href="index.html">Início</a></li>
+            <li><a href="ofertas.html">Ofertas</a></li>
+            <li><a href="index.html#download" class="btn btn-primary">Baixar Aplicativo</a></li>
+        </ul>
+    </div>
+
+    <!-- Offers Section -->
+    <section class="offers section bg-light" style="min-height: 80vh;">
+        <div class="container">
+            <div class="section-title">
+                <h2>Descubra as <span>Melhores Ofertas</span></h2>
+                <p>Explore as lojas mais populares e os cupons verificados diretamente do nosso sistema.</p>
+            </div>
+
+            <div class="app-simulation-container">
+                <!-- Loader -->
+                <div id="loading-spinner" style="text-align: center; padding: 4rem 0;">
+                    <i class="fa-solid fa-spinner fa-spin fa-3x" style="color: var(--primary);"></i>
+                    <p style="margin-top: 1rem; color: var(--text-muted);">Carregando as melhores ofertas do Firebase...
+                    </p>
+                </div>
+
+                <div id="app-content-wrapper" style="display: none;">
+                    <!-- Categories -->
+                    <div class="categories-wrapper">
+                        <div class="categories-scroll" id="categories-container">
+                            <!-- Populated by Firebase -->
+                        </div>
+                    </div>
+
+                    <!-- Brands -->
+                    <div class="brands-section">
+                        <div class="section-header">
+                            <h3>Lojas em Destaque</h3>
+                        </div>
+                        <div class="brands-scroll" id="brands-container">
+                            <!-- Populated by Firebase -->
+                        </div>
+                    </div>
+
+                    <!-- Coupons -->
+                    <div class="coupons-section">
+                        <div class="section-header">
+                            <h3>Cupons e Descontos</h3>
+                        </div>
+                        <!-- Filtro ativo msg se houver -->
+                        <div id="active-filter-msg"
+                            style="margin-bottom: 1rem; font-size: 0.9rem; color: var(--text-muted);"></div>
+
+                        <div class="coupons-grid" id="coupons-container">
+                            <!-- Populated by Firebase -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col brand-col">
+                    <a href="index.html" class="logo footer-logo">
+                        <i class="fa-solid fa-tags"></i> Top<span>Mais</span>
+                    </a>
+                    <p>O melhor ecossistema de cupons, ofertas e oportunidades incríveis de economia em toda a web.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Legal</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin-bottom: 0.8rem;"><a href="termos.html" style="color: inherit;">Termos de
+                                Uso</a></li>
+                        <li style="margin-bottom: 0.8rem;"><a href="privacidade.html" style="color: inherit;">Política
+                                de Privacidade</a></li>
+                        <li><a href="privacidade.html" style="color: inherit;">Cookies</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contato</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin-bottom: 0.8rem;"><a href="mailto:contato@topmaisdescontos.com"
+                                style="color: inherit;">contato@topmaisdescontos.com</a></li>
+                        <li style="margin-bottom: 0.8rem;"><a href="#" style="color: inherit;">Central de Ajuda</a></li>
+                        <li><a href="#" style="color: inherit;">Parcerias</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <p style="margin-top: 1.5rem;">&copy; 2026 TopMais Descontos E Cupons. Todos os direitos reservados.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Removed Firebase SDK as we are using local JSON caching -->
+
+    <!-- Custom JS -->
+    <script src="js/ofertas.js"></script>
+</body>
+
+</html>

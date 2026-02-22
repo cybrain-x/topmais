@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TopMais - Descontos e Cupons</title>
+    <meta name="description"
+        content="Encontre os melhores descontos, cupons e ofertas das maiores lojas online no aplicativo TopMais.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar" id="navbar">
+        <div class="container nav-content">
+            <a href="#" class="logo">
+                <i class="fa-solid fa-tags"></i> Top<span>Mais</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="#home">Início</a></li>
+                <li><a href="ofertas.html">Ofertas</a></li>
+                <li><a href="#features">Recursos</a></li>
+                <li><a href="#how-it-works">Como Funciona</a></li>
+            </ul>
+            <a href="#download" class="btn btn-primary d-none-mobile">Baixar App</a>
+
+            <button class="mobile-menu-btn" id="mobile-menu-btn">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobile-menu">
+        <div class="mobile-menu-header">
+            <a href="#" class="logo"><i class="fa-solid fa-tags"></i> Top<span>Mais</span></a>
+            <button class="close-menu" id="close-menu"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <ul class="mobile-nav-links">
+            <li><a href="#home">Início</a></li>
+            <li><a href="ofertas.html">Ofertas</a></li>
+            <li><a href="#features">Recursos</a></li>
+            <li><a href="#how-it-works">Como Funciona</a></li>
+            <li><a href="#download" class="btn btn-primary">Baixar Aplicativo</a></li>
+        </ul>
+    </div>
+
+    <!-- Hero Section -->
+    <header id="home" class="hero">
+        <div class="hero-bg-shapes">
+            <div class="shape shape-1"></div>
+            <div class="shape shape-2"></div>
+            <div class="shape shape-3"></div>
+        </div>
+        <div class="container hero-content">
+            <div class="hero-text">
+                <div class="badge">🔥 Economize todos os dias</div>
+                <h1>Os melhores <span>cupons</span> e promoções na palma da mão</h1>
+                <p>O aplicativo TopMais reúne as melhores ofertas e cupons de desconto das suas lojas favoritas.
+                    Economize em eletrônicos, moda, viagens e muito mais.</p>
+                <div class="hero-buttons">
+                    <a href="#download" class="btn btn-primary btn-large">
+                        <i class="fa-brands fa-google-play"></i> Baixar para Android
+                    </a>
+                    <a href="#download" class="btn btn-outline btn-large">
+                        <i class="fa-brands fa-apple"></i> Baixar para iOS
+                    </a>
+                </div>
+                <div class="trusted-by">
+                    <p>Milhares de ofertas de marcas como:</p>
+                    <div class="brands-row">
+                        <span>Amazon</span>
+                        <span>Magalu</span>
+                        <span>Mercado Livre</span>
+                        <span>Shopee</span>
+                        <span class="and-more">+500 lojas</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-image">
+                <!-- Simulando a interface do app num mockup simples feito com css -->
+                <div class="phone-mockup">
+                    <div class="phone-notch"></div>
+                    <div class="phone-screen">
+                        <div class="app-header">
+                            <div>Olá, Economizador 👋</div>
+                            <div class="app-avatar"><i class="fa-solid fa-user"></i></div>
+                        </div>
+                        <div class="app-search">
+                            <i class="fa-solid fa-search"></i>
+                            <span>Buscar cupons ou lojas...</span>
+                        </div>
+                        <div class="app-section-title">Lojas Populares</div>
+                        <div class="app-brands">
+                            <div class="app-brand-circle"></div>
+                            <div class="app-brand-circle"></div>
+                            <div class="app-brand-circle"></div>
+                            <div class="app-brand-circle"></div>
+                        </div>
+                        <div class="app-section-title">Melhores Cupons</div>
+                        <div class="app-coupon-card">
+                            <div class="app-coupon-shop"></div>
+                            <div class="app-coupon-title">20% de Desconto</div>
+                            <div class="app-coupon-btn">PEGAR CUPOM</div>
+                        </div>
+                        <div class="app-coupon-card">
+                            <div class="app-coupon-shop" style="background:#fce4e4;"></div>
+                            <div class="app-coupon-title">Frete Grátis</div>
+                            <div class="app-coupon-btn">ATIVAR OFERTA</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="floating-badge badge-1">
+                    <div class="badge-icon"><i class="fa-solid fa-check"></i></div>
+                    <div class="badge-text">
+                        <strong>Cupom Válido</strong>
+                        <span>Testado hoje</span>
+                    </div>
+                </div>
+
+                <div class="floating-badge badge-2">
+                    <div class="badge-icon"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                    <div class="badge-text">
+                        <strong>-40% OFF</strong>
+                        <span>Economia em alta</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Features Section -->
+    <section id="features" class="features section">
+        <div class="container">
+            <div class="section-title">
+                <h2>Por que usar o <span>TopMais</span>?</h2>
+                <p>Nós simplificamos o jeito de economizar dinheiro na internet. Veja o que preparamos para você.</p>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
+                    <h3>Ofertas Atualizadas</h3>
+                    <p>Nossa equipe atualiza os cupons diariamente para garantir que você tenha acesso apenas aos cupons
+                        que realmente funcionam.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon"><i class="fa-solid fa-bolt"></i></div>
+                    <h3>Rápido e Fácil</h3>
+                    <p>Com um layout intuitivo e busca otimizada, você encontra a sua loja e copia o desconto em poucos
+                        segundos.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon"><i class="fa-solid fa-bell"></i></div>
+                    <h3>Notificações</h3>
+                    <p>Seja o primeiro a saber das maiores promoções da internet ativando nossos alertas personalizados
+                        de ofertas.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon"><i class="fa-solid fa-shield-halved"></i></div>
+                    <h3>100% Seguro</h3>
+                    <p>Todas as lojas parceiras e links são verificados para garantir que você navegue e compre com
+                        total segurança.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section id="how-it-works" class="how-it-works section bg-light">
+        <div class="container">
+            <div class="how-it-works-content">
+                <div class="how-it-works-text">
+                    <h2>Em três passos simples você já está economizando</h2>
+
+                    <div class="steps">
+                        <div class="step">
+                            <div class="step-number">1</div>
+                            <div class="step-info">
+                                <h3>Busque a Loja</h3>
+                                <p>Abra o aplicativo TopMais e digite o nome da loja onde planeja comprar, ou explore as
+                                    categorias.</p>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">2</div>
+                            <div class="step-info">
+                                <h3>Escolha o Desconto</h3>
+                                <p>Selecione o melhor cupom ou oferta ativada com apenas um clique e os detalhes serão
+                                    revelados.</p>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">3</div>
+                            <div class="step-info">
+                                <h3>Aplique e Economize!</h3>
+                                <p>O cupom será copiado automaticamente. Cole-o no carrinho de compras da loja e veja o
+                                    preço cair.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="how-it-works-image">
+                    <div class="circle-bg"></div>
+                    <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=600&q=80"
+                        alt="Pessoa economizando compras no celular"
+                        style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1); position: relative; z-index: 2; width: 100%; max-width: 450px;">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download CTA -->
+    <section id="download" class="download section">
+        <div class="container download-container">
+            <div class="download-content">
+                <h2>Pronto para pagar mais barato?</h2>
+                <p>Junte-se a milhares de pessoas que já economizam com o TopMais. É grátis e está disponível nas lojas
+                    de aplicativos.</p>
+                <div class="download-buttons">
+                    <a href="#" class="store-btn">
+                        <i class="fa-brands fa-google-play"></i>
+                        <div class="store-info">
+                            <span>Disponível no</span>
+                            <strong>Google Play</strong>
+                        </div>
+                    </a>
+                    <a href="#" class="store-btn">
+                        <i class="fa-brands fa-apple"></i>
+                        <div class="store-info">
+                            <span>Baixar na</span>
+                            <strong>App Store</strong>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col brand-col">
+                    <a href="#" class="logo footer-logo">
+                        <i class="fa-solid fa-tags"></i> Top<span>Mais</span>
+                    </a>
+                    <p>O melhor ecossistema de cupons, ofertas e oportunidades incríveis de economia em toda a web.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="#home">Início</a></li>
+                        <li><a href="#features">Recursos</a></li>
+                        <li><a href="#how-it-works">Como Funciona</a></li>
+                        <li><a href="#download">Baixar</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="termos.html">Termos de Uso</a></li>
+                        <li><a href="privacidade.html">Política de Privacidade</a></li>
+                        <li><a href="privacidade.html">Cookies</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contato</h4>
+                    <ul>
+                        <li><a href="mailto:contato@topmaisdescontos.com">contato@topmaisdescontos.com</a></li>
+                        <li><a href="#">Central de Ajuda</a></li>
+                        <li><a href="#">Parcerias</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 TopMais Descontos E Cupons. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JS -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
