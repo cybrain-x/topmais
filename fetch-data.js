@@ -40,7 +40,8 @@ async function fetchAllData() {
                 name: data.name,
                 logo: data.logo,
                 segment: data.segment,
-                isHighlight: data.isHighlight
+                isHighlight: data.isHighlight,
+                affiliateUrl: data.affiliateUrl
             });
         });
 
@@ -71,7 +72,8 @@ async function fetchAllData() {
                 description: data.description,
                 docType: 'code',
                 categories: data.categories,
-                isHighlight: data.isHighlight
+                isHighlight: data.isHighlight,
+                affiliateUrl: data.affiliateUrl
             });
         });
 
@@ -89,7 +91,8 @@ async function fetchAllData() {
                 description: data.description,
                 docType: 'offer',
                 categories: data.categories,
-                isHighlight: data.isHighlight
+                isHighlight: data.isHighlight,
+                affiliateUrl: data.affiliateUrl
             });
         });
 
