@@ -1,838 +1,957 @@
 {
-  "lastUpdated": "2026-02-22T23:06:37.373Z",
+  "lastUpdated": "2026-02-23T07:40:02.742Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
       "name": "Sawary",
       "logo": "https://cdn.lomadee.com.br/logos/0527fd20-994b-4839-b255-341c59d25127/logo",
       "segment": "Calças",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "06442559-4031-4a43-a3c6-a6ccefe3a39f",
       "name": "Bio Bran®",
       "logo": "https://cdn.lomadee.com.br/logos/06442559-4031-4a43-a3c6-a6ccefe3a39f/logo",
       "segment": "Emagrecedores",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "06cab1e9-d372-4617-a790-b7111bda62e6",
       "name": "Aura Beauty Club",
       "logo": "https://cdn.lomadee.com.br/logos/06cab1e9-d372-4617-a790-b7111bda62e6/logo",
       "segment": "others",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "06d4e00d-d3c2-4e01-9874-5a457b5361e6",
       "name": "Atlas",
       "logo": "https://cdn.lomadee.com.br/logos/06d4e00d-d3c2-4e01-9874-5a457b5361e6/logo",
       "segment": "fogão ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "07365f74-02b7-481f-bb71-98a4929240b6",
       "name": "Soulier",
       "logo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
       "segment": "Moda geral ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1",
       "name": "Dako",
       "logo": "https://cdn.lomadee.com.br/logos/091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1/logo",
       "segment": "fogão ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "09562538-fde7-4bbf-947b-2ccebbc1c887",
       "name": "Le Loyn Parfums",
       "logo": "https://cdn.lomadee.com.br/logos/09562538-fde7-4bbf-947b-2ccebbc1c887/logo",
       "segment": "retail",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
       "name": "Concórdia Informática ",
       "logo": "https://cdn.lomadee.com.br/domain/ad31bbff-f1f1-4bd5-a75e-dc6df2f060f6/logo/padrao-perfil.png",
       "segment": "technology",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": null
     },
     {
       "id": "0ca58119-99f6-4c8d-adb4-6f0769983109",
       "name": "MegaMamute",
       "logo": "https://cdn.lomadee.com.br/logos/0ca58119-99f6-4c8d-adb4-6f0769983109/logo",
       "segment": "Eletrônicos",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "10e15c60-c43b-439c-9d53-373bb4388756",
       "name": "Lojão dos Esportes",
       "logo": "https://cdn.lomadee.com.br/logos/10e15c60-c43b-439c-9d53-373bb4388756/logo",
       "segment": "retail",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "10e724d4-c30e-4d5a-993d-5d65efd1099e",
       "name": "Sestini",
       "logo": "https://cdn.lomadee.com.br/logos/10e724d4-c30e-4d5a-993d-5d65efd1099e/logo",
       "segment": "bolsas, acessórios",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "10f46c74-c870-4a7a-a486-59d0ebd14f7c",
       "name": "Pneu Store",
       "logo": "https://cdn.lomadee.com.br/logos/10f46c74-c870-4a7a-a486-59d0ebd14f7c/logo",
       "segment": "pneu",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "1b8e4084-b123-404e-9565-b546424cf839",
       "name": "Vivavinho",
       "logo": "https://cdn.lomadee.com.br/logos/1b8e4084-b123-404e-9565-b546424cf839/logo",
       "segment": "Bebidas ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
       "name": "Drogaria Rosário",
       "logo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
       "segment": "Perfimaria e farmácia",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "20b5cefc-3f15-4d49-a046-ef56904ed270",
       "name": "AmoKarité",
       "logo": "https://cdn.lomadee.com.br/logos/20b5cefc-3f15-4d49-a046-ef56904ed270/logo",
       "segment": "others",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "24e709ab-e640-445b-864a-41223d9eab2e",
       "name": "Brinox",
       "logo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
       "segment": "Lixeiras; Potes herméticos; Organização de geladeira; Organização de pia; Caixas e cestas organizadoras. ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "2c0005fa-a3d6-4062-b0a7-ab9490101e27",
       "name": "FUNKO",
       "logo": "https://cdn.lomadee.com.br/logos/2c0005fa-a3d6-4062-b0a7-ab9490101e27/logo",
       "segment": "Colecionáveis",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "2db74df3-f709-489e-819b-9212e698bd81",
       "name": "Lenovo",
       "logo": "https://cdn.lomadee.com.br/logos/2db74df3-f709-489e-819b-9212e698bd81/logo",
       "segment": "technology",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
       "name": "Amakha Paris",
       "logo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
       "segment": "Perfumaria",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "304e46ab-9e6f-462d-87e7-9afad02997aa",
       "name": "BioVittare Farmácia de Manipulação",
       "logo": "https://cdn.lomadee.com.br/domain/3f3ddff2-6648-4a4a-84b1-62fed82cad71/logo/images%20%281%29.png",
       "segment": "1- Saúde, 2- Desempenho Físico, 3- Perda de Peso, 4- Bem-estar, 5- Beleza",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "3100c5e5-214a-4ea7-a8fe-87663b5a2830",
       "name": "Cristais Cá d'Oro",
       "logo": "https://cdn.lomadee.com.br/logos/3100c5e5-214a-4ea7-a8fe-87663b5a2830/logo",
       "segment": "Vasos decorativos",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "32f49cb0-40e1-42b7-8b18-d6fffc0e8233",
       "name": "Livrarias Curitiba",
       "logo": "https://cdn.lomadee.com.br/domain/82adeb9f-d069-4d59-9dd0-5e9f0b3d02d1/logo/logo_livrarias_curitiba.png",
       "segment": "entertainment",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "33118c59-a426-4e13-b4b4-55269d3ee516",
       "name": "Kappesberg",
       "logo": "https://cdn.lomadee.com.br/logos/33118c59-a426-4e13-b4b4-55269d3ee516/logo",
       "segment": "móveis e casa ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
       "name": "Multimóveis",
       "logo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
       "segment": "casa e decoração",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "name": "Coza",
       "logo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
       "segment": "Lixeiras; Jogos de panelas, Faqueiros, Panelas, Panelas de pressão, Facas. ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "37c909e6-2708-49a2-af42-c52782e98346",
       "name": "Continental Brasil",
       "logo": "https://cdn.lomadee.com.br/logos/37c909e6-2708-49a2-af42-c52782e98346/logo",
       "segment": "Eletrodomésticos",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "37eb2500-9232-4491-9ab1-e1880025f7e3",
       "name": "Revest Acabamentos",
       "logo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
       "segment": "retail",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "3aaea984-5d79-4b08-ad0c-d87fbe0f6631",
       "name": "Dona Coelha",
       "logo": "https://cdn.lomadee.com.br/logos/3aaea984-5d79-4b08-ad0c-d87fbe0f6631/logo",
       "segment": "sugadores",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "3ac8822c-900d-46f3-ae72-67c155a3ba99",
       "name": "Openbox2",
       "logo": "https://cdn.lomadee.com.br/domain/e2fa694d-566d-4af9-9fa7-dc4f29387eec/logo/transferir%20%281%29.jpeg",
       "segment": "Sofás, Móveis, Cadeiras",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "3ca484a7-31bf-4799-9dcb-9b4cff3d9931",
       "name": "Casa Bergan",
       "logo": "https://cdn.lomadee.com.br/logos/3ca484a7-31bf-4799-9dcb-9b4cff3d9931/logo",
       "segment": "casa e decoração",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
       "name": "Electrolux",
       "logo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
       "segment": "Eletrodomésticos, Eletroportáteis e Utilidade domésticas ",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "40167aca-ebfe-4ffd-bc01-e6778fb7aeed",
       "name": "Hunter Fan",
       "logo": "https://cdn.lomadee.com.br/logos/40167aca-ebfe-4ffd-bc01-e6778fb7aeed/logo",
       "segment": "casa e decoração",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
       "name": "Mundo Vem",
       "logo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
       "segment": "retail",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "46799ce3-0050-4047-b92c-0dc558b97597",
       "name": "Le Postiche",
       "logo": "https://cdn.lomadee.com.br/logos/46799ce3-0050-4047-b92c-0dc558b97597/logo",
       "segment": "Mala e Bolsas",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "47bd349b-102f-408e-957c-dd0f5a5a82fe",
       "name": "Super Pro Atacado",
       "logo": "https://cdn.lomadee.com.br/logos/47bd349b-102f-408e-957c-dd0f5a5a82fe/logo",
       "segment": "--",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "4a2f41d4-099d-4c8d-a003-5a37bef52ac8",
       "name": "Hipervarejo",
       "logo": "https://cdn.lomadee.com.br/logos/4a2f41d4-099d-4c8d-a003-5a37bef52ac8/logo",
       "segment": "others",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": null
     },
     {
       "id": "4b1dfe18-3393-45b2-a159-00dfcb6d3405",
       "name": "CervejaBox",
       "logo": "https://cdn.lomadee.com.br/logos/4b1dfe18-3393-45b2-a159-00dfcb6d3405/logo",
       "segment": "Cervejas Artesanais, Cervejas Importadas, Cervejas de Trigo",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "4bba0baf-4bb3-425e-b798-7c593382d501",
       "name": "Inpower",
       "logo": "https://cdn.lomadee.com.br/logos/4bba0baf-4bb3-425e-b798-7c593382d501/logo",
       "segment": "Eletrodomésticos, Eletrônicos, Eletroportáteis, Beleza, Periféricos",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "4df457ad-c0ca-469d-8608-7bb9620392fa",
       "name": "Angeloni",
       "logo": "https://cdn.lomadee.com.br/logos/4df457ad-c0ca-469d-8608-7bb9620392fa/logo",
       "segment": "Eletrodom, Moda Casa, Smart TV, Eletroportáteis",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": null
     },
     {
       "id": "50576b61-e281-4518-b03f-ddbe75c5bc68",
       "name": "Lauri Esporte",
       "logo": "https://cdn.lomadee.com.br/logos/50576b61-e281-4518-b03f-ddbe75c5bc68/logo",
       "segment": "fashion",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "5c3bec7a-fe41-40bb-9a16-684289117b36",
       "name": "Mérito Comercial",
       "logo": "https://cdn.lomadee.com.br/logos/5c3bec7a-fe41-40bb-9a16-684289117b36/logo",
       "segment": "Bombas de água, Pressurizadores de água, Construção civil, Piscinas",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "5c9d64b4-a490-41d0-9106-26598526f600",
       "name": "Shein",
       "logo": "https://cdn.lomadee.com.br/logos/5c9d64b4-a490-41d0-9106-26598526f600/logo",
       "segment": "fashion",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "62359668-947b-4289-beb7-ce4544fca8c8",
       "name": "Basicamente",
       "logo": "https://cdn.lomadee.com.br/logos/62359668-947b-4289-beb7-ce4544fca8c8/logo",
       "segment": "Camisetas, blusas e calças",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
       "name": "Shopclub",
       "logo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
       "segment": "Mídia",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "6877a08a-be27-4b5d-844e-db4689a58256",
       "name": "Vestis",
       "logo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
       "segment": "roupas infantis",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "name": "Océane",
       "logo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
       "segment": "others",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
       "name": "Camisaria Colombo",
       "logo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
       "segment": "Camisas (sociais, polo, camisetas), ternos, blazers,  paletós, calças sociais, bermudas, jaquetas, malhas, sobretudos e pijamas",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "6cdaf021-1c18-4a3f-9548-db5bbd7dbdf6",
       "name": "Uber",
       "logo": "https://cdn.lomadee.com.br/logos/6cdaf021-1c18-4a3f-9548-db5bbd7dbdf6/logo",
       "segment": "Aplicativo de mobilidade",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "6d69265c-6b83-4ff4-916f-95a75057947d",
       "name": "PromoFarma",
       "logo": "https://cdn.lomadee.com.br/logos/6d69265c-6b83-4ff4-916f-95a75057947d/logo",
       "segment": "remédios e cosméticos",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "72c7bcf2-06a1-4d5a-80f5-6864950498aa",
       "name": "DPaschoal",
       "logo": "https://cdn.lomadee.com.br/domain/f513e0e2-b984-4df0-909a-44d3632b83c5/logo/images.jpeg",
       "segment": "Pneu",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "7595dee7-e09b-485a-9853-4fb3fc380c11",
       "name": "Allever",
       "logo": "https://cdn.lomadee.com.br/domain/dfdeaff6-794a-4d4a-864c-7e9c8b43c78e/logo/transferir%20%282%29%20%281%29.png",
       "segment": "Somos um marketplace, vai variando de acordo com nossos sellers.",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "77936e43-fa01-4b39-b22d-f0e729b22aed",
       "name": "Hugart ",
       "logo": "https://cdn.lomadee.com.br/logos/77936e43-fa01-4b39-b22d-f0e729b22aed/logo",
       "segment": "Quadros",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "784b9d36-c373-4bf3-86d4-b1ca859e1ebe",
       "name": "Vittal Calçados",
       "logo": "https://cdn.lomadee.com.br/logos/784b9d36-c373-4bf3-86d4-b1ca859e1ebe/logo",
       "segment": "fashion",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "79084ddb-bc21-40a1-955e-e19716e16493",
       "name": "NutriBullet",
       "logo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
       "segment": "Eletrodomésticos",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
       "name": "TeraByte",
       "logo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
       "segment": "Hardware, Notebokk, Monitores PC Gamer",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "7d64bc79-584c-4621-9cc4-754c0f95647a",
       "name": "Sou Nuaá",
       "logo": "https://cdn.lomadee.com.br/logos/7d64bc79-584c-4621-9cc4-754c0f95647a/logo",
       "segment": "fashion",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "7f241a92-3f89-4346-86ab-babace37ef8a",
       "name": "Ferramentas Kennedy",
       "logo": "https://cdn.lomadee.com.br/domain/cf2a1a22-c19c-47c6-acce-ae90c482a13a/logo/transferir.png",
       "segment": "casa e construção ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "7fc90997-0db2-46e2-8a73-882d1cf5affc",
       "name": "Clovis Calçados",
       "logo": "https://cdn.lomadee.com.br/logos/7fc90997-0db2-46e2-8a73-882d1cf5affc/logo",
       "segment": "Moda geral ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "82a47f39-ab51-476b-b32e-59e01034298f",
       "name": "Basico.com",
       "logo": "https://cdn.lomadee.com.br/logos/82a47f39-ab51-476b-b32e-59e01034298f/logo",
       "segment": "Camisetas, calças e blusas",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "83655185-8ee0-4011-a70b-a733a8237ed5",
       "name": "Sottile Casa",
       "logo": "https://cdn.lomadee.com.br/logos/83655185-8ee0-4011-a70b-a733a8237ed5/logo",
       "segment": "casa e decoração",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "836cf386-910f-4065-a9d5-bfb1d18731d6",
       "name": "Guess Brasil",
       "logo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
       "segment": "Acessórios, calça jeans , camisetas",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "83f1f988-d5ca-489a-938d-1bcd2824f448",
       "name": "Cirurgica Sinete",
       "logo": "https://cdn.lomadee.com.br/logos/83f1f988-d5ca-489a-938d-1bcd2824f448/logo",
       "segment": "curativos",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "85fc5beb-4fe9-45a7-b554-80e90374f0db",
       "name": "Drogaria Pacheco",
       "logo": "https://cdn.lomadee.com.br/logos/85fc5beb-4fe9-45a7-b554-80e90374f0db/logo",
       "segment": "Medicamentos ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "91f3bc9c-f784-4e69-8290-ff3e7052f3f7",
       "name": "Empório Craft",
       "logo": "https://cdn.lomadee.com.br/logos/91f3bc9c-f784-4e69-8290-ff3e7052f3f7/logo",
       "segment": "Moda Feminina ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "95bc78d7-7b96-4be7-a148-de59dd0209da",
       "name": "Serallê Calçados",
       "logo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
       "segment": "calçados",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "9792a968-df58-42fc-b112-b97d174c78ae",
       "name": "Drogaria São Paulo",
       "logo": "https://cdn.lomadee.com.br/logos/9792a968-df58-42fc-b112-b97d174c78ae/logo",
       "segment": "Medicamentos ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "98afcf91-599a-47fc-9e6d-b1d77396c85a",
       "name": "Aéropostale Brasil",
       "logo": "https://cdn.lomadee.com.br/logos/98afcf91-599a-47fc-9e6d-b1d77396c85a/logo",
       "segment": "Moda",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "99d04b75-a41a-4c87-a016-543c7e3634f3",
       "name": "Shopinfo",
       "logo": "https://cdn.lomadee.com.br/logos/99d04b75-a41a-4c87-a016-543c7e3634f3/logo",
       "segment": "Pc gamer, Acessórios gamer e Hardware",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "99e48d06-96e6-433c-a392-ca29582dbe2e",
       "name": "WebBar",
       "logo": "https://cdn.lomadee.com.br/logos/99e48d06-96e6-433c-a392-ca29582dbe2e/logo",
       "segment": "Bebidas alcoólicas e utensílios de bar",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "9a504d2e-80ab-4403-a096-eb07a2ee104b",
       "name": "bringIT",
       "logo": "https://cdn.lomadee.com.br/logos/9a504d2e-80ab-4403-a096-eb07a2ee104b/logo",
       "segment": "Baterias, telas, teclados e fontes para notebooks.",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
       "name": "Ortope",
       "logo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
       "segment": "Moda geral ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "9ad41f3f-431f-44e9-bf4c-ead611331557",
       "name": "Up4you",
       "logo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
       "segment": "malas e mochilas",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
       "name": "BALAROTI",
       "logo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
       "segment": "retail",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "9efd44a3-ec80-488e-afe3-86b2394d5f93",
       "name": "WSS Brasil",
       "logo": "https://cdn.lomadee.com.br/logos/9efd44a3-ec80-488e-afe3-86b2394d5f93/logo",
       "segment": "corta vento",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "9f31e73d-bdcb-441a-b793-047fc282561b",
       "name": "Sono Show Móveis",
       "logo": "https://cdn.lomadee.com.br/logos/9f31e73d-bdcb-441a-b793-047fc282561b/logo",
       "segment": "Móveis",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "a0124a6a-c622-4b7d-a560-bc75a515b542",
       "name": "Kidy Calçados",
       "logo": "https://cdn.lomadee.com.br/logos/a0124a6a-c622-4b7d-a560-bc75a515b542/logo",
       "segment": "Moda Infantil",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "a4ea6ed5-0ffd-4ee7-b0eb-f6073dc4fc12",
       "name": "Sieno Perfumes",
       "logo": "https://cdn.lomadee.com.br/logos/a4ea6ed5-0ffd-4ee7-b0eb-f6073dc4fc12/logo",
       "segment": "Perfumaria ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "a7e37619-acd3-4617-9475-5ffaeaad404b",
       "name": "Desconto Aqui",
       "logo": "https://cdn.lomadee.com.br/domain/1a26878a-b0c2-4ba0-98a6-0aa12d35afe0/logo/logo_descontoaqui.png",
       "segment": "entertainment",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "name": "Nobelpack",
       "logo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
       "segment": "Alimentos ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "b08af64e-f7bd-434c-b0ac-6baec265f9fc",
       "name": "BabyStock",
       "logo": "https://cdn.lomadee.com.br/logos/b08af64e-f7bd-434c-b0ac-6baec265f9fc/logo",
       "segment": "Carrinho de Bebê, Berço, Cadeira de Carro, Bebê Conforto",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
       "name": "Casa das Alianças",
       "logo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
       "segment": "retail",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": null
     },
     {
       "id": "b8f2afcf-809e-4df9-8b13-4bbc49c1607b",
       "name": "Hopi Hari",
       "logo": "https://cdn.lomadee.com.br/logos/b8f2afcf-809e-4df9-8b13-4bbc49c1607b/logo",
       "segment": "entertainment",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "b9964938-0c46-4b54-8069-2176b382a260",
       "name": "Disney",
       "logo": "https://cdn.lomadee.com.br/logos/b9964938-0c46-4b54-8069-2176b382a260/logo",
       "segment": "Streaming",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
       "name": "Gazin",
       "logo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
       "segment": "Móveis, Eletrodomésticos",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "bbe8757f-7781-436c-a63d-aa86495a6a81",
       "name": "Rovitex",
       "logo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
       "segment": "roupas femininas",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "bc1e8bb8-4a4d-4b7e-b276-2e4834d0b87a",
       "name": "UVLine",
       "logo": "https://cdn.lomadee.com.br/logos/bc1e8bb8-4a4d-4b7e-b276-2e4834d0b87a/logo",
       "segment": "fashion",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "c364d4e3-56e2-4da9-a6ea-195716da559a",
       "name": "Malwee",
       "logo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
       "segment": "Roupas femininas, masculinas e infantis",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "c81b9941-774e-4960-abd7-19b8f32f85c9",
       "name": "Brandili",
       "logo": "https://cdn.lomadee.com.br/logos/c81b9941-774e-4960-abd7-19b8f32f85c9/logo",
       "segment": "moda",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "c9c0e78c-648a-4e8d-897a-3e9492e301b0",
       "name": "Skeptic",
       "logo": "https://cdn.lomadee.com.br/logos/c9c0e78c-648a-4e8d-897a-3e9492e301b0/logo",
       "segment": "fashion",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "ca85cb50-d5f9-4b8b-8c08-70e2dbc9ca75",
       "name": "China in Box",
       "logo": "https://cdn.lomadee.com.br/logos/ca85cb50-d5f9-4b8b-8c08-70e2dbc9ca75/logo",
       "segment": "Yakisoba, Bowls e promoções",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "cb4ebfb0-1586-446d-a86b-b894d92d4dea",
       "name": "Mobly",
       "logo": "https://cdn.lomadee.com.br/logos/cb4ebfb0-1586-446d-a86b-b894d92d4dea/logo",
       "segment": "móveis e casa ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "cda2b486-0ba6-4be9-8944-5d5096735e03",
       "name": "Buddha SPA",
       "logo": "https://cdn.lomadee.com.br/logos/cda2b486-0ba6-4be9-8944-5d5096735e03/logo",
       "segment": "others",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "cea83ab5-dadb-43d0-ae6a-23843a813fda",
       "name": "Mais Mu",
       "logo": "https://cdn.lomadee.com.br/domain/d2434228-2fc2-4bfe-bcbe-96df49101a16/logo/transferir%20%282%29.jpeg",
       "segment": "food",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "d57eba55-b8ba-4e25-87fc-3dcc9eb92c30",
       "name": "Maria Pia Casa",
       "logo": "https://cdn.lomadee.com.br/logos/d57eba55-b8ba-4e25-87fc-3dcc9eb92c30/logo",
       "segment": "Casa e decoração",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "d676d9b8-e52f-4ea1-bf2f-d98cd563418e",
       "name": "Editora Foco",
       "logo": "https://cdn.lomadee.com.br/logos/d676d9b8-e52f-4ea1-bf2f-d98cd563418e/logo",
       "segment": "livros ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "d7c69905-cbd0-4e09-be4a-e8cd447826e2",
       "name": "Hostinger",
       "logo": "https://cdn.lomadee.com.br/logos/d7c69905-cbd0-4e09-be4a-e8cd447826e2/logo",
       "segment": "outros ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "d855f505-7e26-4961-a182-c2139aeadd2c",
       "name": "Drogasmil",
       "logo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
       "segment": "Perfimaria e farmácia",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "d9a040f8-bb54-40d2-804b-150f007305d0",
       "name": "Toymania",
       "logo": "https://cdn.lomadee.com.br/logos/d9a040f8-bb54-40d2-804b-150f007305d0/logo",
       "segment": "Brinquedos ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "d9e55e63-80f1-4918-b057-cb511a82ee0b",
       "name": "Remessa Online",
       "logo": "https://cdn.lomadee.com.br/logos/d9e55e63-80f1-4918-b057-cb511a82ee0b/logo",
       "segment": "Câmbio PF e PJ",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "db8f0553-4f5d-4f94-8b40-dbe6f0cbecbc",
       "name": "Laluna",
       "logo": "https://cdn.lomadee.com.br/logos/db8f0553-4f5d-4f94-8b40-dbe6f0cbecbc/logo",
       "segment": "Moda Infantil",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "de93faa0-5a21-46b6-a1eb-ff6ef1c23779",
       "name": "Candide",
       "logo": "https://cdn.lomadee.com.br/logos/de93faa0-5a21-46b6-a1eb-ff6ef1c23779/logo",
       "segment": "Brinquedos ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "df3a5d1f-150c-4ce8-9b98-cf85dad06b6d",
       "name": "Honor",
       "logo": "https://cdn.lomadee.com.br/logos/df3a5d1f-150c-4ce8-9b98-cf85dad06b6d/logo",
       "segment": "Smartphone e acessórios ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "e03cdaaf-233d-4019-9171-0e12be587de0",
       "name": "Vapza Alimentos",
       "logo": "https://cdn.lomadee.com.br/logos/e03cdaaf-233d-4019-9171-0e12be587de0/logo",
       "segment": "Proteínas",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "e198615b-4c17-4180-b06f-43376f162714",
       "name": "Amoedo",
       "logo": "https://cdn.lomadee.com.br/logos/e198615b-4c17-4180-b06f-43376f162714/logo",
       "segment": "Casa e Construção",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
       "name": "DL COMERCIO E INDUSTRIA DE PRODUTOS ELETRONICOS LTDA",
       "logo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
       "segment": "technology",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "e2c06410-a5e3-47c1-bcb2-d5f65f355c4f",
       "name": "Relax Saboaria",
       "logo": "https://cdn.lomadee.com.br/logos/e2c06410-a5e3-47c1-bcb2-d5f65f355c4f/logo",
       "segment": "health",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "e36f5bbb-3e5f-42e2-be4c-6c32dac101c2",
       "name": "Friopeças",
       "logo": "https://cdn.lomadee.com.br/domain/20c67e3a-df8b-452d-ad7b-78167fcf350d/logo/logotipo_friopecas_positivo_apenas_icone.png",
       "segment": "Ar Condicionado, Eletrodomésticos",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "e556ed73-0e02-421e-9393-860b040bfbb7",
       "name": "Prime Video",
       "logo": "https://cdn.lomadee.com.br/logos/e556ed73-0e02-421e-9393-860b040bfbb7/logo",
       "segment": "serviços ",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "e5f81b99-b74b-488f-9fd8-ef44e2c7aa87",
       "name": "Webfones",
       "logo": "https://cdn.lomadee.com.br/domain/f9b6c3e0-094a-4bc0-8881-d50771cf1f0d/logo/transferir.png",
       "segment": "Celular",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
       "name": "Simple Organic",
       "logo": "https://cdn.lomadee.com.br/logos/e783798e-b219-48d6-9855-a7ad62d1d2c6/logo",
       "segment": "Skin care",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "eb6d987f-29a4-41ef-a47f-ae133e736df0",
       "name": "Tiktok",
       "logo": "https://cdn.lomadee.com.br/logos/eb6d987f-29a4-41ef-a47f-ae133e736df0/logo",
       "segment": "entertainment",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "ecd9089c-0147-41aa-b974-bdfbf220a3d4",
       "name": "Catran",
       "logo": "https://cdn.lomadee.com.br/logos/ecd9089c-0147-41aa-b974-bdfbf220a3d4/logo?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATVQUII3UDY5Y5RWK%2F20250715%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250715T190847Z&X-Amz-Expires=3600&X-Amz-Signature=d05925c4b93544e75e0fdf075bf37242a2c721e852cbbe5c3f9ab6c8520fe30f&X-Amz-SignedHeaders=host&x-amz-checksum-crc32=AAAAAA%3D%3D&x-amz-sdk-checksum-algorithm=CRC32&x-id=PutObject",
       "segment": "retail",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "eea9e7f4-4b3a-4ef1-ab69-c2f550b6bc84",
       "name": "Cicatrissim",
       "logo": "https://cdn.lomadee.com.br/logos/eea9e7f4-4b3a-4ef1-ab69-c2f550b6bc84/logo",
       "segment": "creme para estria",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "efd916a7-faa3-417b-8581-d3afe03e849c",
       "name": "Líquido",
       "logo": "https://cdn.lomadee.com.br/logos/efd916a7-faa3-417b-8581-d3afe03e849c/logo",
       "segment": "Moda Praia, Moda Fitness",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "f2a38420-a743-49f0-845f-9e5b9175af0e",
       "name": "Estuda.com",
       "logo": "https://cdn.lomadee.com.br/logos/f2a38420-a743-49f0-845f-9e5b9175af0e/logo",
       "segment": "Aprovado e Premium med",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "f31e32be-c116-4739-85a3-43f85681b237",
       "name": "Móveis Carraro",
       "logo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
       "segment": "Sala de jantar, cozinhas, guarda roupas, complementos ",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "f7c95e90-30b4-4d04-a699-66ee8ba3321e",
       "name": "Kärcher",
       "logo": "https://cdn.lomadee.com.br/logos/f7c95e90-30b4-4d04-a699-66ee8ba3321e/logo",
       "segment": "Lavadoras de Alta Pressão, Aspiradores de Pó, Robôs Aspiradores, Limpadoras de Piso",
-      "isHighlight": true
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "f901efab-f85c-4546-bacc-375795b8c52d",
       "name": "Descomplica",
       "logo": "https://cdn.lomadee.com.br/logos/f901efab-f85c-4546-bacc-375795b8c52d/logo",
       "segment": "education",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "f95df605-7a9a-46f1-a28c-0db195b113d7",
       "name": "ARTEX",
       "logo": "https://cdn.lomadee.com.br/logos/f95df605-7a9a-46f1-a28c-0db195b113d7/logo",
       "segment": "casa e decoração",
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     }
   ],
   "categories": [
@@ -1461,7 +1580,8 @@
       "categories": [
         "promotions"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/rfCOnMe9Le2I"
     },
     {
       "id": "6883e5c7f128d6ae13ce2d4c",
@@ -1474,7 +1594,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0ZGKXU5xScKT"
     },
     {
       "id": "689cabde523d22be3ee2074a",
@@ -1490,7 +1611,8 @@
         "health",
         "beauty-and-fashion"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/FQiZDkFd9rgC"
     },
     {
       "id": "689cac3c523d22be3ee20798",
@@ -1506,7 +1628,8 @@
         "promotions",
         "health"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/pyVhUK2LqoBN"
     },
     {
       "id": "689cade76317b5d11c45bb31",
@@ -1522,7 +1645,8 @@
         "promotions",
         "health"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/AyjgPbNeao8Y"
     },
     {
       "id": "68a3777150495baae2902764",
@@ -1535,7 +1659,8 @@
       "categories": [
         "health"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/T5TxKhDgU3T8"
     },
     {
       "id": "68a8b50d50495baae291fecb",
@@ -1548,7 +1673,8 @@
       "categories": [
         "auto-and-accessories"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/aleKuAWTenzF"
     },
     {
       "id": "68a8d0bf50495baae2921314",
@@ -1561,7 +1687,8 @@
       "categories": [
         "beauty-and-fashion"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/iCRmBeW2OwdU"
     },
     {
       "id": "68b602ed38852b03f68734ba",
@@ -1575,7 +1702,8 @@
         "beauty-and-fashion",
         "sports"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Jry5GaeoLyvk"
     },
     {
       "id": "68b830ee38852b03f687e5d0",
@@ -1588,7 +1716,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4pnC5mU1GmSN"
     },
     {
       "id": "68b8320638852b03f687e711",
@@ -1601,7 +1730,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/gp-QldE1dbIT"
     },
     {
       "id": "68b83ca538852b03f687ef6f",
@@ -1614,7 +1744,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2TD6e4J5Kukn"
     },
     {
       "id": "68c30c5138852b03f68a6c4b",
@@ -1627,7 +1758,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QYLOt3BabF2K"
     },
     {
       "id": "68c30c9c38852b03f68a6c9b",
@@ -1640,7 +1772,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Il-LPByHnf-t"
     },
     {
       "id": "68c30cf338852b03f68a6cc4",
@@ -1653,7 +1786,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/wRIthFVReoC3"
     },
     {
       "id": "68c30d5238852b03f68a6d1f",
@@ -1666,7 +1800,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JdLyYnSzEA50"
     },
     {
       "id": "68c80c0d631d277534d92972",
@@ -1679,7 +1814,8 @@
       "categories": [
         "beauty-and-fashion"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/xXUuCGRKNZWG"
     },
     {
       "id": "68d305af491446fa3e3e97c9",
@@ -1692,7 +1828,8 @@
       "categories": [
         "education"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "68dd36ca82966cc3f8104231",
@@ -1705,7 +1842,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/sswE1Vmhgq02"
     },
     {
       "id": "68dd375082966cc3f8104266",
@@ -1718,7 +1856,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/wVYVYpJjIPTb"
     },
     {
       "id": "68e40171329c7250822e27c3",
@@ -1729,7 +1868,8 @@
       "description": "10% OFF",
       "docType": "code",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/oR83TK6C6XLG"
     },
     {
       "id": "68e81e6b329c7250822f0c1b",
@@ -1742,7 +1882,8 @@
       "categories": [
         "auto-and-accessories"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "68e8f84f329c7250822f2543",
@@ -1755,7 +1896,8 @@
       "categories": [
         "animals"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qJetPNOwJ4n5"
     },
     {
       "id": "68e97f29329c7250822f4b5c",
@@ -1768,7 +1910,8 @@
       "categories": [
         "fashion"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0Sc2HRzsBuXm"
     },
     {
       "id": "68f0f7dbc4e5f8982e845b7a",
@@ -1792,7 +1935,8 @@
         "sex-shop",
         "art-and-culture"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/uNlLxq8Io3Nu"
     },
     {
       "id": "6900e4cb3237b884e03cc48f",
@@ -1811,7 +1955,8 @@
         "infant-products",
         "promotions"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bYpO-6NE-AdT"
     },
     {
       "id": "6900e57f3237b884e03cc4b6",
@@ -1824,7 +1969,8 @@
       "categories": [
         "books-and-literature"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2pWFA03nc7Bl"
     },
     {
       "id": "690a5c97863530405cc2800a",
@@ -1837,7 +1983,8 @@
       "categories": [
         "fashion"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ebFyipqnjqRe"
     },
     {
       "id": "690b957841ccb95471fa57db",
@@ -1848,7 +1995,8 @@
       "description": "10% off em planos de hospedagem de 12 meses ou mais (apenas para novos usuários)",
       "docType": "code",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "690b95a141ccb95471fa57f3",
@@ -1859,7 +2007,8 @@
       "description": "10% off em planos de VPS n8n de 12 meses ou mais (apenas para novos usuários)",
       "docType": "code",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "690b95c641ccb95471fa580f",
@@ -1870,7 +2019,8 @@
       "description": "10% off em domínios (apenas para novos usuários)",
       "docType": "code",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "690b95e041ccb95471fa582f",
@@ -1881,7 +2031,8 @@
       "description": "10% off em planos Hostinger Reach de 12 meses ou mais (apenas para novos usuários)",
       "docType": "code",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "690b960041ccb95471fa5857",
@@ -1892,7 +2043,8 @@
       "description": "10% off em planos Hostinger Horizons de 12 meses ou mais (apenas para novos usuários)",
       "docType": "code",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "690ce547978648de25b62714",
@@ -1907,7 +2059,8 @@
         "fashion",
         "woman"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/H0JcorG7IMRY"
     },
     {
       "id": "6911df0f978648de25b6d8d4",
@@ -1922,7 +2075,8 @@
         "promotions",
         "industry-and-commerce"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/k6fcRxr6PuWo"
     },
     {
       "id": "69175614bd96b991f002a68c",
@@ -1933,7 +2087,8 @@
       "description": "10% de desconto no site todo",
       "docType": "code",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/LYSdG06NlWnr"
     },
     {
       "id": "691cc7565c32e12ef0c36746",
@@ -1946,7 +2101,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-vb2sbgEvTYo"
     },
     {
       "id": "691e23c95c32e12ef0c3e306",
@@ -1959,7 +2115,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/q6p68Cu02zGC"
     },
     {
       "id": "69249ef60d010e658c7d26df",
@@ -1972,7 +2129,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/zcQkozzno9YG"
     },
     {
       "id": "692745c90d010e658c7e21cf",
@@ -1985,7 +2143,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ang-Z5n5UEZx"
     },
     {
       "id": "692f45081eb93c75edd3c1b0",
@@ -1996,7 +2155,8 @@
       "description": "5% de desconto em todo o site",
       "docType": "code",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "693051661eb93c75edd3f346",
@@ -2009,7 +2169,8 @@
       "categories": [
         "food-and-beverages"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ImYUfOe3wmdf"
     },
     {
       "id": "693051861eb93c75edd3f374",
@@ -2022,7 +2183,8 @@
       "categories": [
         "food-and-beverages"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JIr5QJ5CWlSk"
     },
     {
       "id": "693c5658f5a9c9dea4dee9f5",
@@ -2036,7 +2198,8 @@
         "auto-and-accessories",
         "services"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "695e395724150750588b233d",
@@ -2049,7 +2212,8 @@
       "categories": [
         "beauty"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/koptTnBA3y5c"
     },
     {
       "id": "695ec47424150750588b77b7",
@@ -2063,7 +2227,8 @@
         "education",
         "infant-products"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bHgRgl34owIp"
     },
     {
       "id": "696a51b024150750588e5674",
@@ -2078,7 +2243,8 @@
         "promotions",
         "shopping"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "696a8f7724150750588e8810",
@@ -2092,7 +2258,8 @@
         "home-and-decoration",
         "promotions"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/oc0ykj74Lt7b"
     },
     {
       "id": "696e51a824150750588f36a0",
@@ -2105,7 +2272,8 @@
       "categories": [
         "education"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Vi3OAYYws3VH"
     },
     {
       "id": "696e520224150750588f36b6",
@@ -2118,7 +2286,8 @@
       "categories": [
         "education"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7ABqJZ4ZU10X"
     },
     {
       "id": "696e524f24150750588f36cf",
@@ -2131,7 +2300,8 @@
       "categories": [
         "education"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bbnPsCJQEKYR"
     },
     {
       "id": "696fa7c424150750588f8dbe",
@@ -2144,7 +2314,8 @@
       "categories": [
         "sports"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/purmNj6C1rge"
     },
     {
       "id": "6972245fa3075d050fcfb658",
@@ -2157,7 +2328,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/wmZ9NMiyrpza"
     },
     {
       "id": "69722911a3075d050fcfb8b0",
@@ -2170,7 +2342,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/gTdrfMHfaakA"
     },
     {
       "id": "697a1a75f7a443e01308b4a2",
@@ -2183,7 +2356,8 @@
       "categories": [
         "food-and-beverages"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bAl9h8c1nmmO"
     },
     {
       "id": "697bc4668c4a76c20ce3895e",
@@ -2196,7 +2370,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EtvgDx5RP2kq"
     },
     {
       "id": "697bc7568c4a76c20ce38b00",
@@ -2209,7 +2384,8 @@
       "categories": [
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/u-9euvpyjoxS"
     },
     {
       "id": "6984d6b38c4a76c20ce6231d",
@@ -2223,7 +2399,8 @@
         "shopping",
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/uz2iG8TxDySa"
     },
     {
       "id": "698a0b3f8c4a76c20ce74eae",
@@ -2236,7 +2413,8 @@
       "categories": [
         "internet-and-technology"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/s1v9lPCTIVGy"
     },
     {
       "id": "698a0b8f8c4a76c20ce74ee1",
@@ -2249,20 +2427,8 @@
       "categories": [
         "internet-and-technology"
       ],
-      "isHighlight": false
-    },
-    {
-      "id": "698cc9d88c4a76c20ce81350",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "code": "CARNAVAL",
-      "description": "Promoção de Carnaval",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1LRNTDYkxrv4"
     },
     {
       "id": "698f3ef78c4a76c20ce8c1ef",
@@ -2275,20 +2441,8 @@
       "categories": [
         "education"
       ],
-      "isHighlight": false
-    },
-    {
-      "id": "69936d8c8c4a76c20ce9a6ae",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "FOLIADEOFERTAS",
-      "description": "Cupom 10% ",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "69970dcb8c4a76c20cea8c5a",
@@ -2302,7 +2456,8 @@
         "shopping",
         "home-and-decoration"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/cXBiKf8cvcqf"
     },
     {
       "id": "699714a08c4a76c20cea8e64",
@@ -2316,7 +2471,8 @@
         "beauty",
         "shopping"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vH3e5EJ7ytWw"
     },
     {
       "id": "699714e38c4a76c20cea8eaa",
@@ -2330,7 +2486,8 @@
         "beauty",
         "shopping"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/CvLw5MjO7nUj"
     },
     {
       "id": "699715298c4a76c20cea8efc",
@@ -2344,10 +2501,71 @@
         "beauty",
         "shopping"
       ],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XRNBe7xiS6VM"
     }
   ],
   "offers": [
+    {
+      "id": "68fb901fc4e5f8982e85fbb5",
+      "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
+      "brandName": "Casa das Alianças",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
+      "name": "Ofertas Casa das Alianças",
+      "description": "Ofertas Casa das Alianças",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "68fb9133c4e5f8982e85fbe4",
+      "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
+      "brandName": "Casa das Alianças",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
+      "name": "Encontre a sua aliança perfeita",
+      "description": "Encontre a sua aliança perfeita",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6901055c3237b884e03ccb97",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Coleção Alto Verão",
+      "description": "Coleção Alto Verão",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/X05PyPLPEVK4"
+    },
+    {
+      "id": "690252053237b884e03d05bb",
+      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
+      "brandName": "DL COMERCIO E INDUSTRIA DE PRODUTOS ELETRONICOS LTDA",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
+      "name": "10%OFF - Smartwatches Selecionados",
+      "description": "10%OFF - Smartwatches Selecionados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QSkot9kVEvtG"
+    },
+    {
+      "id": "690b5525863530405cc2add9",
+      "brandId": "9efd44a3-ec80-488e-afe3-86b2394d5f93",
+      "brandName": "WSS Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9efd44a3-ec80-488e-afe3-86b2394d5f93/logo",
+      "name": "Black November WSS Brasil",
+      "description": "Black November WSS Brasil",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/t9sRHYphkV9Z"
+    },
     {
       "id": "690ccdc1978648de25b61c71",
       "brandId": "c9c0e78c-648a-4e8d-897a-3e9492e301b0",
@@ -2357,7 +2575,8 @@
       "description": "Camisetas OVERSIZED a partir de R$ 109,90",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2yU89Kb7TBGQ"
     },
     {
       "id": "690ded38978648de25b66098",
@@ -2368,7 +2587,8 @@
       "description": "Story Esquenta Black Friday Sem 2 - versão 1",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Asxs0IQNf0jn"
     },
     {
       "id": "690ded69978648de25b660d5",
@@ -2379,7 +2599,8 @@
       "description": "Feed Esquenta Black Friday Sem 2 - versão 2 ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JTjyk8quQHVU"
     },
     {
       "id": "690deda9978648de25b66122",
@@ -2390,7 +2611,8 @@
       "description": "Story Esquenta Black Friday Sem 2 - versão 2",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/SDutHAd6J-GY"
     },
     {
       "id": "690dedd8978648de25b6615c",
@@ -2401,7 +2623,8 @@
       "description": "Feed Esquenta Black Friday Sem 2 - versão 3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/AzGcb2WCfhBY"
     },
     {
       "id": "690dedf9978648de25b66186",
@@ -2412,7 +2635,8 @@
       "description": "Story Esquenta Black Friday Sem 2 - versão 3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JDgZjc07oIPq"
     },
     {
       "id": "690df59a978648de25b665ce",
@@ -2423,7 +2647,8 @@
       "description": "Black November Vapza",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/sUJrCKlpKl8G"
     },
     {
       "id": "690df828978648de25b6664b",
@@ -2434,7 +2659,8 @@
       "description": "Black November Vapza - Kits",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9LuV8SpGmXDP"
     },
     {
       "id": "6911dc6d978648de25b6d7ab",
@@ -2445,7 +2671,8 @@
       "description": "Black November - Revest Acabamentos",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Ss3m5xnJSoWQ"
     },
     {
       "id": "6911dcd7978648de25b6d7cb",
@@ -2456,7 +2683,8 @@
       "description": "Metais Coloridos - Black November",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EHoY99TN8MrM"
     },
     {
       "id": "6911dd1b978648de25b6d7d9",
@@ -2467,7 +2695,8 @@
       "description": "Pisos e Porcelanatos - Black November",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mm0UfaBlDohe"
     },
     {
       "id": "6911dd54978648de25b6d7f1",
@@ -2478,7 +2707,8 @@
       "description": "Black on Black",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XPWewZndj3Bt"
     },
     {
       "id": "6911dd98978648de25b6d841",
@@ -2489,7 +2719,8 @@
       "description": "LEVO - Black November",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/nQUNPCBOS82L"
     },
     {
       "id": "6911dde8978648de25b6d85f",
@@ -2500,7 +2731,8 @@
       "description": "Preço de Black",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EFX7vAZYXm3v"
     },
     {
       "id": "6915db77bd96b991f002569a",
@@ -2511,7 +2743,8 @@
       "description": "Roupas e calçados",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/aW9Ct1k6I3RD"
     },
     {
       "id": "6915dd0dbd96b991f0025744",
@@ -2522,7 +2755,8 @@
       "description": "Verão 2026",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MVJqrSmqI1VC"
     },
     {
       "id": "6916371dbd96b991f0027c39",
@@ -2533,7 +2767,8 @@
       "description": "Conjunto Infantil de Verão a partir de R$29,90",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kdLoZB8rp-vV"
     },
     {
       "id": "691727fabd96b991f0029b78",
@@ -2544,7 +2779,8 @@
       "description": "Banner Esquenta Black Friday Sem 3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/IgGkFuzeSKot"
     },
     {
       "id": "6917281cbd96b991f0029ba2",
@@ -2555,7 +2791,8 @@
       "description": "Story Esquenta Black Friday Sem 3 - versão 1",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/CFFNBtlSKmvN"
     },
     {
       "id": "69172834bd96b991f0029bcc",
@@ -2566,7 +2803,8 @@
       "description": "Feed Esquenta Black Friday Sem 3 - versão 1",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/GWWYz7lE7pNa"
     },
     {
       "id": "691728b8bd96b991f0029c1e",
@@ -2577,7 +2815,8 @@
       "description": "Story Esquenta Black Friday Sem 3 - versão 2",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ChDZsBPnTZpb"
     },
     {
       "id": "691728cdbd96b991f0029c48",
@@ -2588,7 +2827,8 @@
       "description": "Feed Esquenta Black Friday Sem 3 - versão 2",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9ErgNmU67huk"
     },
     {
       "id": "691728e4bd96b991f0029c72",
@@ -2599,7 +2839,8 @@
       "description": "Story Esquenta Black Friday Sem 3 - versão 3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4X1k9tCZ-tt7"
     },
     {
       "id": "691728f5bd96b991f0029c9c",
@@ -2610,7 +2851,8 @@
       "description": "Feed Esquenta Black Friday Sem 3 - versão 3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/OFT9vKXJO5OS"
     },
     {
       "id": "691783a1bd96b991f002bbaa",
@@ -2621,7 +2863,8 @@
       "description": "Cupom 5% OFF primeira compra",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/f6dXdifL4d88"
     },
     {
       "id": "691dd41b5c32e12ef0c3b72d",
@@ -2632,7 +2875,8 @@
       "description": "Guarda-roupa com o melhor preço do mercado estoque PR",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2l6MhnrabOrB"
     },
     {
       "id": "691dd4725c32e12ef0c3b784",
@@ -2643,7 +2887,8 @@
       "description": "Refrigerador Brastemp - Frete fixo",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mv-ztkwZp9zR"
     },
     {
       "id": "6926105b0d010e658c7dc4a1",
@@ -2654,7 +2899,8 @@
       "description": "Produtos até R$39",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bj6FFH-gRlJp"
     },
     {
       "id": "692610770d010e658c7dc4b3",
@@ -2665,7 +2911,8 @@
       "description": "Produtos até R$59",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Y2uZXerTXQwG"
     },
     {
       "id": "6926108f0d010e658c7dc4c2",
@@ -2676,7 +2923,8 @@
       "description": "Produtos até R$79",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/AaCjQA1ETVyX"
     },
     {
       "id": "692610a70d010e658c7dc4d2",
@@ -2687,7 +2935,8 @@
       "description": "Produtos a partir de R$84",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NDPFK2OeOvv7"
     },
     {
       "id": "692d8cf3067951c384fdb4ed",
@@ -2698,7 +2947,8 @@
       "description": "Natal Amakha Paris - Seleção para Ceia, Festas e Encontros ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9aaMb6ggxxIi"
     },
     {
       "id": "69306cd71eb93c75edd3f9b1",
@@ -2709,7 +2959,8 @@
       "description": "Amiga Secreta",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dqJLLaiAv86J"
     },
     {
       "id": "6930791f1eb93c75edd4010f",
@@ -2720,7 +2971,8 @@
       "description": "Amigo Secreto",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/nESkndqn8Slu"
     },
     {
       "id": "69307a4f1eb93c75edd401c9",
@@ -2731,7 +2983,8 @@
       "description": "Banner Rasteira",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qqypIZOnWSHf"
     },
     {
       "id": "69307b601eb93c75edd40213",
@@ -2742,7 +2995,8 @@
       "description": "Banner Tênis Casual ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/n1QNuP9q5Gq-"
     },
     {
       "id": "69307f871eb93c75edd40270",
@@ -2753,7 +3007,8 @@
       "description": "Banner Esportivo",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/U23n4k8i6o4z"
     },
     {
       "id": "693080801eb93c75edd40321",
@@ -2764,7 +3019,8 @@
       "description": "Banner Feminino ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/GzMgtMgAKP9T"
     },
     {
       "id": "693081d01eb93c75edd40389",
@@ -2775,7 +3031,8 @@
       "description": "Banner Infantil",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ob-qbZcLhWca"
     },
     {
       "id": "6931d1fa1eb93c75edd45a89",
@@ -2786,7 +3043,8 @@
       "description": "story Natal para Celebrar ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kw3s7Xt2vmVL"
     },
     {
       "id": "69330e2a1eb93c75edd4a49c",
@@ -2797,7 +3055,8 @@
       "description": "R$15 off em compras acima de R$150",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/K0Xcwf5WhFTz"
     },
     {
       "id": "696fcc5624150750588f9c0c",
@@ -2808,7 +3067,8 @@
       "description": "TUDO por MENOS de R$50 *nesse link",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/rUkmlQLZtfSS"
     },
     {
       "id": "697229e4a3075d050fcfb8e5",
@@ -2819,7 +3079,8 @@
       "description": "Coleção Módulos de Cozinha",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/tA7qTaG387sV"
     },
     {
       "id": "69724421a3075d050fcfc556",
@@ -2830,7 +3091,8 @@
       "description": "Camisa do Brasil",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mZdQsR8soqFY"
     },
     {
       "id": "6973535ca3075d050fd014e3",
@@ -2841,7 +3103,8 @@
       "description": "Sale tudo com 50% OFF",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/t7qOLTCsR57S"
     },
     {
       "id": "69735407a3075d050fd01521",
@@ -2852,7 +3115,8 @@
       "description": "[FEVEREIRO] Compre e Ganhe",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/jl3liRYTi6Ao"
     },
     {
       "id": "69736a21a3075d050fd01a05",
@@ -2863,7 +3127,8 @@
       "description": "banner summer mood body splash",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bkpwdDDm7dbU"
     },
     {
       "id": "69736a4ea3075d050fd01a2f",
@@ -2874,7 +3139,8 @@
       "description": "Feed body splash v1",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/OJEfo1nr0SfM"
     },
     {
       "id": "69736a9fa3075d050fd01a5e",
@@ -2885,7 +3151,8 @@
       "description": "story body splash v1",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Gaw73a0OMhLI"
     },
     {
       "id": "69736ad4a3075d050fd01a86",
@@ -2896,7 +3163,8 @@
       "description": "Feed body splash v2",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8qTdlXNX0wXu"
     },
     {
       "id": "69736b32a3075d050fd01ab2",
@@ -2907,7 +3175,8 @@
       "description": "story body splash v2",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kdSRTwD-glUc"
     },
     {
       "id": "69736b5ba3075d050fd01ae3",
@@ -2918,7 +3187,8 @@
       "description": "Feed body splash v3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/LSpfBzFZHTyA"
     },
     {
       "id": "69736b89a3075d050fd01b0b",
@@ -2929,7 +3199,8 @@
       "description": "story body splash v3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/032mCbC9VJbi"
     },
     {
       "id": "69736bbfa3075d050fd01b33",
@@ -2940,7 +3211,8 @@
       "description": "banner magic repair",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/V1Y3NQlZpSlh"
     },
     {
       "id": "69736bdba3075d050fd01b5b",
@@ -2951,7 +3223,8 @@
       "description": "feed magic repair",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/BAXChxNbHX3C"
     },
     {
       "id": "69736bf8a3075d050fd01b91",
@@ -2962,7 +3235,8 @@
       "description": "story magic repair",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qh0PT2pFNmXf"
     },
     {
       "id": "69736c1fa3075d050fd01bb9",
@@ -2973,7 +3247,8 @@
       "description": "banner perfume",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Xle0UBYk2QvO"
     },
     {
       "id": "69736c65a3075d050fd01c32",
@@ -2984,7 +3259,8 @@
       "description": "feed perfume",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/75cW7zTzYagW"
     },
     {
       "id": "69736c86a3075d050fd01c5e",
@@ -2995,7 +3271,8 @@
       "description": "story perfume",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9Xu-sAKb8uRZ"
     },
     {
       "id": "6973b9ffa3075d050fd04072",
@@ -3006,7 +3283,8 @@
       "description": "Festival do Milhão",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/L868nq3zBf-u"
     },
     {
       "id": "697a1c7ff7a443e01308b50b",
@@ -3017,7 +3295,8 @@
       "description": " Jardim & Agro",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/KiMroRaR9F5z"
     },
     {
       "id": "697bc3708c4a76c20ce387d4",
@@ -3028,7 +3307,8 @@
       "description": "Ofertas Brinox",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/DgNofr8qLoGx"
     },
     {
       "id": "697bc6738c4a76c20ce38a64",
@@ -3039,7 +3319,8 @@
       "description": "Ofertas Coza",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qyXEiY-83yhX"
     },
     {
       "id": "6980bf9d8c4a76c20ce49d1d",
@@ -3050,7 +3331,8 @@
       "description": "Summer’ 26",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/RTiWNBW29JQs"
     },
     {
       "id": "698343748c4a76c20ce57b2a",
@@ -3061,7 +3343,8 @@
       "description": "Seu carnaval sem perrengue - Compre 2 Fresh e ganhe uma nécessaire exclusiva",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "6984dc3c8c4a76c20ce62ed0",
@@ -3072,7 +3355,8 @@
       "description": "Lançamentos 2026",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bLp0DAAqKytn"
     },
     {
       "id": "6984e3cd8c4a76c20ce635eb",
@@ -3083,7 +3367,8 @@
       "description": "Carnaval de Ofertas Móveis Carraro ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Q1aurtBp3ypl"
     },
     {
       "id": "6985fdba8c4a76c20ce67ecf",
@@ -3094,7 +3379,8 @@
       "description": "Criativo Condições de pagamento",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-GZkyBEvpqTr"
     },
     {
       "id": "6985fddd8c4a76c20ce67ef1",
@@ -3105,18 +3391,8 @@
       "description": "Criativo - Camisetas",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
-    },
-    {
-      "id": "6989f0518c4a76c20ce74852",
-      "brandId": "99e48d06-96e6-433c-a392-ca29582dbe2e",
-      "brandName": "WebBar",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/99e48d06-96e6-433c-a392-ca29582dbe2e/logo",
-      "name": "Carnaval WebBar",
-      "description": "Carnaval WebBar",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/zq4piufkH4w6"
     },
     {
       "id": "6989fe358c4a76c20ce74c6a",
@@ -3127,7 +3403,8 @@
       "description": "Bota Fora Maria Pia Casa",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vI79PkQnUIQ2"
     },
     {
       "id": "698a0dcf8c4a76c20ce751ce",
@@ -3138,7 +3415,8 @@
       "description": "Bloquinho da Alegria- 12% OFF com o cupom Alegria ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NGeVogwsPG-c"
     },
     {
       "id": "698a4b418c4a76c20ce767e5",
@@ -3149,7 +3427,8 @@
       "description": "2026.02 - Smartphones Xiaomi",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/f63qYyiiTHki"
     },
     {
       "id": "698b47b98c4a76c20ce7a6b2",
@@ -3160,7 +3439,8 @@
       "description": "Quem usa AMA story V1 ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vjRXIdBc5NQG"
     },
     {
       "id": "698b47e48c4a76c20ce7a6dc",
@@ -3171,7 +3451,8 @@
       "description": "Quem usa AMA feed V1 ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2QeMNyR5fKX7"
     },
     {
       "id": "698b481e8c4a76c20ce7a718",
@@ -3182,7 +3463,8 @@
       "description": "Quem usa AMA story V2",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0knId8P5GSK2"
     },
     {
       "id": "698b48a18c4a76c20ce7a791",
@@ -3193,7 +3475,8 @@
       "description": "Quem usa AMA feed V2",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-ZpZbj7-tvRM"
     },
     {
       "id": "698b496a8c4a76c20ce7a80c",
@@ -3204,7 +3487,8 @@
       "description": "Quem usa AMA feed V3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-evYze0irbuw"
     },
     {
       "id": "698b49898c4a76c20ce7a838",
@@ -3215,7 +3499,8 @@
       "description": "Quem usa AMA story V3",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JiaUXml-TwvJ"
     },
     {
       "id": "698b49a68c4a76c20ce7a86c",
@@ -3226,7 +3511,8 @@
       "description": "Quem usa AMA Banner",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4HwT8ohTMSGj"
     },
     {
       "id": "698c81388c4a76c20ce7f94c",
@@ -3237,7 +3523,8 @@
       "description": "Desconto em toda linha Confete Henn",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Q9DGDJRNlJYU"
     },
     {
       "id": "698f1d228c4a76c20ce8a257",
@@ -3248,7 +3535,8 @@
       "description": "Até 42% de desconto em itens selecionados e frete fixo a partir de R$9,90",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/6JhUCJTnwOHO"
     },
     {
       "id": "698f26438c4a76c20ce8adf3",
@@ -3259,18 +3547,8 @@
       "description": "Smartphones Linha 15",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
-    },
-    {
-      "id": "698f77bc8c4a76c20ce8e3b7",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Folia de Carnaval Multimóveis",
-      "description": "Folia de Carnaval Multimóveis",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ikQsBZ3OexVD"
     },
     {
       "id": "698f84cd8c4a76c20ce8e8dc",
@@ -3281,7 +3559,8 @@
       "description": "CAMAROTE VIP ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/s-xlBeeAmqRi"
     },
     {
       "id": "698f852e8c4a76c20ce8e91c",
@@ -3292,7 +3571,8 @@
       "description": "VERÃO VIVAVINHO ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dPX-7RI8Uvag"
     },
     {
       "id": "698f85ee8c4a76c20ce8e92f",
@@ -3303,7 +3583,8 @@
       "description": "ATACAREJO VIVAVINHO",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JdJAnLaG966f"
     },
     {
       "id": "698f864a8c4a76c20ce8e93f",
@@ -3314,7 +3595,8 @@
       "description": "Clube VIVAVINHO ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MNYi3z97VLHu"
     },
     {
       "id": "6995f5f38c4a76c20cea5067",
@@ -3325,29 +3607,20 @@
       "description": "Ar-condiconado com até 40% OFF",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/OlpEiu5C8swU"
     },
     {
-      "id": "6995f6438c4a76c20cea5097",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Semana do Esportista- Até 40% off em itens selecionados. ",
-      "description": "Semana do Esportista- Até 40% off em itens selecionados. ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false
-    },
-    {
-      "id": "6996043a8c4a76c20cea56eb",
+      "id": "699604b08c4a76c20cea571f",
       "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
       "brandName": "Ortope",
       "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
-      "name": "Super Outlet com até 50% OFF",
-      "description": "Super Outlet com até 50% OFF",
+      "name": "Novidades Ortopé",
+      "description": "Novidades Ortopé",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-3y6QlRaIiWb"
     },
     {
       "id": "69971f4f8c4a76c20cea9560",
@@ -3358,7 +3631,8 @@
       "description": "Colchão Gazin a partir de R$ 379,90 à vista no Pix ou até 12x de R$34,04 no cartão",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kkkJy1EbieHr"
     },
     {
       "id": "699864df8c4a76c20ceb02ba",
@@ -3369,7 +3643,8 @@
       "description": "Progressiva de Acessórios",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EcJMde-7Vjsz"
     },
     {
       "id": "699865408c4a76c20ceb02e8",
@@ -3380,7 +3655,8 @@
       "description": "Desconto Progressivo Skincare ",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2jRR3MA8cGpa"
     },
     {
       "id": "699865b08c4a76c20ceb038b",
@@ -3391,7 +3667,8 @@
       "description": "Paleta em Dobro | Leve 2 paletas por R$99",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bDjlViNM3rum"
     },
     {
       "id": "699866368c4a76c20ceb03ed",
@@ -3402,7 +3679,8 @@
       "description": "Flash Sale: 10%OFF EXTRA no pix acima de R$199",
       "docType": "offer",
       "categories": [],
-      "isHighlight": false
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/60XsJjDPiTng"
     }
   ]
 }
