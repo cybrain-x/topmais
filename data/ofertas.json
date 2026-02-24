@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T07:40:02.742Z",
+  "lastUpdated": "2026-02-24T07:34:40.154Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2360,20 +2360,6 @@
       "affiliateUrl": "https://lmdee.link/bAl9h8c1nmmO"
     },
     {
-      "id": "697bc4668c4a76c20ce3895e",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "CARNAVALEMCASA",
-      "description": "10% OFF em todo site",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/EtvgDx5RP2kq"
-    },
-    {
       "id": "697bc7568c4a76c20ce38b00",
       "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "brandName": "Coza",
@@ -2429,20 +2415,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/1LRNTDYkxrv4"
-    },
-    {
-      "id": "698f3ef78c4a76c20ce8c1ef",
-      "brandId": "f2a38420-a743-49f0-845f-9e5b9175af0e",
-      "brandName": "Estuda.com",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f2a38420-a743-49f0-845f-9e5b9175af0e/logo",
-      "code": "LOMADEE30",
-      "description": "30% de desconto nos planos anuais + apostila exatas sem erro",
-      "docType": "code",
-      "categories": [
-        "education"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": null
     },
     {
       "id": "69970dcb8c4a76c20cea8c5a",
@@ -2506,30 +2478,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "68fb901fc4e5f8982e85fbb5",
-      "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
-      "brandName": "Casa das Alianças",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
-      "name": "Ofertas Casa das Alianças",
-      "description": "Ofertas Casa das Alianças",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "68fb9133c4e5f8982e85fbe4",
-      "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
-      "brandName": "Casa das Alianças",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
-      "name": "Encontre a sua aliança perfeita",
-      "description": "Encontre a sua aliança perfeita",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
     {
       "id": "6901055c3237b884e03ccb97",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3299,18 +3247,6 @@
       "affiliateUrl": "https://lmdee.link/KiMroRaR9F5z"
     },
     {
-      "id": "697bc3708c4a76c20ce387d4",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "name": "Ofertas Brinox",
-      "description": "Ofertas Brinox",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/DgNofr8qLoGx"
-    },
-    {
       "id": "697bc6738c4a76c20ce38a64",
       "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "brandName": "Coza",
@@ -3671,16 +3607,52 @@
       "affiliateUrl": "https://lmdee.link/bDjlViNM3rum"
     },
     {
-      "id": "699866368c4a76c20ceb03ed",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Flash Sale: 10%OFF EXTRA no pix acima de R$199",
-      "description": "Flash Sale: 10%OFF EXTRA no pix acima de R$199",
+      "id": "699cb56c5b90aa51cce3269f",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Drones DJI com até 17% OFF e frete grátis! ",
+      "description": "Drones DJI com até 17% OFF e frete grátis! ",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/60XsJjDPiTng"
+      "affiliateUrl": "https://lmdee.link/I2KO4LUjQfpt"
+    },
+    {
+      "id": "699cb5985b90aa51cce32719",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Antena Starlink com até 29% OFF e frete grátis! ",
+      "description": "Antena Starlink com até 29% OFF e frete grátis! ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7a2awjxSpAGE"
+    },
+    {
+      "id": "699cb5d15b90aa51cce327d1",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Utensílios de cozinha com até 40% OFF",
+      "description": "Utensílios de cozinha com até 40% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/oekIvnmF9rDf"
+    },
+    {
+      "id": "699cb60c5b90aa51cce327fd",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Até 40% Off em cadeiras gamer",
+      "description": "Até 40% Off em cadeiras gamer",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9ZtKCCD1PwMK"
     }
   ]
 }
