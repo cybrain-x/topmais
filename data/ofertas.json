@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T07:34:40.154Z",
+  "lastUpdated": "2026-02-25T07:36:07.458Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2479,18 +2479,6 @@
   ],
   "offers": [
     {
-      "id": "6901055c3237b884e03ccb97",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Coleção Alto Verão",
-      "description": "Coleção Alto Verão",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/X05PyPLPEVK4"
-    },
-    {
       "id": "690252053237b884e03d05bb",
       "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
       "brandName": "DL COMERCIO E INDUSTRIA DE PRODUTOS ELETRONICOS LTDA",
@@ -3653,6 +3641,18 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/9ZtKCCD1PwMK"
+    },
+    {
+      "id": "699da9795b90aa51cce35b1c",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Lançamento Protetor solar (Frete Grátis 24h)",
+      "description": "Lançamento Protetor solar (Frete Grátis 24h)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/m14UQ34CnVeC"
     }
   ]
 }
