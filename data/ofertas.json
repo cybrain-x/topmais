@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T07:36:07.458Z",
+  "lastUpdated": "2026-02-26T07:34:58.046Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2475,69 +2475,24 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/XRNBe7xiS6VM"
+    },
+    {
+      "id": "699f53aa5b90aa51cce3f1f2",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "code": "ESQUENTA25",
+      "description": "25% Off EXTRA",
+      "docType": "code",
+      "categories": [
+        "infant-products",
+        "fashion"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ueoNHUlXPxPE"
     }
   ],
   "offers": [
-    {
-      "id": "690252053237b884e03d05bb",
-      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
-      "brandName": "DL COMERCIO E INDUSTRIA DE PRODUTOS ELETRONICOS LTDA",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
-      "name": "10%OFF - Smartwatches Selecionados",
-      "description": "10%OFF - Smartwatches Selecionados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/QSkot9kVEvtG"
-    },
-    {
-      "id": "690b5525863530405cc2add9",
-      "brandId": "9efd44a3-ec80-488e-afe3-86b2394d5f93",
-      "brandName": "WSS Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9efd44a3-ec80-488e-afe3-86b2394d5f93/logo",
-      "name": "Black November WSS Brasil",
-      "description": "Black November WSS Brasil",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/t9sRHYphkV9Z"
-    },
-    {
-      "id": "690ccdc1978648de25b61c71",
-      "brandId": "c9c0e78c-648a-4e8d-897a-3e9492e301b0",
-      "brandName": "Skeptic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c9c0e78c-648a-4e8d-897a-3e9492e301b0/logo",
-      "name": "Camisetas OVERSIZED a partir de R$ 109,90",
-      "description": "Camisetas OVERSIZED a partir de R$ 109,90",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/2yU89Kb7TBGQ"
-    },
-    {
-      "id": "690ded38978648de25b66098",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Story Esquenta Black Friday Sem 2 - versão 1",
-      "description": "Story Esquenta Black Friday Sem 2 - versão 1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Asxs0IQNf0jn"
-    },
-    {
-      "id": "690ded69978648de25b660d5",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Feed Esquenta Black Friday Sem 2 - versão 2 ",
-      "description": "Feed Esquenta Black Friday Sem 2 - versão 2 ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/JTjyk8quQHVU"
-    },
     {
       "id": "690deda9978648de25b66122",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
@@ -3643,16 +3598,52 @@
       "affiliateUrl": "https://lmdee.link/9ZtKCCD1PwMK"
     },
     {
-      "id": "699da9795b90aa51cce35b1c",
+      "id": "699daa235b90aa51cce35b8a",
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
       "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Lançamento Protetor solar (Frete Grátis 24h)",
-      "description": "Lançamento Protetor solar (Frete Grátis 24h)",
+      "name": "Lançamento Protetor solar sem frete",
+      "description": "Lançamento Protetor solar sem frete",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/m14UQ34CnVeC"
+      "affiliateUrl": "https://lmdee.link/14PeTDcC3Eev"
+    },
+    {
+      "id": "699f13595b90aa51cce3cd18",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Night sale: Nécessaire Recheado acima de R$249 | Cupom RECHEADO",
+      "description": "Night sale: Nécessaire Recheado acima de R$249 | Cupom RECHEADO",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/xhWBVXezMND9"
+    },
+    {
+      "id": "699f304b5b90aa51cce3da37",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "name": "Electrolux Week - Até 15% off no pix",
+      "description": "Electrolux Week - Até 15% off no pix",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mNjjjWqXxUqP"
+    },
+    {
+      "id": "699f52935b90aa51cce3f0db",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Esquenta Mês do Consumidor com até 70%OFF + Frete Grátis acima de R$199",
+      "description": "Esquenta Mês do Consumidor com até 70%OFF + Frete Grátis acima de R$199",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/jvkRp0wqXuAa"
     }
   ]
 }
