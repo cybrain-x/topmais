@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T06:39:22.923Z",
+  "lastUpdated": "2026-03-03T06:09:05.007Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -390,6 +390,14 @@
       "name": "PromoFarma",
       "logo": "https://cdn.lomadee.com.br/logos/6d69265c-6b83-4ff4-916f-95a75057947d/logo",
       "segment": "remédios e cosméticos",
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "name": "Vinícola Jolimont",
+      "logo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "segment": "food",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
