@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T06:04:45.465Z",
+  "lastUpdated": "2026-03-11T06:08:22.609Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -1588,6 +1588,12 @@
       "icon": "🏷️"
     },
     {
+      "id": "wellness",
+      "name": "wellness",
+      "slug": "wellness",
+      "icon": "🏷️"
+    },
+    {
       "id": "woman",
       "name": "woman",
       "slug": "woman",
@@ -2337,6 +2343,36 @@
       "affiliateUrl": "https://lmdee.link/7hkQ8opqcrri"
     },
     {
+      "id": "69a590e35b90aa51cce55b7b",
+      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
+      "brandName": "Coza",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
+      "code": "POPICOZA",
+      "description": "15% OFF na linha uno",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ObM5bvmRLFiy"
+    },
+    {
+      "id": "69a592fe5b90aa51cce561f6",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "PIPOCA15",
+      "description": " 15% off em pipoqueiras",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/nC6nGKME50dQ"
+    },
+    {
       "id": "69ab15d35b90aa51cce76a62",
       "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
       "brandName": "Malwee",
@@ -2407,9 +2443,289 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "69b0157a5b90aa51cce89cb5",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "VITAMINAS10",
+      "description": "R$10 OFF válido para compras acima de R$100 e apenas produtos selecionados. \t\t\t",
+      "docType": "code",
+      "categories": [
+        "health"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b015d75b90aa51cce89d09",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "ADULTO12",
+      "description": "R$12 OFF em Compras acima de R$130,00 e apenas para produtos selecionados. Somente uma utilização por CPF.\t\t\t",
+      "docType": "code",
+      "categories": [
+        "health"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b016725b90aa51cce89e09",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "DERMO",
+      "description": "R$12 OFF Válido para compras acima de R$120 e apenas produtos selecionados. Somente uma utilização por CPF.\t\t\t",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b017775b90aa51cce89f80",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "DERMO",
+      "description": "R$20 OFF Válido para compras acima de R$180 e apenas produtos selecionados. Somente uma utilização por CPF.\t\t\t",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b018055b90aa51cce8a026",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "CABELO5",
+      "description": "R$5 OFF Válido para compras acima de R$50 e apenas produtos selecionados. \t\t\t\t\t\t",
+      "docType": "code",
+      "categories": [
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b018525b90aa51cce8a059",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "HIGIENE5",
+      "description": "R$5 OFF\tVálido para compras acima de R$50 e apenas produtos selecionados. \t\t\t\t\t",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b018a95b90aa51cce8a099",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "FRALDAS",
+      "description": "R$ 12 OFF Válido para compras acima de R$130 e apenas produtos selecionados. \t\t\t\t\t\t",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b025545b90aa51cce8abba",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "FRALDAS",
+      "description": "R$ 15 Válido para compras acima de R$150 e apenas produtos selecionados. \t\t\t\t\t\t",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b025975b90aa51cce8ac03",
+      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
+      "brandName": "Drogaria Rosário",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
+      "code": "GASTRO10",
+      "description": "R$10 OFF\tVálido para compras acima de R$90 e apenas produtos selecionados.\t\t\t\t\t",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b026325b90aa51cce8acd7",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "GASTRO10",
+      "description": "R$10 OFF\tVálido para compras acima de R$90 e apenas produtos selecionados.\t\t\t",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b0266d5b90aa51cce8ad2c",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "FRALDAS",
+      "description": "R$ 15 Válido para compras acima de R$150 e apenas produtos selecionados. \t\t\t\t\t\t",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b0324b5b90aa51cce8b7b2",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "FRALDAS",
+      "description": "R$ 12 Válido para compras acima de R$130 e apenas produtos selecionados. \t\t\t",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b032a35b90aa51cce8b819",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "HIGIENE5",
+      "description": "R$5 OFF\tVálido para compras acima de R$50 e apenas produtos selecionados. \t\t\t",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b032e45b90aa51cce8b896",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "CABELO5",
+      "description": "R$5 OFF\tVálido para compras acima de R$50 e apenas produtos selecionados. \t\t\t\t",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b033305b90aa51cce8b931",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "DERMO",
+      "description": "R$ 20 OFF Válido para compras acima de R$180 e apenas produtos selecionados. Somente uma utilização por CPF.\t\t\t",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b03a0b5b90aa51cce8be65",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "DERMO",
+      "description": "R$ 12 OFF Válido para compras acima de R$120 e apenas produtos selecionados. Somente uma utilização por CPF.",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b03e5d5b90aa51cce8c0a1",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "ADULTO12",
+      "description": "R$12 OFF Compras acima de R$130,00 e apenas para produtos selecionados. Somente uma utilização por CPF.\t\t\t \t\t\t",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b03ead5b90aa51cce8c0df",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "VITAMINAS10",
+      "description": "R$10 OFF Válido para compras acima de R$100 e apenas produtos selecionados. \t\t\t\t\t\t",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "health"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ],
   "offers": [
+    {
+      "id": "698f852e8c4a76c20ce8e91c",
+      "brandId": "1b8e4084-b123-404e-9565-b546424cf839",
+      "brandName": "Vivavinho",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/1b8e4084-b123-404e-9565-b546424cf839/logo",
+      "name": "VERÃO VIVAVINHO ",
+      "description": "VERÃO VIVAVINHO ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dPX-7RI8Uvag"
+    },
     {
       "id": "699cb5d15b90aa51cce327d1",
       "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
@@ -2543,18 +2859,6 @@
       "affiliateUrl": "https://lmdee.link/pD5ZgcjSOd7j"
     },
     {
-      "id": "69a6e2a35b90aa51cce5f88d",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Makes Para Festival com até 60%",
-      "description": "Makes Para Festival com até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/xKQb7jHvd0qE"
-    },
-    {
       "id": "69a6e2f65b90aa51cce5f921",
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
@@ -2565,30 +2869,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ZfQRHIle8KAH"
-    },
-    {
-      "id": "69a6e34b5b90aa51cce5f960",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Semana dos Séruns: todos os sérums por R$49,90",
-      "description": "Semana dos Séruns: todos os sérums por R$49,90",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/M01NMyIMaaqi"
-    },
-    {
-      "id": "69a6e3ad5b90aa51cce5f9be",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Semana da Mulher | Ganhe Skin Tint acima de R$119 e site acima de R$189 NOSSODIA",
-      "description": "Semana da Mulher | Ganhe Skin Tint acima de R$119 e site acima de R$189 NOSSODIA",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/SxtTuW0ZXdWd"
     },
     {
       "id": "69a6f37d5b90aa51cce604e5",
@@ -2997,18 +3277,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/6La-pECXwC7F"
-    },
-    {
-      "id": "69aed6785b90aa51cce8204d",
-      "brandId": "9792a968-df58-42fc-b112-b97d174c78ae",
-      "brandName": "Drogaria São Paulo",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9792a968-df58-42fc-b112-b97d174c78ae/logo",
-      "name": "Kit Fórmula Infantil Ninho Fases +1 800g 2 Unidades ( De: R$ 94,99 / Por: R$ 79,89)",
-      "description": "Kit Fórmula Infantil Ninho Fases +1 800g 2 Unidades ( De: R$ 94,99 / Por: R$ 79,89)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/hHqpiK31E2BG"
     },
     {
       "id": "69aed7925b90aa51cce821aa",
@@ -3525,6 +3793,66 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/TXpF5MA-Qfut"
+    },
+    {
+      "id": "69b00b7f5b90aa51cce897d2",
+      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
+      "brandName": "Nobelpack",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
+      "name": "Sacolas personalizadas com a sua marca",
+      "description": "Sacolas personalizadas com a sua marca",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/IPZ--tlOw-qM"
+    },
+    {
+      "id": "69b029e35b90aa51cce8afe1",
+      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
+      "brandName": "Nobelpack",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
+      "name": "Envelopes personalizados",
+      "description": "Envelopes personalizados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/cpio-21L1Yhd"
+    },
+    {
+      "id": "69b055485b90aa51cce8ce0c",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "name": "Semana do Consumidor FOM- Até 20% OFF levando 3 produtos ",
+      "description": "Semana do Consumidor FOM- Até 20% OFF levando 3 produtos ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QQ7gzMeH-FSO"
+    },
+    {
+      "id": "69b055b15b90aa51cce8ce56",
+      "brandId": "a4ea6ed5-0ffd-4ee7-b0eb-f6073dc4fc12",
+      "brandName": "Sieno Perfumes",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/a4ea6ed5-0ffd-4ee7-b0eb-f6073dc4fc12/logo",
+      "name": "212 Vip Men Black Masculino Eau de Parfum (De: R$ 599,00; Por: R$ 350,99)",
+      "description": "212 Vip Men Black Masculino Eau de Parfum (De: R$ 599,00; Por: R$ 350,99)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/N-XgCLZ14HIO"
+    },
+    {
+      "id": "69b056005b90aa51cce8cf88",
+      "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
+      "brandName": "Casa das Alianças",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
+      "name": "Relógio Masculino Solar Tech Orient Prata MBSS1448 P2SX - Exclusivo (Por: R$  498,00)",
+      "description": "Relógio Masculino Solar Tech Orient Prata MBSS1448 P2SX - Exclusivo (Por: R$  498,00)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ]
 }
