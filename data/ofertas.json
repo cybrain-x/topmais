@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T06:11:30.503Z",
+  "lastUpdated": "2026-03-13T06:09:11.840Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2621,45 +2621,24 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "69b1ab935b90aa51cce92dba",
+      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
+      "brandName": "Rovitex",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
+      "code": "SURPRESA",
+      "description": "ATÉ 70% OFF + DESCONTO EXTRA ",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/R6ZXA3qcHKgu"
     }
   ],
   "offers": [
-    {
-      "id": "699cb5d15b90aa51cce327d1",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Utensílios de cozinha com até 40% OFF",
-      "description": "Utensílios de cozinha com até 40% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/oekIvnmF9rDf"
-    },
-    {
-      "id": "699cb60c5b90aa51cce327fd",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Até 40% Off em cadeiras gamer",
-      "description": "Até 40% Off em cadeiras gamer",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9ZtKCCD1PwMK"
-    },
-    {
-      "id": "699daa235b90aa51cce35b8a",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Lançamento Protetor solar sem frete",
-      "description": "Lançamento Protetor solar sem frete",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/14PeTDcC3Eev"
-    },
     {
       "id": "69a587035b90aa51cce55268",
       "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
@@ -3753,6 +3732,18 @@
       "affiliateUrl": "https://lmdee.link/1fmYQ64nqHDt"
     },
     {
+      "id": "69b189bc5b90aa51cce91f35",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "name": "Semana do Consumidor Electrolux",
+      "description": "Semana do Consumidor Electrolux",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/rMto5pxA5aHL"
+    },
+    {
       "id": "69b18a9e5b90aa51cce9212c",
       "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
       "brandName": "Shopclub",
@@ -3763,6 +3754,30 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/O-4W9vrzAUWu"
+    },
+    {
+      "id": "69b2bc810a186a32c418f4ee",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "Feed Semana do Consumidor",
+      "description": "Feed Semana do Consumidor",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NIIpn7fnvJwB"
+    },
+    {
+      "id": "69b2bc9f0a186a32c418f518",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "Story Semana do Consumidor",
+      "description": "Story Semana do Consumidor",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/rABVmS9ajogj"
     }
   ]
 }
