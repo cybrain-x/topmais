@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T06:09:11.840Z",
+  "lastUpdated": "2026-03-14T06:04:22.839Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -1564,12 +1564,6 @@
       "icon": "🏷️"
     },
     {
-      "id": "streaming",
-      "name": "Streaming",
-      "slug": "streaming",
-      "icon": "🏷️"
-    },
-    {
       "id": "sugadores",
       "name": "sugadores",
       "slug": "sugadores",
@@ -2636,165 +2630,78 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/R6ZXA3qcHKgu"
+    },
+    {
+      "id": "69b2d6880a186a32c418fe7d",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "code": "CONSUMIDOR",
+      "description": "12% de desconto nos produtos do link",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8eAuWKamkJYA"
+    },
+    {
+      "id": "69b4227f0a186a32c4194a06",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "code": "CONSUMIDOR5",
+      "description": "5% de desconto em produtos selecionados ",
+      "docType": "code",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XEs3466dnrtd"
+    },
+    {
+      "id": "69b475430a186a32c4196be3",
+      "brandId": "2c0005fa-a3d6-4062-b0a7-ab9490101e27",
+      "brandName": "FUNKO",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2c0005fa-a3d6-4062-b0a7-ab9490101e27/logo",
+      "code": "FUNKO10",
+      "description": "Cupom de 10% de desconto (Cupom de uso único por CPF.)",
+      "docType": "code",
+      "categories": [
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kMjDK2xlHrqa"
+    },
+    {
+      "id": "69b4759b0a186a32c4196c10",
+      "brandId": "de93faa0-5a21-46b6-a1eb-ff6ef1c23779",
+      "brandName": "Candide",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/de93faa0-5a21-46b6-a1eb-ff6ef1c23779/logo",
+      "code": "CAND10",
+      "description": "Cupom de 10% de desconto (Cupom de uso único por CPF)",
+      "docType": "code",
+      "categories": [
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9aK8j2SFPavW"
+    },
+    {
+      "id": "69b476170a186a32c4196cbb",
+      "brandId": "f7c95e90-30b4-4d04-a699-66ee8ba3321e",
+      "brandName": "Kärcher",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f7c95e90-30b4-4d04-a699-66ee8ba3321e/logo",
+      "code": "CONSUMIDOR10",
+      "description": "10% OFF em todo site",
+      "docType": "code",
+      "categories": [
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Y27uaVX9tI8X"
     }
   ],
   "offers": [
-    {
-      "id": "69a587035b90aa51cce55268",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "Preview Fall",
-      "description": "Preview Fall",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/CmdOv4ClpNeu"
-    },
-    {
-      "id": "69a589915b90aa51cce55378",
-      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
-      "brandName": "Electrolux",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
-      "name": "Mês do Consumidor- Até 50% OFF + 10% no PIX + frete grátis em produtos selecionados",
-      "description": "Mês do Consumidor- Até 50% OFF + 10% no PIX + frete grátis em produtos selecionados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Hw1YYAP0sOes"
-    },
-    {
-      "id": "69a590205b90aa51cce55ac0",
-      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
-      "brandName": "Coza",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "name": "Mês do consumidor Coza",
-      "description": "Mês do consumidor Coza",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nKl88O5UmAyr"
-    },
-    {
-      "id": "69a591535b90aa51cce55dd5",
-      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
-      "brandName": "Coza",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "name": "Use o cupom CAIXASEMFRETE  e ganhe frete grátis em caixa Fit ",
-      "description": "Use o cupom CAIXASEMFRETE  e ganhe frete grátis em caixa Fit ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ThL6C2YebQwX"
-    },
-    {
-      "id": "69a592805b90aa51cce5611f",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "name": "Mês do consumidor Brinox com Desconto no pix de 8% off",
-      "description": "Mês do consumidor Brinox com Desconto no pix de 8% off",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/yqGHSBVaH4Dh"
-    },
-    {
-      "id": "69a5dd655b90aa51cce59a57",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Mês do Consumidor",
-      "description": "Mês do Consumidor",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/px5ZgjDJ9yHn"
-    },
-    {
-      "id": "69a5ddc75b90aa51cce59b3d",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Campanha de Lançamento ",
-      "description": "Campanha de Lançamento ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/aU-mwqmBci0l"
-    },
-    {
-      "id": "69a6b6155b90aa51cce5df0c",
-      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
-      "brandName": "Mundo Vem",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
-      "name": "[MARÇO] Mês do Consumidor",
-      "description": "[MARÇO] Mês do Consumidor",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/pD5ZgcjSOd7j"
-    },
-    {
-      "id": "69a6e2f65b90aa51cce5f921",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Dupla de verão: compre 2 e 10% OFF extra (lançamentos com desconto)",
-      "description": "Dupla de verão: compre 2 e 10% OFF extra (lançamentos com desconto)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ZfQRHIle8KAH"
-    },
-    {
-      "id": "69a6f37d5b90aa51cce604e5",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "BANNER IDENTIDADE ",
-      "description": "BANNER IDENTIDADE ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/RM2inO6PQsUA"
-    },
-    {
-      "id": "69a6f3a55b90aa51cce60526",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "BANNER DESCONTO PROGRESSIVO ",
-      "description": "BANNER DESCONTO PROGRESSIVO ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/blCuyjaNCh-g"
-    },
-    {
-      "id": "69a6f3d35b90aa51cce60561",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED IDENTIDADE V1",
-      "description": "FEED IDENTIDADE V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/I3IdWhgtmCzy"
-    },
-    {
-      "id": "69a6f3f15b90aa51cce6058f",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY IDENTIDADE V1",
-      "description": "STORY IDENTIDADE V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/WLIwH3NB4XSb"
-    },
     {
       "id": "69a6f4175b90aa51cce60612",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
@@ -2962,18 +2869,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/-vOOYTcNapUF"
-    },
-    {
-      "id": "69a7443f5b90aa51cce638ca",
-      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
-      "brandName": "Xiaomi Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
-      "name": "2026.03 - Dia da Mulher",
-      "description": "2026.03 - Dia da Mulher",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/GCjy7Q38ILov"
     },
     {
       "id": "69a9c68b5b90aa51cce6feb7",
@@ -3778,6 +3673,186 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/rABVmS9ajogj"
+    },
+    {
+      "id": "69b2d6390a186a32c418fe22",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "Fim de semana do consumidor- 12% OFF com o cupom CONSUMIDOR",
+      "description": "Fim de semana do consumidor- 12% OFF com o cupom CONSUMIDOR",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/tkjf7Mf7fT8c"
+    },
+    {
+      "id": "69b41b990a186a32c419468f",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "name": "Até R$ 2.800 OFF + cupom de até 15% OFF + até 10% OFF no PIX",
+      "description": "Até R$ 2.800 OFF + cupom de até 15% OFF + até 10% OFF no PIX",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Erdk-yg5e1yq"
+    },
+    {
+      "id": "69b422e00a186a32c4194a20",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "name": "Ofertas Relâmpago Móveis Carraro ( promoção acumulativa com o cupom CONSUMIDOR5)",
+      "description": "Ofertas Relâmpago Móveis Carraro ( promoção acumulativa com o cupom CONSUMIDOR5)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/AInNJZVGymvr"
+    },
+    {
+      "id": "69b439390a186a32c419522c",
+      "brandId": "d57eba55-b8ba-4e25-87fc-3dcc9eb92c30",
+      "brandName": "Maria Pia Casa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d57eba55-b8ba-4e25-87fc-3dcc9eb92c30/logo",
+      "name": "Mês do Consumidor",
+      "description": "Mês do Consumidor",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/GzqhlDGBfoGX"
+    },
+    {
+      "id": "69b472fc0a186a32c41969f1",
+      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
+      "brandName": "Xiaomi Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
+      "name": "2026.03 - Quinzena do Consumidor",
+      "description": "2026.03 - Quinzena do Consumidor",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/CFJyYMlKUh1C"
+    },
+    {
+      "id": "69b476a50a186a32c4196e3e",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Flash Sale: Leve 2 Pague 1 (itens selecionados)",
+      "description": "Flash Sale: Leve 2 Pague 1 (itens selecionados)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/A4h0PxG4OOf8"
+    },
+    {
+      "id": "69b477470a186a32c4196e94",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Mês do Consumidor | Todas as categorias com até 70% OFF",
+      "description": "Mês do Consumidor | Todas as categorias com até 70% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EFdHqOU0B85J"
+    },
+    {
+      "id": "69b477b90a186a32c4196ec3",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Escolha o seu cupom (melhor no app) | GANHE 15 + mimo  ou GANHE 25 + mimo",
+      "description": "Escolha o seu cupom (melhor no app) | GANHE 15 + mimo  ou GANHE 25 + mimo",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/GZeDq0GzsB4j"
+    },
+    {
+      "id": "69b478250a186a32c4196efd",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Escolha o seu serum de brinde em compras acima de R$299",
+      "description": "Escolha o seu serum de brinde em compras acima de R$299",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/u5EaL3tomz7M"
+    },
+    {
+      "id": "69b478a20a186a32c4196f46",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "bases a partir de R$ 37,90 escolha sua favorita",
+      "description": "bases a partir de R$ 37,90 escolha sua favorita",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7tF4hWLZpqoA"
+    },
+    {
+      "id": "69b478f10a186a32c4196f7b",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Blushes a partir de R$29,90",
+      "description": "Blushes a partir de R$29,90",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/zcSO6IEVYm6b"
+    },
+    {
+      "id": "69b479340a186a32c4196fa3",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "creme para olhos a partir de R$ 29,90",
+      "description": "creme para olhos a partir de R$ 29,90",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NWRyV0NV-AU3"
+    },
+    {
+      "id": "69b4797a0a186a32c4196fe2",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Kit Verão: protetor solar + anti friction com 50%OF",
+      "description": "Kit Verão: protetor solar + anti friction com 50%OF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/DV1vXZiHlQJq"
+    },
+    {
+      "id": "69b47a210a186a32c4197081",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "name": "Super Ofertas dermocosméticos ",
+      "description": "Super Ofertas dermocosméticos ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69b47a5d0a186a32c41970b9",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "name": "Super Ofertas setor infantil ",
+      "description": "Super Ofertas setor infantil ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ]
 }
