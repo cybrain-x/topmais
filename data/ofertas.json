@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T07:38:32.447Z",
+  "lastUpdated": "2026-03-18T07:38:03.653Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -1029,12 +1029,6 @@
       "id": "animals",
       "name": "animals",
       "slug": "animals",
-      "icon": "🏷️"
-    },
-    {
-      "id": "aplicativo-de-mobilidade",
-      "name": "Aplicativo de mobilidade",
-      "slug": "aplicativo-de-mobilidade",
       "icon": "🏷️"
     },
     {
@@ -2625,249 +2619,23 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/HP8bl80Kjvt4"
+    },
+    {
+      "id": "69b9bdad0a186a32c41a942d",
+      "brandId": "09562538-fde7-4bbf-947b-2ccebbc1c887",
+      "brandName": "Le Loyn Parfums",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/09562538-fde7-4bbf-947b-2ccebbc1c887/logo",
+      "code": "PERFUMEEXCLUSIVO15",
+      "description": "Cupom de 15% de desconto para produtos no link selecionado",
+      "docType": "code",
+      "categories": [
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dJqBWOvq9NYd"
     }
   ],
   "offers": [
-    {
-      "id": "691728e4bd96b991f0029c72",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Story Esquenta Black Friday Sem 3 - versão 3",
-      "description": "Story Esquenta Black Friday Sem 3 - versão 3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/4X1k9tCZ-tt7"
-    },
-    {
-      "id": "691728f5bd96b991f0029c9c",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Feed Esquenta Black Friday Sem 3 - versão 3",
-      "description": "Feed Esquenta Black Friday Sem 3 - versão 3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/OFT9vKXJO5OS"
-    },
-    {
-      "id": "691783a1bd96b991f002bbaa",
-      "brandId": "c9c0e78c-648a-4e8d-897a-3e9492e301b0",
-      "brandName": "Skeptic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c9c0e78c-648a-4e8d-897a-3e9492e301b0/logo",
-      "name": "Cupom 5% OFF primeira compra",
-      "description": "Cupom 5% OFF primeira compra",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/f6dXdifL4d88"
-    },
-    {
-      "id": "691dd4725c32e12ef0c3b784",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Refrigerador Brastemp - Frete fixo",
-      "description": "Refrigerador Brastemp - Frete fixo",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mv-ztkwZp9zR"
-    },
-    {
-      "id": "6926105b0d010e658c7dc4a1",
-      "brandId": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
-      "brandName": "Simple Organic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e783798e-b219-48d6-9855-a7ad62d1d2c6/logo",
-      "name": "Produtos até R$39",
-      "description": "Produtos até R$39",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/bj6FFH-gRlJp"
-    },
-    {
-      "id": "692610770d010e658c7dc4b3",
-      "brandId": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
-      "brandName": "Simple Organic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e783798e-b219-48d6-9855-a7ad62d1d2c6/logo",
-      "name": "Produtos até R$59",
-      "description": "Produtos até R$59",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Y2uZXerTXQwG"
-    },
-    {
-      "id": "6926108f0d010e658c7dc4c2",
-      "brandId": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
-      "brandName": "Simple Organic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e783798e-b219-48d6-9855-a7ad62d1d2c6/logo",
-      "name": "Produtos até R$79",
-      "description": "Produtos até R$79",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/AaCjQA1ETVyX"
-    },
-    {
-      "id": "692610a70d010e658c7dc4d2",
-      "brandId": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
-      "brandName": "Simple Organic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e783798e-b219-48d6-9855-a7ad62d1d2c6/logo",
-      "name": "Produtos a partir de R$84",
-      "description": "Produtos a partir de R$84",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/NDPFK2OeOvv7"
-    },
-    {
-      "id": "692d8cf3067951c384fdb4ed",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Natal Amakha Paris - Seleção para Ceia, Festas e Encontros ",
-      "description": "Natal Amakha Paris - Seleção para Ceia, Festas e Encontros ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9aaMb6ggxxIi"
-    },
-    {
-      "id": "69306cd71eb93c75edd3f9b1",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Amiga Secreta",
-      "description": "Amiga Secreta",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/dqJLLaiAv86J"
-    },
-    {
-      "id": "6930791f1eb93c75edd4010f",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Amigo Secreto",
-      "description": "Amigo Secreto",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nESkndqn8Slu"
-    },
-    {
-      "id": "69307a4f1eb93c75edd401c9",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Rasteira",
-      "description": "Banner Rasteira",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/qqypIZOnWSHf"
-    },
-    {
-      "id": "69307b601eb93c75edd40213",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Tênis Casual ",
-      "description": "Banner Tênis Casual ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/n1QNuP9q5Gq-"
-    },
-    {
-      "id": "69307f871eb93c75edd40270",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Esportivo",
-      "description": "Banner Esportivo",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/U23n4k8i6o4z"
-    },
-    {
-      "id": "693080801eb93c75edd40321",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Feminino ",
-      "description": "Banner Feminino ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/GzMgtMgAKP9T"
-    },
-    {
-      "id": "693081d01eb93c75edd40389",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Infantil",
-      "description": "Banner Infantil",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ob-qbZcLhWca"
-    },
-    {
-      "id": "6931d1fa1eb93c75edd45a89",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "story Natal para Celebrar ",
-      "description": "story Natal para Celebrar ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/kw3s7Xt2vmVL"
-    },
-    {
-      "id": "69330e2a1eb93c75edd4a49c",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "name": "R$15 off em compras acima de R$150",
-      "description": "R$15 off em compras acima de R$150",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/K0Xcwf5WhFTz"
-    },
-    {
-      "id": "696fcc5624150750588f9c0c",
-      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
-      "brandName": "Vestis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
-      "name": "TUDO por MENOS de R$50 *nesse link",
-      "description": "TUDO por MENOS de R$50 *nesse link",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/rUkmlQLZtfSS"
-    },
-    {
-      "id": "697229e4a3075d050fcfb8e5",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Coleção Módulos de Cozinha",
-      "description": "Coleção Módulos de Cozinha",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/tA7qTaG387sV"
-    },
     {
       "id": "69724421a3075d050fcfc556",
       "brandId": "10e15c60-c43b-439c-9d53-373bb4388756",
@@ -3107,18 +2875,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/pD5ZgcjSOd7j"
-    },
-    {
-      "id": "69a6e2f65b90aa51cce5f921",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Dupla de verão: compre 2 e 10% OFF extra (lançamentos com desconto)",
-      "description": "Dupla de verão: compre 2 e 10% OFF extra (lançamentos com desconto)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ZfQRHIle8KAH"
     },
     {
       "id": "69a6f37d5b90aa51cce604e5",
@@ -3529,6 +3285,18 @@
       "affiliateUrl": "https://lmdee.link/1fmYQ64nqHDt"
     },
     {
+      "id": "69b40bcd0a186a32c4193dd2",
+      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
+      "brandName": "Multimóveis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
+      "name": "Última Chance do Consumidor",
+      "description": "Última Chance do Consumidor",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bTBSd71M-EaP"
+    },
+    {
       "id": "69b416680a186a32c4193fac",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -3803,6 +3571,246 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/0pI4s73dymfc"
+    },
+    {
+      "id": "69b9ab400a186a32c41a810b",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/RlZ9qZcJZvjM"
+    },
+    {
+      "id": "69b9ab790a186a32c41a818c",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fnGPw2nhz9of"
+    },
+    {
+      "id": "69b9aba40a186a32c41a826a",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Qfo60s3KT1QP"
+    },
+    {
+      "id": "69b9abe10a186a32c41a8348",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0cfYQJQ8zwHH"
+    },
+    {
+      "id": "69b9ac1d0a186a32c41a83d3",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mgcu6FeVS6LA"
+    },
+    {
+      "id": "69b9ac5a0a186a32c41a8421",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ACnEIuoFjKpE"
+    },
+    {
+      "id": "69b9ac900a186a32c41a8496",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8kWVUvL7Kx5f"
+    },
+    {
+      "id": "69b9acb90a186a32c41a84ed",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/prX0ladYKb8a"
+    },
+    {
+      "id": "69b9ada60a186a32c41a85b3",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7AB0y49GUupi"
+    },
+    {
+      "id": "69b9add40a186a32c41a8601",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/n2UG6O0eZLbC"
+    },
+    {
+      "id": "69b9b2dc0a186a32c41a8a92",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/uQY0EQ3FTD49"
+    },
+    {
+      "id": "69b9b3070a186a32c41a8b0a",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/77RLeryTyJmY"
+    },
+    {
+      "id": "69b9b3380a186a32c41a8b71",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QXeDUum3aySi"
+    },
+    {
+      "id": "69b9b5260a186a32c41a8ec0",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/b9YQJEJZeA2W"
+    },
+    {
+      "id": "69b9b5720a186a32c41a8f1c",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/G9DxqBBIbsWm"
+    },
+    {
+      "id": "69b9b6030a186a32c41a8fb7",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fWko598wgPYT"
+    },
+    {
+      "id": "69b9b63b0a186a32c41a902d",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0oA5MHuMRCUa"
+    },
+    {
+      "id": "69b9b6c50a186a32c41a9063",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HHDIF7UN4lyV"
+    },
+    {
+      "id": "69b9b7130a186a32c41a90f5",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/O4A9BCTzFgXR"
+    },
+    {
+      "id": "69b9b7440a186a32c41a9141",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/y4X716hAVN0b"
     }
   ]
 }
