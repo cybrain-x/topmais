@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T07:38:03.653Z",
+  "lastUpdated": "2026-03-19T07:32:10.510Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -687,7 +687,7 @@
       "logo": "https://cdn.lomadee.com.br/logos/b9964938-0c46-4b54-8069-2176b382a260/logo",
       "segment": "Streaming",
       "isHighlight": false,
-      "affiliateUrl": null
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
@@ -1134,18 +1134,6 @@
       "icon": "🏷️"
     },
     {
-      "id": "camisetas-blusas-e-calcas",
-      "name": "Camisetas, blusas e calças",
-      "slug": "camisetas-blusas-e-calcas",
-      "icon": "🏷️"
-    },
-    {
-      "id": "camisetas-calcas-e-blusas",
-      "name": "Camisetas, calças e blusas",
-      "slug": "camisetas-calcas-e-blusas",
-      "icon": "🏷️"
-    },
-    {
       "id": "carrinho-de-bebe-berco-cadeira-de-carro-bebe-conforto",
       "name": "Carrinho de Bebê, Berço, Cadeira de Carro, Bebê Conforto",
       "slug": "carrinho-de-bebe-berco-cadeira-de-carro-bebe-conforto",
@@ -1563,6 +1551,12 @@
       "id": "sports",
       "name": "sports",
       "slug": "sports",
+      "icon": "🏷️"
+    },
+    {
+      "id": "streaming",
+      "name": "Streaming",
+      "slug": "streaming",
       "icon": "🏷️"
     },
     {
@@ -2633,69 +2627,39 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/dJqBWOvq9NYd"
+    },
+    {
+      "id": "69bad6df0a186a32c41adea5",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "VERAO15",
+      "description": "15% OFF em peças de Alto Verão",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EvGFzw3gn6-X"
+    },
+    {
+      "id": "69bb0cea0a186a32c41af740",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "code": "TAIFF",
+      "description": "10% de desconto para os secadores taiff selecionados",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/VZk6FT2RqCK6"
     }
   ],
   "offers": [
-    {
-      "id": "69724421a3075d050fcfc556",
-      "brandId": "10e15c60-c43b-439c-9d53-373bb4388756",
-      "brandName": "Lojão dos Esportes",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/10e15c60-c43b-439c-9d53-373bb4388756/logo",
-      "name": "Camisa do Brasil",
-      "description": "Camisa do Brasil",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mZdQsR8soqFY"
-    },
-    {
-      "id": "6973535ca3075d050fd014e3",
-      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
-      "brandName": "Mundo Vem",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
-      "name": "Sale tudo com 50% OFF",
-      "description": "Sale tudo com 50% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/t7qOLTCsR57S"
-    },
-    {
-      "id": "69735407a3075d050fd01521",
-      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
-      "brandName": "Mundo Vem",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
-      "name": "[FEVEREIRO] Compre e Ganhe",
-      "description": "[FEVEREIRO] Compre e Ganhe",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/jl3liRYTi6Ao"
-    },
-    {
-      "id": "6980bf9d8c4a76c20ce49d1d",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "Summer’ 26",
-      "description": "Summer’ 26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/RTiWNBW29JQs"
-    },
-    {
-      "id": "6984dc3c8c4a76c20ce62ed0",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Lançamentos 2026",
-      "description": "Lançamentos 2026",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/bLp0DAAqKytn"
-    },
     {
       "id": "6985fdba8c4a76c20ce67ecf",
       "brandId": "c9c0e78c-648a-4e8d-897a-3e9492e301b0",
@@ -2791,18 +2755,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/14PeTDcC3Eev"
-    },
-    {
-      "id": "69a587035b90aa51cce55268",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "Preview Fall",
-      "description": "Preview Fall",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/CmdOv4ClpNeu"
     },
     {
       "id": "69a589915b90aa51cce55378",
@@ -3091,6 +3043,18 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/wUmsoLr7J322"
+    },
+    {
+      "id": "69aaf9955b90aa51cce76030",
+      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
+      "brandName": "Guess Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
+      "name": "Fall’26",
+      "description": "Fall’26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-mjV6kWJoYzj"
     },
     {
       "id": "69ab11f25b90aa51cce768ac",
@@ -3469,8 +3433,8 @@
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
       "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Escolha o seu cupom (melhor no app) | GANHE 15 + mimo  ou GANHE 25 + mimo",
-      "description": "Escolha o seu cupom (melhor no app) | GANHE 15 + mimo  ou GANHE 25 + mimo",
+      "name": "Escolha o seu cupom (melhor no app) | GANHE 15 OFF + mimo (compras acima de R$149)  ou GANHE 25 OFF  + mimo (compras acima de R$249)",
+      "description": "Escolha o seu cupom (melhor no app) | GANHE 15 OFF + mimo (compras acima de R$149)  ou GANHE 25 OFF  + mimo (compras acima de R$249)",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
@@ -3547,18 +3511,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/UMshP2v23yYL"
-    },
-    {
-      "id": "69b83c700a186a32c41a095e",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Flash Sale: Ganhe Nécessaire + Skin Tint acima de R$279 | MEUMIMO",
-      "description": "Flash Sale: Ganhe Nécessaire + Skin Tint acima de R$279 | MEUMIMO",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Rq5Q-ej4kmk5"
     },
     {
       "id": "69b853810a186a32c41a1930",
@@ -3811,6 +3763,78 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/y4X716hAVN0b"
+    },
+    {
+      "id": "69baa1630a186a32c41ac81f",
+      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
+      "brandName": "Multimóveis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
+      "name": "Páscoa em Casa",
+      "description": "Páscoa em Casa",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/axuk0xHFQWTD"
+    },
+    {
+      "id": "69bae2a50a186a32c41ae40b",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Compre batons selecionados e escolha lip liner",
+      "description": "Compre batons selecionados e escolha lip liner",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9jxVzOelZnSE"
+    },
+    {
+      "id": "69bae3410a186a32c41ae484",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Lançamento | Shimmer Stick 4YOU ",
+      "description": "Lançamento | Shimmer Stick 4YOU ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/g7MqxBzad5T1"
+    },
+    {
+      "id": "69bb064d0a186a32c41af33b",
+      "brandId": "20b5cefc-3f15-4d49-a046-ef56904ed270",
+      "brandName": "AmoKarité",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20b5cefc-3f15-4d49-a046-ef56904ed270/logo",
+      "name": "Bota fora com 50% off em produtos selecionados ",
+      "description": "Bota fora com 50% off em produtos selecionados ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/uHXLhVI-ssG5"
+    },
+    {
+      "id": "69bb06850a186a32c41af367",
+      "brandId": "20b5cefc-3f15-4d49-a046-ef56904ed270",
+      "brandName": "AmoKarité",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20b5cefc-3f15-4d49-a046-ef56904ed270/logo",
+      "name": "Kit de Páscoa com os best sellers ",
+      "description": "Kit de Páscoa com os best sellers ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/yDZi0LVTToHW"
+    },
+    {
+      "id": "69bb0c680a186a32c41af6bc",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "Eletro Week- Produtos até 40% OFF + cupons de até R$500 OFF",
+      "description": "Eletro Week- Produtos até 40% OFF + cupons de até R$500 OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MFFhKTQPOTVx"
     }
   ]
 }
