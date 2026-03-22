@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T05:58:22.302Z",
+  "lastUpdated": "2026-03-22T06:33:44.059Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -842,6 +842,14 @@
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
+      "id": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
+      "name": "Mondial",
+      "logo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
+      "segment": "Eletrodomesticos",
+      "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
       "id": "de93faa0-5a21-46b6-a1eb-ff6ef1c23779",
       "name": "Candide",
       "logo": "https://cdn.lomadee.com.br/logos/de93faa0-5a21-46b6-a1eb-ff6ef1c23779/logo",
@@ -1197,6 +1205,12 @@
       "id": "education",
       "name": "education",
       "slug": "education",
+      "icon": "🏷️"
+    },
+    {
+      "id": "electronics",
+      "name": "electronics",
+      "slug": "electronics",
       "icon": "🏷️"
     },
     {
@@ -2577,44 +2591,18 @@
       "affiliateUrl": null
     },
     {
-      "id": "69b4227f0a186a32c4194a06",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "code": "CONSUMIDOR5",
-      "description": "5% de desconto em produtos selecionados ",
-      "docType": "code",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/XEs3466dnrtd"
-    },
-    {
-      "id": "69b475430a186a32c4196be3",
-      "brandId": "2c0005fa-a3d6-4062-b0a7-ab9490101e27",
-      "brandName": "FUNKO",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2c0005fa-a3d6-4062-b0a7-ab9490101e27/logo",
-      "code": "FUNKO10",
-      "description": "Cupom de 10% de desconto (Cupom de uso único por CPF.)",
+      "id": "69b19fd85b90aa51cce929b6",
+      "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
+      "brandName": "Mondial",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
+      "code": "MONDIAL25",
+      "description": "Cupom de 25% de desconto",
       "docType": "code",
       "categories": [
-        "shopping"
+        "electronics"
       ],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/kMjDK2xlHrqa"
-    },
-    {
-      "id": "69b4759b0a186a32c4196c10",
-      "brandId": "de93faa0-5a21-46b6-a1eb-ff6ef1c23779",
-      "brandName": "Candide",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/de93faa0-5a21-46b6-a1eb-ff6ef1c23779/logo",
-      "code": "CAND10",
-      "description": "Cupom de 10% de desconto (Cupom de uso único por CPF)",
-      "docType": "code",
-      "categories": [
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9aK8j2SFPavW"
+      "affiliateUrl": "https://lmdee.link/ObXZGIF3TK0k"
     },
     {
       "id": "69b476170a186a32c4196cbb",
@@ -2690,174 +2678,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "69a591535b90aa51cce55dd5",
-      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
-      "brandName": "Coza",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "name": "Use o cupom CAIXASEMFRETE  e ganhe frete grátis em caixa Fit ",
-      "description": "Use o cupom CAIXASEMFRETE  e ganhe frete grátis em caixa Fit ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ThL6C2YebQwX"
-    },
-    {
-      "id": "69a592805b90aa51cce5611f",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "name": "Mês do consumidor Brinox com Desconto no pix de 8% off",
-      "description": "Mês do consumidor Brinox com Desconto no pix de 8% off",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/yqGHSBVaH4Dh"
-    },
-    {
-      "id": "69a5ddc75b90aa51cce59b3d",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Campanha de Lançamento ",
-      "description": "Campanha de Lançamento ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/aU-mwqmBci0l"
-    },
-    {
-      "id": "69a6b6155b90aa51cce5df0c",
-      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
-      "brandName": "Mundo Vem",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
-      "name": "[MARÇO] Mês do Consumidor",
-      "description": "[MARÇO] Mês do Consumidor",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/pD5ZgcjSOd7j"
-    },
-    {
-      "id": "69a6f37d5b90aa51cce604e5",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "BANNER IDENTIDADE ",
-      "description": "BANNER IDENTIDADE ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/RM2inO6PQsUA"
-    },
-    {
-      "id": "69a6f3a55b90aa51cce60526",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "BANNER DESCONTO PROGRESSIVO ",
-      "description": "BANNER DESCONTO PROGRESSIVO ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/blCuyjaNCh-g"
-    },
-    {
-      "id": "69a6f3d35b90aa51cce60561",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED IDENTIDADE V1",
-      "description": "FEED IDENTIDADE V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/I3IdWhgtmCzy"
-    },
-    {
-      "id": "69a6f3f15b90aa51cce6058f",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY IDENTIDADE V1",
-      "description": "STORY IDENTIDADE V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/WLIwH3NB4XSb"
-    },
-    {
-      "id": "69a6f4175b90aa51cce60612",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED IDENTIDADE V2",
-      "description": "FEED IDENTIDADE V2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/4gxJrUjLTxO8"
-    },
-    {
-      "id": "69a6f4385b90aa51cce606c0",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY IDENTIDADE V2",
-      "description": "STORY IDENTIDADE V2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/P6qrLtq1bO1N"
-    },
-    {
-      "id": "69a6f45d5b90aa51cce60707",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED IDETIDADE V3",
-      "description": "FEED IDETIDADE V3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/jo9vMKk1foJp"
-    },
-    {
-      "id": "69a6f47a5b90aa51cce6072f",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY IDENTIDADE V3",
-      "description": "STORY IDENTIDADE V3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/jGwj8npeBhpT"
-    },
-    {
-      "id": "69a6f49d5b90aa51cce6076f",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED PROGRESSIVO V1",
-      "description": "FEED PROGRESSIVO V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/VeeBI8D3YIby"
-    },
-    {
-      "id": "69a6f4be5b90aa51cce607ab",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY PROGRESSIVO V1",
-      "description": "STORY PROGRESSIVO V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/2iYM6DYl9iFq"
-    },
     {
       "id": "69a6f4f45b90aa51cce607e5",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
@@ -3159,6 +2979,18 @@
       "affiliateUrl": "https://lmdee.link/1fmYQ64nqHDt"
     },
     {
+      "id": "69b1a5bd5b90aa51cce92b23",
+      "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
+      "brandName": "Mondial",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
+      "name": "Primeira Campanha - VSP-40C-NB [25%]",
+      "description": "Primeira Campanha - VSP-40C-NB [25%]",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/cH5nHcNco1OY"
+    },
+    {
       "id": "69b40bcd0a186a32c4193dd2",
       "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
       "brandName": "Multimóveis",
@@ -3289,18 +3121,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/z2Xem8DB4mOl"
-    },
-    {
-      "id": "69b422e00a186a32c4194a20",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Ofertas Relâmpago Móveis Carraro ( promoção acumulativa com o cupom CONSUMIDOR5)",
-      "description": "Ofertas Relâmpago Móveis Carraro ( promoção acumulativa com o cupom CONSUMIDOR5)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/AInNJZVGymvr"
     },
     {
       "id": "69b439390a186a32c419522c",
@@ -3687,18 +3507,6 @@
       "affiliateUrl": "https://lmdee.link/axuk0xHFQWTD"
     },
     {
-      "id": "69bae2a50a186a32c41ae40b",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Compre batons selecionados e escolha lip liner",
-      "description": "Compre batons selecionados e escolha lip liner",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9jxVzOelZnSE"
-    },
-    {
       "id": "69bae3410a186a32c41ae484",
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
@@ -3877,6 +3685,186 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/JJ-wEs1WqOYi"
+    },
+    {
+      "id": "69bd55ab0a186a32c41b7cc1",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Flash Sale: 6 produtos por R$199 | + paleta de sombra como mimo | MEUMIMO",
+      "description": "Flash Sale: 6 produtos por R$199 | + paleta de sombra como mimo | MEUMIMO",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/oxmDxhiKHcRn"
+    },
+    {
+      "id": "69bd8a000a186a32c41b9309",
+      "brandId": "c7fda3cb-c9e5-4a06-822d-5d687cc56802",
+      "brandName": "Zupper",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c7fda3cb-c9e5-4a06-822d-5d687cc56802/logo",
+      "name": "Viaje com o Zupper",
+      "description": "Viaje com o Zupper",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/SnxkiHd-BAnf"
+    },
+    {
+      "id": "69bd8bc20a186a32c41b94ce",
+      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
+      "brandName": "NutriBullet",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
+      "name": "Frete Grátis em Todo o Site | Nutribullet",
+      "description": "Frete Grátis em Todo o Site | Nutribullet",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dasQu7dPiCkD"
+    },
+    {
+      "id": "69bd98790a186a32c41b9b33",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Queima de estoque na categoria de climatização",
+      "description": "Queima de estoque na categoria de climatização",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/oQBKlWqHzKTn"
+    },
+    {
+      "id": "69bda0900a186a32c41b9e14",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/na-fdN3h36F3"
+    },
+    {
+      "id": "69bda0f00a186a32c41b9e6d",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/smAYNAdwOXKc"
+    },
+    {
+      "id": "69bda1360a186a32c41b9ea6",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/G7szxSFPHKIn"
+    },
+    {
+      "id": "69bda21b0a186a32c41b9f67",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qMWq087mvUiD"
+    },
+    {
+      "id": "69bda2470a186a32c41b9f95",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/xG9FtvGPM1XA"
+    },
+    {
+      "id": "69bda2820a186a32c41b9fc9",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/wqP5BczfwVGV"
+    },
+    {
+      "id": "69bda34f0a186a32c41ba137",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Va64byX4oxk5"
+    },
+    {
+      "id": "69bda3760a186a32c41ba181",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2C2vd5ZSvDfs"
+    },
+    {
+      "id": "69bda3ad0a186a32c41ba1d0",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vKkL0QfRpCfY"
+    },
+    {
+      "id": "69bda3e20a186a32c41ba21e",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7C89WjE-yI5E"
+    },
+    {
+      "id": "69bdac2e0a186a32c41ba649",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Cupom MAIS25 *lista selecionada",
+      "description": "Cupom MAIS25 *lista selecionada",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/GPoly4bdufGC"
     }
   ]
 }
