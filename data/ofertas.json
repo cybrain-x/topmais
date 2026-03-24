@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T05:26:52.321Z",
+  "lastUpdated": "2026-03-24T05:20:11.098Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2619,20 +2619,6 @@
       "affiliateUrl": "https://lmdee.link/Y27uaVX9tI8X"
     },
     {
-      "id": "69b856390a186a32c41a1a3f",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "INICIODOOUTONO",
-      "description": "INICIO DO OUTONO",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/HP8bl80Kjvt4"
-    },
-    {
       "id": "69b9bdad0a186a32c41a942d",
       "brandId": "09562538-fde7-4bbf-947b-2ccebbc1c887",
       "brandName": "Le Loyn Parfums",
@@ -2645,21 +2631,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/dJqBWOvq9NYd"
-    },
-    {
-      "id": "69bad6df0a186a32c41adea5",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "VERAO15",
-      "description": "15% OFF em peças de Alto Verão",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/EvGFzw3gn6-X"
     },
     {
       "id": "69bb0cea0a186a32c41af740",
@@ -2678,6 +2649,30 @@
     }
   ],
   "offers": [
+    {
+      "id": "69a6f49d5b90aa51cce6076f",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "FEED PROGRESSIVO V1",
+      "description": "FEED PROGRESSIVO V1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/VeeBI8D3YIby"
+    },
+    {
+      "id": "69a6f4be5b90aa51cce607ab",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "STORY PROGRESSIVO V1",
+      "description": "STORY PROGRESSIVO V1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2iYM6DYl9iFq"
+    },
     {
       "id": "69a6f4f45b90aa51cce607e5",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
@@ -3229,30 +3224,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/DV1vXZiHlQJq"
-    },
-    {
-      "id": "69b7fe8e0a186a32c419f515",
-      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
-      "brandName": "Ortope",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
-      "name": "Novidades em Sandálias Ortopé",
-      "description": "Novidades em Sandálias Ortopé",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/UMshP2v23yYL"
-    },
-    {
-      "id": "69b853810a186a32c41a1930",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "FESTIVAL DA CONSTRUÇÃO",
-      "description": "FESTIVAL DA CONSTRUÇÃO",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/0pI4s73dymfc"
     },
     {
       "id": "69b9ab400a186a32c41a810b",
