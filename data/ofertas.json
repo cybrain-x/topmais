@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T05:20:11.098Z",
+  "lastUpdated": "2026-03-25T05:20:03.253Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2650,18 +2650,6 @@
   ],
   "offers": [
     {
-      "id": "69a6f49d5b90aa51cce6076f",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED PROGRESSIVO V1",
-      "description": "FEED PROGRESSIVO V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/VeeBI8D3YIby"
-    },
-    {
       "id": "69a6f4be5b90aa51cce607ab",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
       "brandName": "Amakha Paris",
@@ -2984,18 +2972,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/cH5nHcNco1OY"
-    },
-    {
-      "id": "69b40bcd0a186a32c4193dd2",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Última Chance do Consumidor",
-      "description": "Última Chance do Consumidor",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/bTBSd71M-EaP"
     },
     {
       "id": "69b416680a186a32c4193fac",
@@ -3658,18 +3634,6 @@
       "affiliateUrl": "https://lmdee.link/JJ-wEs1WqOYi"
     },
     {
-      "id": "69bd55ab0a186a32c41b7cc1",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Flash Sale: 6 produtos por R$199 | + paleta de sombra como mimo | MEUMIMO",
-      "description": "Flash Sale: 6 produtos por R$199 | + paleta de sombra como mimo | MEUMIMO",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/oxmDxhiKHcRn"
-    },
-    {
       "id": "69bd8a000a186a32c41b9309",
       "brandId": "c7fda3cb-c9e5-4a06-822d-5d687cc56802",
       "brandName": "Zupper",
@@ -3836,6 +3800,42 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/GPoly4bdufGC"
+    },
+    {
+      "id": "69c14a24768c8f2da4572099",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "Antecipa Páscoa Ortopé",
+      "description": "Antecipa Páscoa Ortopé",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8Y606PkU05HD"
+    },
+    {
+      "id": "69c176de768c8f2da4573381",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Ganhe Mini Ventilador nas compras acima de R$219",
+      "description": "Ganhe Mini Ventilador nas compras acima de R$219",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/5f5HYLikXHUv"
+    },
+    {
+      "id": "69c18c09768c8f2da45742e5",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Bolsas nova coleção ",
+      "description": "Bolsas nova coleção ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9ZYHwQpHbMz5"
     }
   ]
 }
