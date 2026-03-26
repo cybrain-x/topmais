@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T05:20:03.253Z",
+  "lastUpdated": "2026-03-26T05:28:12.815Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -621,7 +621,7 @@
       "id": "a0124a6a-c622-4b7d-a560-bc75a515b542",
       "name": "Kidy Calçados",
       "logo": "https://cdn.lomadee.com.br/logos/a0124a6a-c622-4b7d-a560-bc75a515b542/logo",
-      "segment": "Moda Infantil",
+      "segment": "fashion",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
@@ -1589,6 +1589,12 @@
       "id": "tourism",
       "name": "tourism",
       "slug": "tourism",
+      "icon": "🏷️"
+    },
+    {
+      "id": "tourism-and-leisure",
+      "name": "tourism-and-leisure",
+      "slug": "tourism-and-leisure",
       "icon": "🏷️"
     },
     {
@@ -2646,201 +2652,70 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/VZk6FT2RqCK6"
+    },
+    {
+      "id": "69c294ed768c8f2da45787dc",
+      "brandId": "a0124a6a-c622-4b7d-a560-bc75a515b542",
+      "brandName": "Kidy Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/a0124a6a-c622-4b7d-a560-bc75a515b542/logo",
+      "code": "AFILIKIDY",
+      "description": "AFILIKIDY ",
+      "docType": "code",
+      "categories": [
+        "industry-and-commerce"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/H1Rw1P1iYAmn"
+    },
+    {
+      "id": "69c2ce9d768c8f2da457a052",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "10EXTRA",
+      "description": "10% OFF EXTRA em cima de produtos com até 50% OFF",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mOehXm6JwKVc"
+    },
+    {
+      "id": "69c2d4e1768c8f2da457a393",
+      "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
+      "brandName": "DeÔnibus",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b89e4834-6f7c-4ac8-9972-5d579488432c/logo",
+      "code": "LOMADEE5",
+      "description": "5%OFF na passagem | Geral Lomadee",
+      "docType": "code",
+      "categories": [
+        "tourism-and-leisure"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/UmPyhXFAXwbC"
+    },
+    {
+      "id": "69c30852768c8f2da457c480",
+      "brandId": "304e46ab-9e6f-462d-87e7-9afad02997aa",
+      "brandName": "BioVittare Farmácia de Manipulação",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/3f3ddff2-6648-4a4a-84b1-62fed82cad71/logo/images%20%281%29.png",
+      "code": "CONSUMIDOR",
+      "description": "Consumidor",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "wellness",
+        "woman",
+        "health",
+        "promotions"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QZynjwMMiLlV"
     }
   ],
   "offers": [
-    {
-      "id": "69a6f4be5b90aa51cce607ab",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY PROGRESSIVO V1",
-      "description": "STORY PROGRESSIVO V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/2iYM6DYl9iFq"
-    },
-    {
-      "id": "69a6f4f45b90aa51cce607e5",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED PROGRESSIVO V2",
-      "description": "FEED PROGRESSIVO V2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/h6XEKNXT44D4"
-    },
-    {
-      "id": "69a6f5585b90aa51cce60876",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY PROGRESSIVO V2",
-      "description": "STORY PROGRESSIVO V2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/YbbSue5i5i-7"
-    },
-    {
-      "id": "69a6f57d5b90aa51cce6089e",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED PROGRESSIVO V3",
-      "description": "FEED PROGRESSIVO V3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/b44vfGKrvhRr"
-    },
-    {
-      "id": "69a6f59e5b90aa51cce6090b",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY PROGRESSIVO V3",
-      "description": "STORY PROGRESSIVO V3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/baU-CZpbbChq"
-    },
-    {
-      "id": "69a726965b90aa51cce624a0",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Campanha Bebê a Bordo",
-      "description": "Campanha Bebê a Bordo",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Nk0WSOt344fv"
-    },
-    {
-      "id": "69a9cf925b90aa51cce702f8",
-      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
-      "brandName": "Electrolux",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
-      "name": "Até 65% OFF + 10% no PIX + Frete Grátis em produtos selecionados",
-      "description": "Até 65% OFF + 10% no PIX + Frete Grátis em produtos selecionados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mJYhuZXwWYYr"
-    },
-    {
-      "id": "69a9d2455b90aa51cce7057f",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "Até 60% off + frete gratis *",
-      "description": "Até 60% off + frete gratis *",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/A3d86BJCdryC"
-    },
-    {
-      "id": "69aad4155b90aa51cce74c46",
-      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
-      "brandName": "Up4you",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
-      "name": "Saldão Mês do Consumidor - Produtos com até 70% OFF",
-      "description": "Saldão Mês do Consumidor - Produtos com até 70% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/wUmsoLr7J322"
-    },
-    {
-      "id": "69aaf9955b90aa51cce76030",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "Fall’26",
-      "description": "Fall’26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/-mjV6kWJoYzj"
-    },
-    {
-      "id": "69ab11f25b90aa51cce768ac",
-      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
-      "brandName": "Vestis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
-      "name": "Mês do Consumidor",
-      "description": "Mês do Consumidor",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/a8qHvru39tcq"
-    },
-    {
-      "id": "69ab39a95b90aa51cce77b00",
-      "brandId": "3ac8822c-900d-46f3-ae72-67c155a3ba99",
-      "brandName": "Openbox2",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/e2fa694d-566d-4af9-9fa7-dc4f29387eec/logo/transferir%20%281%29.jpeg",
-      "name": "Promoção mês do consumidor ",
-      "description": "Promoção mês do consumidor ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/6La-pECXwC7F"
-    },
-    {
-      "id": "69aed7925b90aa51cce821aa",
-      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
-      "brandName": "Camisaria Colombo",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
-      "name": "Mês do Consumidor Camisaria Colombo com valores promocionais e frete grátis nas compras acima de R$ 199,00 [Brasil todo]🔥",
-      "description": "Mês do Consumidor Camisaria Colombo com valores promocionais e frete grátis nas compras acima de R$ 199,00 [Brasil todo]🔥",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/uWvfPHwMXaZF"
-    },
-    {
-      "id": "69aeda5c5b90aa51cce82adf",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/KpjZ0-JpEAia"
-    },
-    {
-      "id": "69aeda775b90aa51cce82b94",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/5PFhE1BuUElI"
-    },
-    {
-      "id": "69aeda8d5b90aa51cce82c3c",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/8N2OZspD04LV"
-    },
     {
       "id": "69aedaa25b90aa51cce82cc6",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3128,18 +3003,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/EFdHqOU0B85J"
-    },
-    {
-      "id": "69b477b90a186a32c4196ec3",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Escolha o seu cupom (melhor no app) | GANHE 15 OFF + mimo (compras acima de R$149)  ou GANHE 25 OFF  + mimo (compras acima de R$249)",
-      "description": "Escolha o seu cupom (melhor no app) | GANHE 15 OFF + mimo (compras acima de R$149)  ou GANHE 25 OFF  + mimo (compras acima de R$249)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/GZeDq0GzsB4j"
     },
     {
       "id": "69b478250a186a32c4196efd",
@@ -3836,6 +3699,210 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/9ZYHwQpHbMz5"
+    },
+    {
+      "id": "69c2c947768c8f2da4579e39",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Mês do Consumidor: ganhe até 6 Travel Sizes",
+      "description": "Mês do Consumidor: ganhe até 6 Travel Sizes",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/UFVWNJRG2gY2"
+    },
+    {
+      "id": "69c2e4a5768c8f2da457aeb2",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "feed outono v1",
+      "description": "feed outono v1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JykaPowQ4HKe"
+    },
+    {
+      "id": "69c2e4d7768c8f2da457aeee",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "story outono v1",
+      "description": "story outono v1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Cno6MQ1MVwCL"
+    },
+    {
+      "id": "69c2e4fd768c8f2da457afbb",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "feed outono v2",
+      "description": "feed outono v2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/VAPOHYlj9B-0"
+    },
+    {
+      "id": "69c2e528768c8f2da457b0bd",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "story outono v2",
+      "description": "story outono v2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/BhthLOR7wvp-"
+    },
+    {
+      "id": "69c2e54a768c8f2da457b0ee",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "feed outono v3",
+      "description": "feed outono v3",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/WUOWU-MGKWBb"
+    },
+    {
+      "id": "69c2e576768c8f2da457b117",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "story outono v3",
+      "description": "story outono v3",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NEt1knZn4qSD"
+    },
+    {
+      "id": "69c2e5a4768c8f2da457b163",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "feed progressivo v1",
+      "description": "feed progressivo v1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kkl7CcFF0Oy9"
+    },
+    {
+      "id": "69c2e5c6768c8f2da457b18b",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "STORY PROGRESSIVO V1",
+      "description": "STORY PROGRESSIVO V1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/5A1gDFE6JMKZ"
+    },
+    {
+      "id": "69c2e5e6768c8f2da457b1bb",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "STORY PROGRESSIVO V2",
+      "description": "STORY PROGRESSIVO V2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TlTyU-nMmNuZ"
+    },
+    {
+      "id": "69c2e62d768c8f2da457b253",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "FEED PROGRESSIVO V2",
+      "description": "FEED PROGRESSIVO V2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/RmkCIbxdAai2"
+    },
+    {
+      "id": "69c2e654768c8f2da457b2a7",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "FEED PROGRESSIVO V3",
+      "description": "FEED PROGRESSIVO V3",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dnUTqSUqbQM8"
+    },
+    {
+      "id": "69c2e66e768c8f2da457b2ec",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "STORY PROGRESSIVO V3",
+      "description": "STORY PROGRESSIVO V3",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/RTXCmyjpiGLR"
+    },
+    {
+      "id": "69c2e69a768c8f2da457b350",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "banner progressivo ",
+      "description": "banner progressivo ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/001UF0ul5OqX"
+    },
+    {
+      "id": "69c2e6bb768c8f2da457b39f",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "banner outono ",
+      "description": "banner outono ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HbtBgxf-g0Tr"
+    },
+    {
+      "id": "69c2f392768c8f2da457bd0c",
+      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
+      "brandName": "TeraByte",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
+      "name": "Placa Mãe Gigabyte B550M AORUS Elite, Chipset B550, AMD AM4, mATX, DDR4 por R$ 739,99 no pix e R$ 870,50 em até 12x s/juros  ",
+      "description": "Placa Mãe Gigabyte B550M AORUS Elite, Chipset B550, AMD AM4, mATX, DDR4 por R$ 739,99 no pix e R$ 870,50 em até 12x s/juros  ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/m8FTUVhnqqEr"
+    },
+    {
+      "id": "69c2f3bb768c8f2da457bd45",
+      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
+      "brandName": "TeraByte",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
+      "name": "Cadeira de Escritório Dr. Office Work, Preta, Mesh, DR-CH-WKR2DB por R$ 429,90 no pix ou R$ 505,76 em até 12 s/juros ",
+      "description": "Cadeira de Escritório Dr. Office Work, Preta, Mesh, DR-CH-WKR2DB por R$ 429,90 no pix ou R$ 505,76 em até 12 s/juros ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4dp3TYkWsVfX"
     }
   ]
 }
