@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T05:28:12.815Z",
+  "lastUpdated": "2026-03-27T05:29:29.225Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2713,81 +2713,38 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/QZynjwMMiLlV"
+    },
+    {
+      "id": "69c44072768c8f2da45822b3",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "code": "GANHEI100LD",
+      "description": "Cupom R$ 100,00 de Desconto no Robô Aspirador Roomba 705+",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "electronics"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1EkVUxYY-9j5"
+    },
+    {
+      "id": "69c442e2768c8f2da45824fc",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "code": "GANHEI100IRBT",
+      "description": "Cupom R$ 100,00 De Desconto no Robô Aspirador Roomba 105+",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MENmApIwEJS6"
     }
   ],
   "offers": [
-    {
-      "id": "69aedaa25b90aa51cce82cc6",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/IErfy7W3P3Uz"
-    },
-    {
-      "id": "69aedab95b90aa51cce82d1c",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9kyYy8UBWba-"
-    },
-    {
-      "id": "69aedad95b90aa51cce82d44",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/BvBPBghbDEG5"
-    },
-    {
-      "id": "69aedbfd5b90aa51cce82d94",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Q3qhzO8kUth-"
-    },
-    {
-      "id": "69aedc115b90aa51cce82dce",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ozShg9eYRTx2"
-    },
-    {
-      "id": "69aedc275b90aa51cce82df6",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/oiVZdjRMhAUs"
-    },
     {
       "id": "69aedc3d5b90aa51cce82e1e",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3677,18 +3634,6 @@
       "affiliateUrl": "https://lmdee.link/8Y606PkU05HD"
     },
     {
-      "id": "69c176de768c8f2da4573381",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Ganhe Mini Ventilador nas compras acima de R$219",
-      "description": "Ganhe Mini Ventilador nas compras acima de R$219",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/5f5HYLikXHUv"
-    },
-    {
       "id": "69c18c09768c8f2da45742e5",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -3903,6 +3848,102 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/4dp3TYkWsVfX"
+    },
+    {
+      "id": "69c3f41c768c8f2da457f32d",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "Portáteis Week - Até 55% OFF + Frete grátis ",
+      "description": "Portáteis Week - Até 55% OFF + Frete grátis ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MNcp9IcefQgM"
+    },
+    {
+      "id": "69c3f4fc768c8f2da457f3d7",
+      "brandId": "a0124a6a-c622-4b7d-a560-bc75a515b542",
+      "brandName": "Kidy Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/a0124a6a-c622-4b7d-a560-bc75a515b542/logo",
+      "name": "Mês do Consumidor ",
+      "description": "Mês do Consumidor ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8xPLO1FZsciB"
+    },
+    {
+      "id": "69c42560768c8f2da4580afc",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Flash Sale: Até 40%OFF na linha glossy",
+      "description": "Flash Sale: Até 40%OFF na linha glossy",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/56Z6gCZk78e3"
+    },
+    {
+      "id": "69c43f26768c8f2da45820ac",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Frete Grátis iRobot - Mês do Consumidor ",
+      "description": "Frete Grátis iRobot - Mês do Consumidor ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/COPLtlzcF5Qq"
+    },
+    {
+      "id": "69c4424a768c8f2da4582486",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Cupom de Desconto para Robô Aspirador Roomba 105+ ",
+      "description": "Cupom de Desconto para Robô Aspirador Roomba 105+ ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/xPUruAiTguZ7"
+    },
+    {
+      "id": "69c442b9768c8f2da45824e4",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Desconto Aspirador Robô Roomba 105+ da iRobot",
+      "description": "Desconto Aspirador Robô Roomba 105+ da iRobot",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/BxDtvN4uHScL"
+    },
+    {
+      "id": "69c44350768c8f2da4582565",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Cupom de Desconto para Robô Aspirador Roomba 705+ ",
+      "description": "Cupom de Desconto para Robô Aspirador Roomba 705+ ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dM1XOFtaOAmo"
+    },
+    {
+      "id": "69c44386768c8f2da458258e",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Desconto Aspirador Robô Roomba 705+ da iRobot",
+      "description": "Desconto Aspirador Robô Roomba 705+ da iRobot",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fxfL3mG73-cs"
     }
   ]
 }
