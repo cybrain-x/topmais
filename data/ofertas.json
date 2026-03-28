@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T05:29:29.225Z",
+  "lastUpdated": "2026-03-28T05:17:54.979Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2742,129 +2742,25 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/MENmApIwEJS6"
+    },
+    {
+      "id": "69c5790d768c8f2da4587912",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "code": "PASCOA10",
+      "description": "Cupom de 10% de Desconto",
+      "docType": "code",
+      "categories": [
+        "food-and-beverages",
+        "shopping",
+        "tourism-and-leisure"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TBxNV3-0Mg4t"
     }
   ],
   "offers": [
-    {
-      "id": "69aedc3d5b90aa51cce82e1e",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Liqui até 60%",
-      "description": "Liqui até 60%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ww33OcQqp06g"
-    },
-    {
-      "id": "69b00b7f5b90aa51cce897d2",
-      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
-      "brandName": "Nobelpack",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "name": "Sacolas personalizadas com a sua marca",
-      "description": "Sacolas personalizadas com a sua marca",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/IPZ--tlOw-qM"
-    },
-    {
-      "id": "69b029e35b90aa51cce8afe1",
-      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
-      "brandName": "Nobelpack",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "name": "Envelopes personalizados",
-      "description": "Envelopes personalizados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/cpio-21L1Yhd"
-    },
-    {
-      "id": "69b188195b90aa51cce91daf",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Mês do consumidor Móveis Carraro",
-      "description": "Mês do consumidor Móveis Carraro",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/1fmYQ64nqHDt"
-    },
-    {
-      "id": "69b1a5bd5b90aa51cce92b23",
-      "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
-      "brandName": "Mondial",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
-      "name": "Primeira Campanha - VSP-40C-NB [25%]",
-      "description": "Primeira Campanha - VSP-40C-NB [25%]",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/cH5nHcNco1OY"
-    },
-    {
-      "id": "69b416680a186a32c4193fac",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Lançamento oi26",
-      "description": "Lançamento oi26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/1MW54GNswAHv"
-    },
-    {
-      "id": "69b4169b0a186a32c4193fd8",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Lançamento oi26",
-      "description": "Lançamento oi26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9gIAunxNMilX"
-    },
-    {
-      "id": "69b416c70a186a32c4194001",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Lançamento oi26",
-      "description": "Lançamento oi26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/0b8Ku-YFHRSY"
-    },
-    {
-      "id": "69b417860a186a32c419408a",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Lançamento oi26",
-      "description": "Lançamento oi26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/iFLbcLwVxZIv"
-    },
-    {
-      "id": "69b417e20a186a32c41940fc",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Lançamento oi26",
-      "description": "Lançamento oi26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/gnvtcX8Y579n"
-    },
     {
       "id": "69b418140a186a32c41941af",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3478,18 +3374,6 @@
       "affiliateUrl": "https://lmdee.link/dasQu7dPiCkD"
     },
     {
-      "id": "69bd98790a186a32c41b9b33",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Queima de estoque na categoria de climatização",
-      "description": "Queima de estoque na categoria de climatização",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/oQBKlWqHzKTn"
-    },
-    {
       "id": "69bda0900a186a32c41b9e14",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -3944,6 +3828,114 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/fxfL3mG73-cs"
+    },
+    {
+      "id": "69c53292768c8f2da458540a",
+      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
+      "brandName": "TeraByte",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
+      "name": "Pasta Térmica SuperFrame Cryo, 9W/m-K, Alta Durabilidade e Performance, 5g por R$ 19,90 no pix ou R$ 23,41 em 1x s/juros",
+      "description": "Pasta Térmica SuperFrame Cryo, 9W/m-K, Alta Durabilidade e Performance, 5g por R$ 19,90 no pix ou R$ 23,41 em 1x s/juros",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4dojWFTuM3TX"
+    },
+    {
+      "id": "69c532c2768c8f2da4585439",
+      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
+      "brandName": "TeraByte",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
+      "name": "Teclado Mecânico Gamer Ninja Leap 60%, Switch Blue, Rainbow, ABNT2, Branco, GN-KB-LPBL60WBUAB por R$ 79,99 no pix ou R$ 94,11 em 4x s/juros",
+      "description": "Teclado Mecânico Gamer Ninja Leap 60%, Switch Blue, Rainbow, ABNT2, Branco, GN-KB-LPBL60WBUAB por R$ 79,99 no pix ou R$ 94,11 em 4x s/juros",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/UpZKQnYiB3Fy"
+    },
+    {
+      "id": "69c532f3768c8f2da458546d",
+      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
+      "brandName": "TeraByte",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
+      "name": "Cooler para Processador Cooler Master I30 92mm, Intel, RH-I30-26FK-R1 por R$ 29,90 no pix ou R$ 35,18 em 1x s/juros",
+      "description": "Cooler para Processador Cooler Master I30 92mm, Intel, RH-I30-26FK-R1 por R$ 29,90 no pix ou R$ 35,18 em 1x s/juros",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fr1DkpCue6F2"
+    },
+    {
+      "id": "69c570f0768c8f2da45876b0",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "Até 30% OFF Promo Páscoa Março",
+      "description": "Até 30% OFF Promo Páscoa Março",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7tBWbF7Jg5me"
+    },
+    {
+      "id": "69c57366768c8f2da458773b",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "15% OFF acima de 6 Unidades - Promo Páscoa v2",
+      "description": "15% OFF acima de 6 Unidades - Promo Páscoa v2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/v8UsHn0QCyVy"
+    },
+    {
+      "id": "69c587b5768c8f2da45880e4",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Bazar Sandálias",
+      "description": "Bazar Sandálias",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/VvJ3QEOUSqYE"
+    },
+    {
+      "id": "69c5882c768c8f2da4588181",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Bazar Bolsas",
+      "description": "Bazar Bolsas",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Chu2V7FVEWGv"
+    },
+    {
+      "id": "69c58890768c8f2da45881ab",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Bazar Sapatos",
+      "description": "Bazar Sapatos",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fzBFmhLKXfNQ"
+    },
+    {
+      "id": "69c5890f768c8f2da45881df",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Bazar Soulier",
+      "description": "Bazar Soulier",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TetGn6bOKoMK"
     }
   ]
 }
