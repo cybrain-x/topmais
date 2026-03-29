@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T05:17:54.979Z",
+  "lastUpdated": "2026-03-29T05:45:55.277Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2758,21 +2758,39 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/TBxNV3-0Mg4t"
+    },
+    {
+      "id": "69c6d518768c8f2da458d865",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "AMOBASICO",
+      "description": "20% OFF em nossos Básicos",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/l73TG1vg13el"
+    },
+    {
+      "id": "69c6d54e768c8f2da458d8a7",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "VESTIDO15",
+      "description": "15% OFF na categoria de Vestidos Selecionados",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/emmz7XJlso2T"
     }
   ],
   "offers": [
-    {
-      "id": "69b418140a186a32c41941af",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Lançamento oi26",
-      "description": "Lançamento oi26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/pHSYfh9cyQfH"
-    },
     {
       "id": "69b418510a186a32c419423d",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -2856,18 +2874,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/EFdHqOU0B85J"
-    },
-    {
-      "id": "69b478250a186a32c4196efd",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Escolha o seu serum de brinde em compras acima de R$299",
-      "description": "Escolha o seu serum de brinde em compras acima de R$299",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/u5EaL3tomz7M"
     },
     {
       "id": "69b478a20a186a32c4196f46",
@@ -3758,18 +3764,6 @@
       "affiliateUrl": "https://lmdee.link/8xPLO1FZsciB"
     },
     {
-      "id": "69c42560768c8f2da4580afc",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Flash Sale: Até 40%OFF na linha glossy",
-      "description": "Flash Sale: Até 40%OFF na linha glossy",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/56Z6gCZk78e3"
-    },
-    {
       "id": "69c43f26768c8f2da45820ac",
       "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
       "brandName": "iRobot",
@@ -3936,6 +3930,42 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/TetGn6bOKoMK"
+    },
+    {
+      "id": "69c67dc7768c8f2da458b404",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Mês do Consumidor | Nas compras acima de R$219 escolha 1 produto por R$1",
+      "description": "Mês do Consumidor | Nas compras acima de R$219 escolha 1 produto por R$1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8U-zL-5lmvSU"
+    },
+    {
+      "id": "69c69ab6768c8f2da458c1de",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Tenis_OI26",
+      "description": "Tenis_OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/FvkJ5LQSfPy3"
+    },
+    {
+      "id": "69c69afe768c8f2da458c208",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Saltos OI26",
+      "description": "Saltos OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MbFghDdohDW6"
     }
   ]
 }
