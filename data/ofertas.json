@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T05:56:02.019Z",
+  "lastUpdated": "2026-03-31T05:41:06.859Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2758,39 +2758,33 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/TBxNV3-0Mg4t"
-    },
-    {
-      "id": "69c6d518768c8f2da458d865",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "AMOBASICO",
-      "description": "20% OFF em nossos Básicos",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/l73TG1vg13el"
-    },
-    {
-      "id": "69c6d54e768c8f2da458d8a7",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "VESTIDO15",
-      "description": "15% OFF na categoria de Vestidos Selecionados",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/emmz7XJlso2T"
     }
   ],
   "offers": [
+    {
+      "id": "69b417e20a186a32c41940fc",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Lançamento oi26",
+      "description": "Lançamento oi26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/gnvtcX8Y579n"
+    },
+    {
+      "id": "69b418140a186a32c41941af",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Lançamento oi26",
+      "description": "Lançamento oi26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/pHSYfh9cyQfH"
+    },
     {
       "id": "69b418510a186a32c419423d",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3714,30 +3708,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/HbtBgxf-g0Tr"
-    },
-    {
-      "id": "69c2f392768c8f2da457bd0c",
-      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
-      "brandName": "TeraByte",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
-      "name": "Placa Mãe Gigabyte B550M AORUS Elite, Chipset B550, AMD AM4, mATX, DDR4 por R$ 739,99 no pix e R$ 870,50 em até 12x s/juros  ",
-      "description": "Placa Mãe Gigabyte B550M AORUS Elite, Chipset B550, AMD AM4, mATX, DDR4 por R$ 739,99 no pix e R$ 870,50 em até 12x s/juros  ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/m8FTUVhnqqEr"
-    },
-    {
-      "id": "69c2f3bb768c8f2da457bd45",
-      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
-      "brandName": "TeraByte",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
-      "name": "Cadeira de Escritório Dr. Office Work, Preta, Mesh, DR-CH-WKR2DB por R$ 429,90 no pix ou R$ 505,76 em até 12 s/juros ",
-      "description": "Cadeira de Escritório Dr. Office Work, Preta, Mesh, DR-CH-WKR2DB por R$ 429,90 no pix ou R$ 505,76 em até 12 s/juros ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/4dp3TYkWsVfX"
     },
     {
       "id": "69c3f41c768c8f2da457f32d",
