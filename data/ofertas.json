@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T05:41:06.859Z",
+  "lastUpdated": "2026-04-01T05:51:06.421Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2697,24 +2697,6 @@
       "affiliateUrl": "https://lmdee.link/UmPyhXFAXwbC"
     },
     {
-      "id": "69c30852768c8f2da457c480",
-      "brandId": "304e46ab-9e6f-462d-87e7-9afad02997aa",
-      "brandName": "BioVittare Farmácia de Manipulação",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/3f3ddff2-6648-4a4a-84b1-62fed82cad71/logo/images%20%281%29.png",
-      "code": "CONSUMIDOR",
-      "description": "Consumidor",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "wellness",
-        "woman",
-        "health",
-        "promotions"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/QZynjwMMiLlV"
-    },
-    {
       "id": "69c44072768c8f2da45822b3",
       "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
       "brandName": "iRobot",
@@ -2761,6 +2743,138 @@
     }
   ],
   "offers": [
+    {
+      "id": "69ab11f25b90aa51cce768ac",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Mês do Consumidor",
+      "description": "Mês do Consumidor",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/a8qHvru39tcq"
+    },
+    {
+      "id": "69ab39a95b90aa51cce77b00",
+      "brandId": "3ac8822c-900d-46f3-ae72-67c155a3ba99",
+      "brandName": "Openbox2",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/e2fa694d-566d-4af9-9fa7-dc4f29387eec/logo/transferir%20%281%29.jpeg",
+      "name": "Promoção mês do consumidor ",
+      "description": "Promoção mês do consumidor ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/6La-pECXwC7F"
+    },
+    {
+      "id": "69aed7925b90aa51cce821aa",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Mês do Consumidor Camisaria Colombo com valores promocionais e frete grátis nas compras acima de R$ 199,00 [Brasil todo]🔥",
+      "description": "Mês do Consumidor Camisaria Colombo com valores promocionais e frete grátis nas compras acima de R$ 199,00 [Brasil todo]🔥",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/uWvfPHwMXaZF"
+    },
+    {
+      "id": "69b00b7f5b90aa51cce897d2",
+      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
+      "brandName": "Nobelpack",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
+      "name": "Sacolas personalizadas com a sua marca",
+      "description": "Sacolas personalizadas com a sua marca",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/IPZ--tlOw-qM"
+    },
+    {
+      "id": "69b029e35b90aa51cce8afe1",
+      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
+      "brandName": "Nobelpack",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
+      "name": "Envelopes personalizados",
+      "description": "Envelopes personalizados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/cpio-21L1Yhd"
+    },
+    {
+      "id": "69b188195b90aa51cce91daf",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "name": "Mês do consumidor Móveis Carraro",
+      "description": "Mês do consumidor Móveis Carraro",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1fmYQ64nqHDt"
+    },
+    {
+      "id": "69b1a5bd5b90aa51cce92b23",
+      "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
+      "brandName": "Mondial",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
+      "name": "Primeira Campanha - VSP-40C-NB [25%]",
+      "description": "Primeira Campanha - VSP-40C-NB [25%]",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/cH5nHcNco1OY"
+    },
+    {
+      "id": "69b416680a186a32c4193fac",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Lançamento oi26",
+      "description": "Lançamento oi26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1MW54GNswAHv"
+    },
+    {
+      "id": "69b4169b0a186a32c4193fd8",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Lançamento oi26",
+      "description": "Lançamento oi26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9gIAunxNMilX"
+    },
+    {
+      "id": "69b416c70a186a32c4194001",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Lançamento oi26",
+      "description": "Lançamento oi26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0b8Ku-YFHRSY"
+    },
+    {
+      "id": "69b417860a186a32c419408a",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Lançamento oi26",
+      "description": "Lançamento oi26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/iFLbcLwVxZIv"
+    },
     {
       "id": "69b417e20a186a32c41940fc",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -2834,18 +2948,6 @@
       "affiliateUrl": "https://lmdee.link/z2Xem8DB4mOl"
     },
     {
-      "id": "69b439390a186a32c419522c",
-      "brandId": "d57eba55-b8ba-4e25-87fc-3dcc9eb92c30",
-      "brandName": "Maria Pia Casa",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/d57eba55-b8ba-4e25-87fc-3dcc9eb92c30/logo",
-      "name": "Mês do Consumidor",
-      "description": "Mês do Consumidor",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/GzqhlDGBfoGX"
-    },
-    {
       "id": "69b472fc0a186a32c41969f1",
       "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
       "brandName": "Xiaomi Brasil",
@@ -2856,66 +2958,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/CFJyYMlKUh1C"
-    },
-    {
-      "id": "69b477470a186a32c4196e94",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Mês do Consumidor | Todas as categorias com até 70% OFF",
-      "description": "Mês do Consumidor | Todas as categorias com até 70% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/EFdHqOU0B85J"
-    },
-    {
-      "id": "69b478a20a186a32c4196f46",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "bases a partir de R$ 37,90 escolha sua favorita",
-      "description": "bases a partir de R$ 37,90 escolha sua favorita",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7tF4hWLZpqoA"
-    },
-    {
-      "id": "69b478f10a186a32c4196f7b",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Blushes a partir de R$29,90",
-      "description": "Blushes a partir de R$29,90",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/zcSO6IEVYm6b"
-    },
-    {
-      "id": "69b479340a186a32c4196fa3",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "creme para olhos a partir de R$ 29,90",
-      "description": "creme para olhos a partir de R$ 29,90",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/NWRyV0NV-AU3"
-    },
-    {
-      "id": "69b4797a0a186a32c4196fe2",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Kit Verão: protetor solar + anti friction com 50%OF",
-      "description": "Kit Verão: protetor solar + anti friction com 50%OF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/DV1vXZiHlQJq"
     },
     {
       "id": "69b9ab400a186a32c41a810b",
@@ -3168,18 +3210,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/axuk0xHFQWTD"
-    },
-    {
-      "id": "69bae3410a186a32c41ae484",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Lançamento | Shimmer Stick 4YOU ",
-      "description": "Lançamento | Shimmer Stick 4YOU ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/g7MqxBzad5T1"
     },
     {
       "id": "69bb064d0a186a32c41af33b",
@@ -3794,42 +3824,6 @@
       "affiliateUrl": "https://lmdee.link/fxfL3mG73-cs"
     },
     {
-      "id": "69c53292768c8f2da458540a",
-      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
-      "brandName": "TeraByte",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
-      "name": "Pasta Térmica SuperFrame Cryo, 9W/m-K, Alta Durabilidade e Performance, 5g por R$ 19,90 no pix ou R$ 23,41 em 1x s/juros",
-      "description": "Pasta Térmica SuperFrame Cryo, 9W/m-K, Alta Durabilidade e Performance, 5g por R$ 19,90 no pix ou R$ 23,41 em 1x s/juros",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/4dojWFTuM3TX"
-    },
-    {
-      "id": "69c532c2768c8f2da4585439",
-      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
-      "brandName": "TeraByte",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
-      "name": "Teclado Mecânico Gamer Ninja Leap 60%, Switch Blue, Rainbow, ABNT2, Branco, GN-KB-LPBL60WBUAB por R$ 79,99 no pix ou R$ 94,11 em 4x s/juros",
-      "description": "Teclado Mecânico Gamer Ninja Leap 60%, Switch Blue, Rainbow, ABNT2, Branco, GN-KB-LPBL60WBUAB por R$ 79,99 no pix ou R$ 94,11 em 4x s/juros",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/UpZKQnYiB3Fy"
-    },
-    {
-      "id": "69c532f3768c8f2da458546d",
-      "brandId": "7ca3d59d-fd91-4759-82f4-cc4f4ce65d42",
-      "brandName": "TeraByte",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/7ca3d59d-fd91-4759-82f4-cc4f4ce65d42/logo",
-      "name": "Cooler para Processador Cooler Master I30 92mm, Intel, RH-I30-26FK-R1 por R$ 29,90 no pix ou R$ 35,18 em 1x s/juros",
-      "description": "Cooler para Processador Cooler Master I30 92mm, Intel, RH-I30-26FK-R1 por R$ 29,90 no pix ou R$ 35,18 em 1x s/juros",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fr1DkpCue6F2"
-    },
-    {
       "id": "69c570f0768c8f2da45876b0",
       "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
       "brandName": "Vinícola Jolimont",
@@ -3900,18 +3894,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/TetGn6bOKoMK"
-    },
-    {
-      "id": "69c67dc7768c8f2da458b404",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Mês do Consumidor | Nas compras acima de R$219 escolha 1 produto por R$1",
-      "description": "Mês do Consumidor | Nas compras acima de R$219 escolha 1 produto por R$1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/8U-zL-5lmvSU"
     },
     {
       "id": "69c69ab6768c8f2da458c1de",
