@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T05:18:12.314Z",
+  "lastUpdated": "2026-04-05T05:41:29.040Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2612,6 +2612,22 @@
       "affiliateUrl": "https://lmdee.link/iLyjpkFKfaZT"
     },
     {
+      "id": "69cd39de768c8f2da45a4aca",
+      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
+      "brandName": "Guess Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
+      "code": "DIA4",
+      "description": "Cupom de até 40% de desconto",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Wlr7bTN64pB5"
+    },
+    {
       "id": "69ce7463768c8f2da45aa3e8",
       "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
       "brandName": "DeÔnibus",
@@ -2641,30 +2657,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "69b9acb90a186a32c41a84ed",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/prX0ladYKb8a"
-    },
-    {
-      "id": "69b9ada60a186a32c41a85b3",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7AB0y49GUupi"
-    },
     {
       "id": "69b9add40a186a32c41a8601",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -2808,18 +2800,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/axuk0xHFQWTD"
-    },
-    {
-      "id": "69bb06850a186a32c41af367",
-      "brandId": "20b5cefc-3f15-4d49-a046-ef56904ed270",
-      "brandName": "AmoKarité",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/20b5cefc-3f15-4d49-a046-ef56904ed270/logo",
-      "name": "Kit de Páscoa com os best sellers ",
-      "description": "Kit de Páscoa com os best sellers ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/yDZi0LVTToHW"
     },
     {
       "id": "69bc2c470a186a32c41b2f1c",
@@ -3530,6 +3510,18 @@
       "affiliateUrl": "https://lmdee.link/7yVLTQEMYUQu"
     },
     {
+      "id": "69cd3806768c8f2da45a498c",
+      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
+      "brandName": "Guess Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
+      "name": " Guess Day -04/04",
+      "description": " Guess Day -04/04",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/oDiAjCKkRfu2"
+    },
+    {
       "id": "69cd5ddb768c8f2da45a58cd",
       "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
       "brandName": "BALAROTI",
@@ -3624,18 +3616,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/NomBdMBiVam2"
-    },
-    {
-      "id": "69ceae5d768c8f2da45ac59a",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Night Sale: Em compras acima de R$249 ganhe nécessaire recheado",
-      "description": "Night Sale: Em compras acima de R$249 ganhe nécessaire recheado",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/L9PEyOA1YrGY"
     },
     {
       "id": "69ceb5ac768c8f2da45ac823",
@@ -3806,6 +3786,30 @@
       "affiliateUrl": "https://lmdee.link/IqTpgv2RpjsP"
     },
     {
+      "id": "69cec1ed768c8f2da45ad28f",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Dia único- Super ofertas 4.4, uma seleção de produtos com preços especiais.",
+      "description": "Dia único- Super ofertas 4.4, uma seleção de produtos com preços especiais.",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/w3HAeB7BVYtj"
+    },
+    {
+      "id": "69cec230768c8f2da45ad30c",
+      "brandId": "e36f5bbb-3e5f-42e2-be4c-6c32dac101c2",
+      "brandName": "Friopeças",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/20c67e3a-df8b-452d-ad7b-78167fcf350d/logo/logotipo_friopecas_positivo_apenas_icone.png",
+      "name": "Ofertas exclusivas 4.4 ar condicionado VIX",
+      "description": "Ofertas exclusivas 4.4 ar condicionado VIX",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TA7XKzzD0AQZ"
+    },
+    {
       "id": "69ced04e768c8f2da45ad85b",
       "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
       "brandName": "Rovitex",
@@ -3816,6 +3820,18 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/nqMfIvh4QCth"
+    },
+    {
+      "id": "69cfda95768c8f2da45b09bb",
+      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
+      "brandName": "NutriBullet",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
+      "name": "Nutribullet Ultra 1000W e Ultra 1200W com até R$300 OFF",
+      "description": "Nutribullet Ultra 1000W e Ultra 1200W com até R$300 OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0recxpDebjEa"
     }
   ]
 }
