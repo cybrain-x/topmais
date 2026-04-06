@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T05:41:29.040Z",
+  "lastUpdated": "2026-04-06T05:55:16.059Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2597,37 +2597,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69cd1e92768c8f2da45a3c44",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "4DO4",
-      "description": "Ofertas até 40% OFF + 20% OFF Extra",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "beauty"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/iLyjpkFKfaZT"
-    },
-    {
-      "id": "69cd39de768c8f2da45a4aca",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "code": "DIA4",
-      "description": "Cupom de até 40% de desconto",
-      "docType": "code",
-      "categories": [
-        "wellness",
-        "shopping",
-        "beauty"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Wlr7bTN64pB5"
-    },
-    {
       "id": "69ce7463768c8f2da45aa3e8",
       "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
       "brandName": "DeÔnibus",
@@ -2657,6 +2626,54 @@
     }
   ],
   "offers": [
+    {
+      "id": "69b9ac5a0a186a32c41a8421",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ACnEIuoFjKpE"
+    },
+    {
+      "id": "69b9ac900a186a32c41a8496",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8kWVUvL7Kx5f"
+    },
+    {
+      "id": "69b9acb90a186a32c41a84ed",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/prX0ladYKb8a"
+    },
+    {
+      "id": "69b9ada60a186a32c41a85b3",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7AB0y49GUupi"
+    },
     {
       "id": "69b9add40a186a32c41a8601",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3330,6 +3347,18 @@
       "affiliateUrl": "https://lmdee.link/MbFghDdohDW6"
     },
     {
+      "id": "69c6c0d2768c8f2da458cb12",
+      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
+      "brandName": "Multimóveis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
+      "name": "Esquenta Dia das Mães",
+      "description": "Esquenta Dia das Mães",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Qtj8w297QQ9b"
+    },
+    {
       "id": "69ca9453768c8f2da45989e4",
       "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
       "brandName": "Ortope",
@@ -3412,18 +3441,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/UEUimLakeR40"
-    },
-    {
-      "id": "69cd1ec1768c8f2da45a3ca5",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "name": "Ofertas até 40% OFF + 20% OFF Extra 🎟️ Usando o cupom 4DO4",
-      "description": "Ofertas até 40% OFF + 20% OFF Extra 🎟️ Usando o cupom 4DO4",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/MO-EPvQKX5Wg"
     },
     {
       "id": "69cd2476768c8f2da45a3f12",
@@ -3510,18 +3527,6 @@
       "affiliateUrl": "https://lmdee.link/7yVLTQEMYUQu"
     },
     {
-      "id": "69cd3806768c8f2da45a498c",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": " Guess Day -04/04",
-      "description": " Guess Day -04/04",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/oDiAjCKkRfu2"
-    },
-    {
       "id": "69cd5ddb768c8f2da45a58cd",
       "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
       "brandName": "BALAROTI",
@@ -3604,18 +3609,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/gIxTwDZ0lSGe"
-    },
-    {
-      "id": "69cea713768c8f2da45abff5",
-      "brandId": "3ac8822c-900d-46f3-ae72-67c155a3ba99",
-      "brandName": "Openbox2",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/e2fa694d-566d-4af9-9fa7-dc4f29387eec/logo/transferir%20%281%29.jpeg",
-      "name": "Ofertas 4.4 Openbox2",
-      "description": "Ofertas 4.4 Openbox2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/NomBdMBiVam2"
     },
     {
       "id": "69ceb5ac768c8f2da45ac823",
@@ -3784,30 +3777,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/IqTpgv2RpjsP"
-    },
-    {
-      "id": "69cec1ed768c8f2da45ad28f",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Dia único- Super ofertas 4.4, uma seleção de produtos com preços especiais.",
-      "description": "Dia único- Super ofertas 4.4, uma seleção de produtos com preços especiais.",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/w3HAeB7BVYtj"
-    },
-    {
-      "id": "69cec230768c8f2da45ad30c",
-      "brandId": "e36f5bbb-3e5f-42e2-be4c-6c32dac101c2",
-      "brandName": "Friopeças",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/20c67e3a-df8b-452d-ad7b-78167fcf350d/logo/logotipo_friopecas_positivo_apenas_icone.png",
-      "name": "Ofertas exclusivas 4.4 ar condicionado VIX",
-      "description": "Ofertas exclusivas 4.4 ar condicionado VIX",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/TA7XKzzD0AQZ"
     },
     {
       "id": "69ced04e768c8f2da45ad85b",
