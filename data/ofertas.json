@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T05:55:16.059Z",
+  "lastUpdated": "2026-04-07T05:43:11.381Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -2597,20 +2597,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69ce7463768c8f2da45aa3e8",
-      "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
-      "brandName": "DeÔnibus",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/b89e4834-6f7c-4ac8-9972-5d579488432c/logo",
-      "code": "FERIADO25",
-      "description": "R$25 Off Na Passagem De Ônibus",
-      "docType": "code",
-      "categories": [
-        "tourism-and-leisure"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/dAb4zpn1EvHg"
-    },
-    {
       "id": "69ce811c768c8f2da45aaca3",
       "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
       "brandName": "Shopclub",
@@ -2626,6 +2612,54 @@
     }
   ],
   "offers": [
+    {
+      "id": "69b9ab790a186a32c41a818c",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fnGPw2nhz9of"
+    },
+    {
+      "id": "69b9aba40a186a32c41a826a",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Qfo60s3KT1QP"
+    },
+    {
+      "id": "69b9abe10a186a32c41a8348",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0cfYQJQ8zwHH"
+    },
+    {
+      "id": "69b9ac1d0a186a32c41a83d3",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteitas OI26",
+      "description": "Rasteitas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mgcu6FeVS6LA"
+    },
     {
       "id": "69b9ac5a0a186a32c41a8421",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -2805,18 +2839,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/y4X716hAVN0b"
-    },
-    {
-      "id": "69baa1630a186a32c41ac81f",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Páscoa em Casa",
-      "description": "Páscoa em Casa",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/axuk0xHFQWTD"
     },
     {
       "id": "69bc2c470a186a32c41b2f1c",
@@ -3527,30 +3549,6 @@
       "affiliateUrl": "https://lmdee.link/7yVLTQEMYUQu"
     },
     {
-      "id": "69cd5ddb768c8f2da45a58cd",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "PLANTÃO BALAROTI",
-      "description": "PLANTÃO BALAROTI",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/CZTm4-GTMofl"
-    },
-    {
-      "id": "69ce5c11768c8f2da45a9af3",
-      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
-      "brandName": "Grendene",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
-      "name": "Cashback em dobro ",
-      "description": "Cashback em dobro ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
       "id": "69ce5cc2768c8f2da45a9b81",
       "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
       "brandName": "Grendene",
@@ -3777,18 +3775,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/IqTpgv2RpjsP"
-    },
-    {
-      "id": "69ced04e768c8f2da45ad85b",
-      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
-      "brandName": "Rovitex",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
-      "name": "Data Dupla: FRETE GRÁTIS ACIMA DE R$99",
-      "description": "Data Dupla: FRETE GRÁTIS ACIMA DE R$99",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nqMfIvh4QCth"
     },
     {
       "id": "69cfda95768c8f2da45b09bb",
