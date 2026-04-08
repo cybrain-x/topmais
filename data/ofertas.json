@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T05:43:11.381Z",
+  "lastUpdated": "2026-04-08T05:43:30.679Z",
   "brands": [
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
@@ -645,7 +645,7 @@
       "id": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "name": "Nobelpack",
       "logo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "segment": "Alimentos ",
+      "segment": "others",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
@@ -1036,12 +1036,6 @@
       "icon": "🏷️"
     },
     {
-      "id": "alimentos",
-      "name": "Alimentos ",
-      "slug": "alimentos",
-      "icon": "🍔"
-    },
-    {
       "id": "animals",
       "name": "animals",
       "slug": "animals",
@@ -1216,6 +1210,12 @@
       "icon": "🏷️"
     },
     {
+      "id": "electronics",
+      "name": "electronics",
+      "slug": "electronics",
+      "icon": "🏷️"
+    },
+    {
       "id": "eletrodom-moda-casa-smart-tv-eletroportateis",
       "name": "Eletrodom, Moda Casa, Smart TV, Eletroportáteis",
       "slug": "eletrodom-moda-casa-smart-tv-eletroportateis",
@@ -1270,6 +1270,12 @@
       "icon": "🏷️"
     },
     {
+      "id": "finance",
+      "name": "finance",
+      "slug": "finance",
+      "icon": "🏷️"
+    },
+    {
       "id": "fogao",
       "name": "fogão ",
       "slug": "fogao",
@@ -1291,6 +1297,12 @@
       "id": "food-delivery-and-restaurants",
       "name": "food-delivery-and-restaurants",
       "slug": "food-delivery-and-restaurants",
+      "icon": "🏷️"
+    },
+    {
+      "id": "gadgets",
+      "name": "gadgets",
+      "slug": "gadgets",
       "icon": "🏷️"
     },
     {
@@ -1327,6 +1339,18 @@
       "id": "infant-products",
       "name": "infant-products",
       "slug": "infant-products",
+      "icon": "🏷️"
+    },
+    {
+      "id": "internet-and-technology",
+      "name": "internet-and-technology",
+      "slug": "internet-and-technology",
+      "icon": "🏷️"
+    },
+    {
+      "id": "investments",
+      "name": "investments",
+      "slug": "investments",
       "icon": "🏷️"
     },
     {
@@ -1426,6 +1450,12 @@
       "icon": "🏷️"
     },
     {
+      "id": "movies-and-tv",
+      "name": "movies-and-tv",
+      "slug": "movies-and-tv",
+      "icon": "🏷️"
+    },
+    {
       "id": "others",
       "name": "others",
       "slug": "others",
@@ -1513,6 +1543,12 @@
       "id": "sala-de-jantar-cozinhas-guarda-roupas-complementos",
       "name": "Sala de jantar, cozinhas, guarda roupas, complementos ",
       "slug": "sala-de-jantar-cozinhas-guarda-roupas-complementos",
+      "icon": "🏷️"
+    },
+    {
+      "id": "science",
+      "name": "science",
+      "slug": "science",
       "icon": "🏷️"
     },
     {
@@ -2302,6 +2338,51 @@
       "affiliateUrl": "https://lmdee.link/gTdrfMHfaakA"
     },
     {
+      "id": "6972362da3075d050fcfbf24",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "OFERTA5",
+      "description": "Cupom de 5% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/L9Cqh0j8wn2a"
+    },
+    {
+      "id": "697236a1a3075d050fcfbf61",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "OFERTA10",
+      "description": "Cupom de 10% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XmXmpe62kk7B"
+    },
+    {
+      "id": "697236e6a3075d050fcfbf97",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "OFERTA15",
+      "description": "Cupom de 15% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fwUbaVfN40ZK"
+    },
+    {
       "id": "69a591205b90aa51cce55c9a",
       "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "brandName": "Coza",
@@ -2597,129 +2678,89 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69ce811c768c8f2da45aaca3",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "SUPER15",
-      "description": "Cupom de 15% de desconto",
+      "id": "69cd1e92768c8f2da45a3c44",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "4DO4",
+      "description": "Ofertas até 40% OFF + 20% OFF Extra",
       "docType": "code",
       "categories": [
-        "shopping"
+        "shopping",
+        "beauty"
       ],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/LpBzIzBiifoD"
+      "affiliateUrl": "https://lmdee.link/iLyjpkFKfaZT"
+    },
+    {
+      "id": "69d3958d768c8f2da45baedc",
+      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
+      "brandName": "Nobelpack",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
+      "code": "MAE10",
+      "description": "Cupom 10% de desconto",
+      "docType": "code",
+      "categories": [
+        "animals",
+        "art-and-culture",
+        "auto-and-accessories",
+        "food-and-beverages",
+        "beauty",
+        "wellness",
+        "shopping",
+        "home-and-decoration",
+        "science",
+        "food-delivery-and-restaurants",
+        "education",
+        "economy",
+        "electronics",
+        "entertainment",
+        "sports",
+        "events",
+        "movies-and-tv",
+        "finance",
+        "gadgets",
+        "investments",
+        "industry-and-commerce",
+        "woman",
+        "fashion",
+        "promotions",
+        "internet-and-technology"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/yoRZ1jbrWhvc"
+    },
+    {
+      "id": "69d3fd8e768c8f2da45bda12",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "SOESSASEMANA",
+      "description": "SO ESSA SEMANA",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/hqXwtbfTokMn"
+    },
+    {
+      "id": "69d401c9768c8f2da45bdce4",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "EXTRA20",
+      "description": "Ganhe 20% OFF na compra de 2 peças ( cupom válido Adulto e Kids)",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/PFhZ206a-AEz"
     }
   ],
   "offers": [
-    {
-      "id": "69b9ab790a186a32c41a818c",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fnGPw2nhz9of"
-    },
-    {
-      "id": "69b9aba40a186a32c41a826a",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Qfo60s3KT1QP"
-    },
-    {
-      "id": "69b9abe10a186a32c41a8348",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/0cfYQJQ8zwHH"
-    },
-    {
-      "id": "69b9ac1d0a186a32c41a83d3",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mgcu6FeVS6LA"
-    },
-    {
-      "id": "69b9ac5a0a186a32c41a8421",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ACnEIuoFjKpE"
-    },
-    {
-      "id": "69b9ac900a186a32c41a8496",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/8kWVUvL7Kx5f"
-    },
-    {
-      "id": "69b9acb90a186a32c41a84ed",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/prX0ladYKb8a"
-    },
-    {
-      "id": "69b9ada60a186a32c41a85b3",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7AB0y49GUupi"
-    },
-    {
-      "id": "69b9add40a186a32c41a8601",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/n2UG6O0eZLbC"
-    },
     {
       "id": "69b9b2dc0a186a32c41a8a92",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3465,6 +3506,18 @@
       "affiliateUrl": "https://lmdee.link/UEUimLakeR40"
     },
     {
+      "id": "69cd1ec1768c8f2da45a3ca5",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "name": "Ofertas até 40% OFF + 20% OFF Extra 🎟️ Usando o cupom 4DO4",
+      "description": "Ofertas até 40% OFF + 20% OFF Extra 🎟️ Usando o cupom 4DO4",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MO-EPvQKX5Wg"
+    },
+    {
       "id": "69cd2476768c8f2da45a3f12",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -3559,18 +3612,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": null
-    },
-    {
-      "id": "69ce80be768c8f2da45aac4d",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "SUPER 4.4: até 55% off + cupom de até 15% + frete gratis*",
-      "description": "SUPER 4.4: até 55% off + cupom de até 15% + frete gratis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/q0rkVqdmYDHK"
     },
     {
       "id": "69ce8159768c8f2da45aacd3",
@@ -3787,6 +3828,78 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/0recxpDebjEa"
+    },
+    {
+      "id": "69d399d7768c8f2da45bb11e",
+      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
+      "brandName": "Nobelpack",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
+      "name": "Mês das Mães Nobelpack",
+      "description": "Mês das Mães Nobelpack",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/b28ktN07itoW"
+    },
+    {
+      "id": "69d3f820768c8f2da45bd363",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "name": " 3 Itens de Piso e Porcelanato sem Imposto ",
+      "description": " 3 Itens de Piso e Porcelanato sem Imposto ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7EsxBbj7yhCJ"
+    },
+    {
+      "id": "69d4020b768c8f2da45bdd58",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "name": "Infantil- Ganhe 20% OFF na compra de 2 peças  (Cupom: EXTRA20)",
+      "description": "Infantil- Ganhe 20% OFF na compra de 2 peças  (Cupom: EXTRA20)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/FOH3jsCWXXGa"
+    },
+    {
+      "id": "69d41461768c8f2da45be60d",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "Cupons de até 15% OFF + Frete Grátis*",
+      "description": "Cupons de até 15% OFF + Frete Grátis*",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/yMNBgqOtbhWF"
+    },
+    {
+      "id": "69d48855768c8f2da45c156a",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "8%OFF + 6 Brindes",
+      "description": "8%OFF + 6 Brindes",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7883bZpJlayV"
+    },
+    {
+      "id": "69d488a8768c8f2da45c1589",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "Vinhos com Até 25% OFF",
+      "description": "Vinhos com Até 25% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/OD1G-TIkgyLH"
     }
   ]
 }
