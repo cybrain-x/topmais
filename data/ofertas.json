@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-04-08T05:43:30.679Z",
+  "lastUpdated": "2026-04-09T05:45:07.544Z",
   "brands": [
+    {
+      "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
+      "name": "Casa do Fitness",
+      "logo": "https://cdn.lomadee.com.br/logos/038925ab-7cd8-462d-9c27-1266f14ee3b2/logo",
+      "segment": "retail",
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
     {
       "id": "0527fd20-994b-4839-b255-341c59d25127",
       "name": "Sawary",
@@ -14,6 +22,14 @@
       "name": "Bio Bran®",
       "logo": "https://cdn.lomadee.com.br/logos/06442559-4031-4a43-a3c6-a6ccefe3a39f/logo",
       "segment": "Emagrecedores",
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "name": "Lojas REDE",
+      "logo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "segment": "retail",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
@@ -2678,21 +2694,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69cd1e92768c8f2da45a3c44",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "4DO4",
-      "description": "Ofertas até 40% OFF + 20% OFF Extra",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "beauty"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/iLyjpkFKfaZT"
-    },
-    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -2758,21 +2759,21 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/PFhZ206a-AEz"
+    },
+    {
+      "id": "69d538cc768c8f2da45c37a7",
+      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
+      "brandName": "Rovitex",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
+      "code": "EXTRA10",
+      "description": "10% OFF acima de R$199 (Válido em todo site. Não acumulativo com demais promoções ativas.)",
+      "docType": "code",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/3CdWymU9Ojvo"
     }
   ],
   "offers": [
-    {
-      "id": "69b9b2dc0a186a32c41a8a92",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/uQY0EQ3FTD49"
-    },
     {
       "id": "69b9b3070a186a32c41a8b0a",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3458,42 +3459,6 @@
       "affiliateUrl": "https://lmdee.link/kZkUS8GdjwE6"
     },
     {
-      "id": "69cc0651768c8f2da459f39d",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Progressiva de makes | Ganhe até 5 full sizes | AMOMAKE",
-      "description": "Progressiva de makes | Ganhe até 5 full sizes | AMOMAKE",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/-5iWE94al3Fx"
-    },
-    {
-      "id": "69cc069f768c8f2da459f3d4",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "#ChocoLOVERS | Seleção de makes marrom com até 50%OFF",
-      "description": "#ChocoLOVERS | Seleção de makes marrom com até 50%OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/y3mzGnA1FuSX"
-    },
-    {
-      "id": "69cc0709768c8f2da459f3fd",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Semana do Skincare | Leve 3 produtos e ganhe sérum",
-      "description": "Semana do Skincare | Leve 3 produtos e ganhe sérum",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/1pR5BoZbtr8h"
-    },
-    {
       "id": "69cc075e768c8f2da459f431",
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
@@ -3504,18 +3469,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/UEUimLakeR40"
-    },
-    {
-      "id": "69cd1ec1768c8f2da45a3ca5",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "name": "Ofertas até 40% OFF + 20% OFF Extra 🎟️ Usando o cupom 4DO4",
-      "description": "Ofertas até 40% OFF + 20% OFF Extra 🎟️ Usando o cupom 4DO4",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/MO-EPvQKX5Wg"
     },
     {
       "id": "69cd2476768c8f2da45a3f12",
@@ -3900,6 +3853,54 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/OD1G-TIkgyLH"
+    },
+    {
+      "id": "69d51a4c768c8f2da45c2c9c",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Smartphone Motorola Moto G15 4G Octa Core 256GB 4GB - Grafite - Quadriband (De: R$ 1.652,00 ; Por: R$ 779,90 no Pix)",
+      "description": "Smartphone Motorola Moto G15 4G Octa Core 256GB 4GB - Grafite - Quadriband (De: R$ 1.652,00 ; Por: R$ 779,90 no Pix)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JNXVcMPZ2hvk"
+    },
+    {
+      "id": "69d569da768c8f2da45c4c3c",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Progressiva de brindes Skincare | SKINCARE (SÓ SITE)",
+      "description": "Progressiva de brindes Skincare | SKINCARE (SÓ SITE)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/B5UKmBaLoCO9"
+    },
+    {
+      "id": "69d56a69768c8f2da45c4c78",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Progressiva Geral | 2 itens 5% | 3 itens 10% | 4 itens 15%OFF ",
+      "description": "Progressiva Geral | 2 itens 5% | 3 itens 10% | 4 itens 15%OFF ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Di4DaFv5Wowr"
+    },
+    {
+      "id": "69d56b00768c8f2da45c4ca9",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Cuidados com a pele no Outono",
+      "description": "Cuidados com a pele no Outono",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1dXGF4S0AwX5"
     }
   ]
 }
