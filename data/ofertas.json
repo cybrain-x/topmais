@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T05:45:07.544Z",
+  "lastUpdated": "2026-04-10T05:53:20.745Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2354,51 +2354,6 @@
       "affiliateUrl": "https://lmdee.link/gTdrfMHfaakA"
     },
     {
-      "id": "6972362da3075d050fcfbf24",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "OFERTA5",
-      "description": "Cupom de 5% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/L9Cqh0j8wn2a"
-    },
-    {
-      "id": "697236a1a3075d050fcfbf61",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "OFERTA10",
-      "description": "Cupom de 10% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/XmXmpe62kk7B"
-    },
-    {
-      "id": "697236e6a3075d050fcfbf97",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "OFERTA15",
-      "description": "Cupom de 15% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fwUbaVfN40ZK"
-    },
-    {
       "id": "69a591205b90aa51cce55c9a",
       "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "brandName": "Coza",
@@ -2774,42 +2729,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "69b9b3070a186a32c41a8b0a",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/77RLeryTyJmY"
-    },
-    {
-      "id": "69b9b3380a186a32c41a8b71",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/QXeDUum3aySi"
-    },
-    {
-      "id": "69b9b5260a186a32c41a8ec0",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/b9YQJEJZeA2W"
-    },
     {
       "id": "69b9b5720a186a32c41a8f1c",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3819,18 +3738,6 @@
       "affiliateUrl": "https://lmdee.link/FOH3jsCWXXGa"
     },
     {
-      "id": "69d41461768c8f2da45be60d",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "Cupons de até 15% OFF + Frete Grátis*",
-      "description": "Cupons de até 15% OFF + Frete Grátis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/yMNBgqOtbhWF"
-    },
-    {
       "id": "69d48855768c8f2da45c156a",
       "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
       "brandName": "Vinícola Jolimont",
@@ -3901,6 +3808,66 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/1dXGF4S0AwX5"
+    },
+    {
+      "id": "69d56b5e768c8f2da45c4d04",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Night Sale: Ganhe MIni Kit de pincéis acima de R$219 | Use o cupom MEUMINI",
+      "description": "Night Sale: Ganhe MIni Kit de pincéis acima de R$219 | Use o cupom MEUMINI",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NpwOKc-E3EOW"
+    },
+    {
+      "id": "69d63df6768c8f2da45c71f7",
+      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
+      "brandName": "Xiaomi Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
+      "name": "2026.04 - Xiaomi Fan Festival",
+      "description": "2026.04 - Xiaomi Fan Festival",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/juV3x4A4rIvj"
+    },
+    {
+      "id": "69d65780768c8f2da45c7b80",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "Corujão Outono Ortopé- Até 70% OFF",
+      "description": "Corujão Outono Ortopé- Até 70% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XAj6RTPzwMR8"
+    },
+    {
+      "id": "69d6c163768c8f2da45cabf1",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Roomba 705+ - Campanha de Abril (Comunicação: Parcelamento, Percentual de Desconto)",
+      "description": "Roomba 705+ - Campanha de Abril (Comunicação: Parcelamento, Percentual de Desconto)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/eE8E3edmBgpS"
+    },
+    {
+      "id": "69d6c79c768c8f2da45caeb6",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Roomba 105+ - Campanha de Abril (Comunicação: Parcelamento, Percentual de Desconto)",
+      "description": "Roomba 105+ - Campanha de Abril (Comunicação: Parcelamento, Percentual de Desconto)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/lXWCVSiirv2Y"
     }
   ]
 }
