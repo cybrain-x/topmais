@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T05:53:20.745Z",
+  "lastUpdated": "2026-04-11T05:21:26.826Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -76,7 +76,7 @@
     {
       "id": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
       "name": "Concórdia Informática ",
-      "logo": "https://cdn.lomadee.com.br/domain/ad31bbff-f1f1-4bd5-a75e-dc6df2f060f6/logo/padrao-perfil.png",
+      "logo": "https://cdn.lomadee.com.br/domain/6d568a33-7292-4219-b9e0-4217900b3d11/logo/02.png",
       "segment": "technology",
       "isHighlight": true,
       "affiliateUrl": null
@@ -2716,19 +2716,33 @@
       "affiliateUrl": "https://lmdee.link/PFhZ206a-AEz"
     },
     {
-      "id": "69d538cc768c8f2da45c37a7",
-      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
-      "brandName": "Rovitex",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
-      "code": "EXTRA10",
-      "description": "10% OFF acima de R$199 (Válido em todo site. Não acumulativo com demais promoções ativas.)",
+      "id": "69d7a5ba768c8f2da45cd5e6",
+      "brandId": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
+      "brandName": "Concórdia Informática ",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/6d568a33-7292-4219-b9e0-4217900b3d11/logo/02.png",
+      "code": "CADEIRAROSA",
+      "description": "CUPOM DE 5% NA CADEIRA ROSA CONCÓRDIA",
       "docType": "code",
-      "categories": [],
+      "categories": [
+        "home-and-decoration"
+      ],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/3CdWymU9Ojvo"
+      "affiliateUrl": null
     }
   ],
   "offers": [
+    {
+      "id": "69b9b5260a186a32c41a8ec0",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/b9YQJEJZeA2W"
+    },
     {
       "id": "69b9b5720a186a32c41a8f1c",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3486,42 +3500,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "69ce8159768c8f2da45aacd3",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "PANELAS: até 50% off + frete gratis*",
-      "description": "PANELAS: até 50% off + frete gratis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/AcgyWSkCNcfV"
-    },
-    {
-      "id": "69ce817f768c8f2da45aad03",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "LAVANDERIA: até 30% off + frete grátis*",
-      "description": "LAVANDERIA: até 30% off + frete grátis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ynHwVUe7rbx6"
-    },
-    {
-      "id": "69ce8226768c8f2da45aadb7",
-      "brandId": "20b5cefc-3f15-4d49-a046-ef56904ed270",
-      "brandName": "AmoKarité",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/20b5cefc-3f15-4d49-a046-ef56904ed270/logo",
-      "name": "Oferta especial Compre e Ganhe. Na compra de qualquer item dessa seleção ganhe um brinde.",
-      "description": "Oferta especial Compre e Ganhe. Na compra de qualquer item dessa seleção ganhe um brinde.",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/gIxTwDZ0lSGe"
-    },
-    {
       "id": "69ceb5ac768c8f2da45ac823",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
       "brandName": "Amakha Paris",
@@ -3868,6 +3846,42 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/lXWCVSiirv2Y"
+    },
+    {
+      "id": "69d7a068768c8f2da45cd4d2",
+      "brandId": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
+      "brandName": "Concórdia Informática ",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/6d568a33-7292-4219-b9e0-4217900b3d11/logo/02.png",
+      "name": "Promoção de Gabinetes Gamers",
+      "description": "Promoção de Gabinetes Gamers",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69d7ade8768c8f2da45cd99d",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "name": "Dia das Mães",
+      "description": "Dia das Mães",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69d7aee2768c8f2da45cda1d",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "name": "Compre e Ganhe - Meias Zaxy",
+      "description": "Compre e Ganhe - Meias Zaxy",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ]
 }
