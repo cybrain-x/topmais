@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T05:21:26.826Z",
+  "lastUpdated": "2026-04-12T05:50:12.148Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -118,6 +118,22 @@
       "name": "Vivavinho",
       "logo": "https://cdn.lomadee.com.br/logos/1b8e4084-b123-404e-9565-b546424cf839/logo",
       "segment": "Bebidas ",
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "1ba96890-8d3b-45d6-8e55-247bf62f6b4e",
+      "name": "Pneunet",
+      "logo": "https://cdn.lomadee.com.br/logos/1ba96890-8d3b-45d6-8e55-247bf62f6b4e/logo",
+      "segment": "retail",
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "1eb0fb06-b892-473b-89bd-dd4d68fc11f6",
+      "name": "Autoamerica Store",
+      "logo": "https://cdn.lomadee.com.br/logos/1eb0fb06-b892-473b-89bd-dd4d68fc11f6/logo",
+      "segment": "retail",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
@@ -655,6 +671,14 @@
       "logo": "https://cdn.lomadee.com.br/domain/1a26878a-b0c2-4ba0-98a6-0aa12d35afe0/logo/logo_descontoaqui.png",
       "segment": "entertainment",
       "isHighlight": true,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "ac21d19c-3590-4a86-a9df-16bf6151e570",
+      "name": "Noble Nature",
+      "logo": "https://cdn.lomadee.com.br/logos/ac21d19c-3590-4a86-a9df-16bf6151e570/logo",
+      "segment": "retail",
+      "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
@@ -2649,6 +2673,21 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
+      "id": "69cbe46e768c8f2da459de91",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "DIADEFONDUE",
+      "description": "15% off em todos os aparelhos de fondue",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/hEubDtS7TzGE"
+    },
+    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -2687,20 +2726,6 @@
       "affiliateUrl": "https://lmdee.link/yoRZ1jbrWhvc"
     },
     {
-      "id": "69d3fd8e768c8f2da45bda12",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "SOESSASEMANA",
-      "description": "SO ESSA SEMANA",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/hqXwtbfTokMn"
-    },
-    {
       "id": "69d401c9768c8f2da45bdce4",
       "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
       "brandName": "Malwee",
@@ -2728,9 +2753,93 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "69d93d58768c8f2da45d372b",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "INVERNO",
+      "description": " 15% OFF + Frete Grátis em Outono Inverno (Adulto e Infantil)",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/a11Qp1jpVekW"
+    },
+    {
+      "id": "69d9434c768c8f2da45d3ad6",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "NOITE10",
+      "description": "Cupom de 10% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JaoZF6nMALKk"
+    },
+    {
+      "id": "69d94561768c8f2da45d3bf0",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "NOITE5",
+      "description": "Cupom de 5% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Klo-UdCWgF1z"
+    },
+    {
+      "id": "69d95b97768c8f2da45d477f",
+      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
+      "brandName": "Rovitex",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
+      "code": "10EXTRA",
+      "description": "Cupom de 10% de desconto ",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/y9ST-xramFUk"
     }
   ],
   "offers": [
+    {
+      "id": "69b9b3070a186a32c41a8b0a",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/77RLeryTyJmY"
+    },
+    {
+      "id": "69b9b3380a186a32c41a8b71",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QXeDUum3aySi"
+    },
     {
       "id": "69b9b5260a186a32c41a8ec0",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3692,18 +3801,6 @@
       "affiliateUrl": "https://lmdee.link/b28ktN07itoW"
     },
     {
-      "id": "69d3f820768c8f2da45bd363",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": " 3 Itens de Piso e Porcelanato sem Imposto ",
-      "description": " 3 Itens de Piso e Porcelanato sem Imposto ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7EsxBbj7yhCJ"
-    },
-    {
       "id": "69d4020b768c8f2da45bdd58",
       "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
       "brandName": "Malwee",
@@ -3812,18 +3909,6 @@
       "affiliateUrl": "https://lmdee.link/juV3x4A4rIvj"
     },
     {
-      "id": "69d65780768c8f2da45c7b80",
-      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
-      "brandName": "Ortope",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
-      "name": "Corujão Outono Ortopé- Até 70% OFF",
-      "description": "Corujão Outono Ortopé- Até 70% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/XAj6RTPzwMR8"
-    },
-    {
       "id": "69d6c163768c8f2da45cabf1",
       "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
       "brandName": "iRobot",
@@ -3882,6 +3967,18 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "69d93dd0768c8f2da45d378d",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "name": "15% OFF + Frete Grátis em Outono Inverno Infantil",
+      "description": "15% OFF + Frete Grátis em Outono Inverno Infantil",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/3pvLFbG6eYqa"
     }
   ]
 }
