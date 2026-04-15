@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T05:55:33.114Z",
+  "lastUpdated": "2026-04-15T05:55:33.596Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2673,6 +2673,36 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
+      "id": "69cbe4cf768c8f2da459dece",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "MEUCAFE10",
+      "description": "10% off em chaleiras e cafeteiras",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bQuAsVcg7CIr"
+    },
+    {
+      "id": "69cbf38f768c8f2da459e5d9",
+      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
+      "brandName": "Coza",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
+      "code": "DIADOCAFE",
+      "description": "Cupom de R$20 para esse produto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0ihUOpYp9H4m"
+    },
+    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -2770,34 +2800,63 @@
       "affiliateUrl": "https://lmdee.link/Klo-UdCWgF1z"
     },
     {
-      "id": "69d95b97768c8f2da45d477f",
-      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
-      "brandName": "Rovitex",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
-      "code": "10EXTRA",
-      "description": "Cupom de 10% de desconto ",
+      "id": "69dcffef768c8f2da45ded4e",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "RADARCUPOM",
+      "description": "radar cupom",
       "docType": "code",
       "categories": [
-        "beauty",
-        "shopping"
+        "home-and-decoration"
       ],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/y9ST-xramFUk"
+      "affiliateUrl": "https://lmdee.link/OvuueX1tyOeY"
+    },
+    {
+      "id": "69dd308b768c8f2da45e0b4d",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "FESTIVALDACONSTRUÇÃO",
+      "description": "FESTIVAL DA CONSTRUÇÃO",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/oNWmCjBry-au"
+    },
+    {
+      "id": "69dd31de768c8f2da45e0c48",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "code": "DIADASMAES5",
+      "description": "DIADASMAES5",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/N4ZNZSAXzQBm"
+    },
+    {
+      "id": "69dd39ec768c8f2da45e1477",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "QUEIMADEESTOQUE",
+      "description": "QUEIMA DE ESTOQUE",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/UDL-CWH53psn"
     }
   ],
   "offers": [
-    {
-      "id": "69b9acb90a186a32c41a84ed",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/prX0ladYKb8a"
-    },
     {
       "id": "69b9ada60a186a32c41a85b3",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3519,18 +3578,6 @@
       "affiliateUrl": "https://lmdee.link/kZkUS8GdjwE6"
     },
     {
-      "id": "69cc075e768c8f2da459f431",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "#Trend Gótica Suave | Seleção de produtos",
-      "description": "#Trend Gótica Suave | Seleção de produtos",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/UEUimLakeR40"
-    },
-    {
       "id": "69cd2476768c8f2da45a3f12",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -3831,30 +3878,6 @@
       "affiliateUrl": "https://lmdee.link/FOH3jsCWXXGa"
     },
     {
-      "id": "69d48855768c8f2da45c156a",
-      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
-      "brandName": "Vinícola Jolimont",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
-      "name": "8%OFF + 6 Brindes",
-      "description": "8%OFF + 6 Brindes",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7883bZpJlayV"
-    },
-    {
-      "id": "69d488a8768c8f2da45c1589",
-      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
-      "brandName": "Vinícola Jolimont",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
-      "name": "Vinhos com Até 25% OFF",
-      "description": "Vinhos com Até 25% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/OD1G-TIkgyLH"
-    },
-    {
       "id": "69d51a4c768c8f2da45c2c9c",
       "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
       "brandName": "Gazin",
@@ -3865,54 +3888,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/JNXVcMPZ2hvk"
-    },
-    {
-      "id": "69d569da768c8f2da45c4c3c",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Progressiva de brindes Skincare | SKINCARE (SÓ SITE)",
-      "description": "Progressiva de brindes Skincare | SKINCARE (SÓ SITE)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/B5UKmBaLoCO9"
-    },
-    {
-      "id": "69d56a69768c8f2da45c4c78",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Progressiva Geral | 2 itens 5% | 3 itens 10% | 4 itens 15%OFF ",
-      "description": "Progressiva Geral | 2 itens 5% | 3 itens 10% | 4 itens 15%OFF ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Di4DaFv5Wowr"
-    },
-    {
-      "id": "69d56b00768c8f2da45c4ca9",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Cuidados com a pele no Outono",
-      "description": "Cuidados com a pele no Outono",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/1dXGF4S0AwX5"
-    },
-    {
-      "id": "69d56b5e768c8f2da45c4d04",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Night Sale: Ganhe MIni Kit de pincéis acima de R$219 | Use o cupom MEUMINI",
-      "description": "Night Sale: Ganhe MIni Kit de pincéis acima de R$219 | Use o cupom MEUMINI",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/NpwOKc-E3EOW"
     },
     {
       "id": "69d63df6768c8f2da45c71f7",
@@ -3985,6 +3960,66 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "69dcd807768c8f2da45dd532",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "Use o cupom PROGRESSIVO e ganhe até 30% OFF levando 5 pares ou mais ",
+      "description": "Use o cupom PROGRESSIVO e ganhe até 30% OFF levando 5 pares ou mais ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/lg9PxR6AQhDf"
+    },
+    {
+      "id": "69dcd890768c8f2da45dd5b0",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Semana do beijo",
+      "description": "Semana do beijo",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TWKjc9J4j92M"
+    },
+    {
+      "id": "69dcd901768c8f2da45dd5e0",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Lançamento | Campanha lip balm 4YOU | Frete Grátis por 24h",
+      "description": "Lançamento | Campanha lip balm 4YOU | Frete Grátis por 24h",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/nR7eLaa4O-O0"
+    },
+    {
+      "id": "69dcf5c4768c8f2da45de673",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "name": "QUEIMA DE ESTOQUE",
+      "description": "QUEIMA DE ESTOQUE",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/KIG3oP-dc3qi"
+    },
+    {
+      "id": "69dd3347768c8f2da45e0d31",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "name": "Coleção de Frete Reduzido R$50 de desconto",
+      "description": "Coleção de Frete Reduzido R$50 de desconto",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/KrBJotXUaYR4"
     }
   ]
 }
