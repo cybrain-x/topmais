@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T05:55:33.596Z",
+  "lastUpdated": "2026-04-16T05:56:02.972Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -47,7 +47,7 @@
       "logo": "https://cdn.lomadee.com.br/logos/06d4e00d-d3c2-4e01-9874-5a457b5361e6/logo",
       "segment": "fogão ",
       "isHighlight": false,
-      "affiliateUrl": null
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -63,7 +63,7 @@
       "logo": "https://cdn.lomadee.com.br/logos/091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1/logo",
       "segment": "fogão ",
       "isHighlight": false,
-      "affiliateUrl": null
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "09562538-fde7-4bbf-947b-2ccebbc1c887",
@@ -2673,36 +2673,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69cbe4cf768c8f2da459dece",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "MEUCAFE10",
-      "description": "10% off em chaleiras e cafeteiras",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/bQuAsVcg7CIr"
-    },
-    {
-      "id": "69cbf38f768c8f2da459e5d9",
-      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
-      "brandName": "Coza",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "code": "DIADOCAFE",
-      "description": "Cupom de R$20 para esse produto ",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/0ihUOpYp9H4m"
-    },
-    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -2770,36 +2740,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "69d9434c768c8f2da45d3ad6",
-      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
-      "brandName": "Electrolux",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
-      "code": "NOITE10",
-      "description": "Cupom de 10% de desconto ",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/JaoZF6nMALKk"
-    },
-    {
-      "id": "69d94561768c8f2da45d3bf0",
-      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
-      "brandName": "Electrolux",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
-      "code": "NOITE5",
-      "description": "Cupom de 5% de desconto ",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Klo-UdCWgF1z"
-    },
-    {
       "id": "69dcffef768c8f2da45ded4e",
       "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
       "brandName": "BALAROTI",
@@ -2854,33 +2794,24 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/UDL-CWH53psn"
+    },
+    {
+      "id": "69de7885768c8f2da45e69bf",
+      "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
+      "brandName": "DeÔnibus",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b89e4834-6f7c-4ac8-9972-5d579488432c/logo",
+      "code": "FERIADAO10",
+      "description": "Cupom de 10% de desconto ",
+      "docType": "code",
+      "categories": [
+        "tourism-and-leisure",
+        "services"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Yl1sYUTHPEin"
     }
   ],
   "offers": [
-    {
-      "id": "69b9ada60a186a32c41a85b3",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7AB0y49GUupi"
-    },
-    {
-      "id": "69b9add40a186a32c41a8601",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/n2UG6O0eZLbC"
-    },
     {
       "id": "69b9b2dc0a186a32c41a8a92",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3530,18 +3461,6 @@
       "affiliateUrl": "https://lmdee.link/MbFghDdohDW6"
     },
     {
-      "id": "69c6c0d2768c8f2da458cb12",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Esquenta Dia das Mães",
-      "description": "Esquenta Dia das Mães",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Qtj8w297QQ9b"
-    },
-    {
       "id": "69ca9453768c8f2da45989e4",
       "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
       "brandName": "Ortope",
@@ -3986,16 +3905,16 @@
       "affiliateUrl": "https://lmdee.link/TWKjc9J4j92M"
     },
     {
-      "id": "69dcd901768c8f2da45dd5e0",
+      "id": "69dcd96d768c8f2da45dd60b",
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
       "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Lançamento | Campanha lip balm 4YOU | Frete Grátis por 24h",
-      "description": "Lançamento | Campanha lip balm 4YOU | Frete Grátis por 24h",
+      "name": "Lançamento | Campanha lip balm 4YOU (sem frete)",
+      "description": "Lançamento | Campanha lip balm 4YOU (sem frete)",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nR7eLaa4O-O0"
+      "affiliateUrl": "https://lmdee.link/zHtdq0jaO3aF"
     },
     {
       "id": "69dcf5c4768c8f2da45de673",
@@ -4020,6 +3939,66 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/KrBJotXUaYR4"
+    },
+    {
+      "id": "69de3084768c8f2da45e4f6d",
+      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
+      "brandName": "Multimóveis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
+      "name": "Universo Kids",
+      "description": "Universo Kids",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TByuoGVWyco9"
+    },
+    {
+      "id": "69de76f7768c8f2da45e68b4",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "4 MAKES 99 (sem lábios) | 3 makes por R$99 + mini batom de brinde 4MAKES",
+      "description": "4 MAKES 99 (sem lábios) | 3 makes por R$99 + mini batom de brinde 4MAKES",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/AQqMRj8VRhDz"
+    },
+    {
+      "id": "69de7758768c8f2da45e68e6",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Ganhe Mini Nécessaire recheado acima de R$229 | AMOMINI",
+      "description": "Ganhe Mini Nécessaire recheado acima de R$229 | AMOMINI",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Hpn73WVCdh1F"
+    },
+    {
+      "id": "69de77b6768c8f2da45e691b",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Duplas de Skincare por até R$99,90 (kits com produto over)",
+      "description": "Duplas de Skincare por até R$99,90 (kits com produto over)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/F4anTCNxk6SN"
+    },
+    {
+      "id": "69de77fd768c8f2da45e6951",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "#Trend Beleza sem Regras | Seleção de produtos",
+      "description": "#Trend Beleza sem Regras | Seleção de produtos",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4IpgtIv8aLo4"
     }
   ]
 }
