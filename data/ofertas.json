@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T05:56:02.972Z",
+  "lastUpdated": "2026-04-17T05:59:08.406Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2321,21 +2321,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "696a8f7724150750588e8810",
-      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
-      "brandName": "Electrolux",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
-      "code": "LIDER5",
-      "description": "Cupom de 5% de desconto em coleção exclusiva de produtos com “selo BBB”",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration",
-        "promotions"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/oc0ykj74Lt7b"
-    },
-    {
       "id": "696fa7c424150750588f8dbe",
       "brandId": "10e15c60-c43b-439c-9d53-373bb4388756",
       "brandName": "Lojão dos Esportes",
@@ -2711,21 +2696,6 @@
       "affiliateUrl": "https://lmdee.link/yoRZ1jbrWhvc"
     },
     {
-      "id": "69d401c9768c8f2da45bdce4",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "EXTRA20",
-      "description": "Ganhe 20% OFF na compra de 2 peças ( cupom válido Adulto e Kids)",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "beauty"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/PFhZ206a-AEz"
-    },
-    {
       "id": "69d7a5ba768c8f2da45cd5e6",
       "brandId": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
       "brandName": "Concórdia Informática ",
@@ -2738,6 +2708,36 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "69d9434c768c8f2da45d3ad6",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "NOITE10",
+      "description": "Cupom de 10% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JaoZF6nMALKk"
+    },
+    {
+      "id": "69d94561768c8f2da45d3bf0",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "NOITE5",
+      "description": "Cupom de 5% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Klo-UdCWgF1z"
     },
     {
       "id": "69dcffef768c8f2da45ded4e",
@@ -2812,54 +2812,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "69b9b2dc0a186a32c41a8a92",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/uQY0EQ3FTD49"
-    },
-    {
-      "id": "69b9b3070a186a32c41a8b0a",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/77RLeryTyJmY"
-    },
-    {
-      "id": "69b9b3380a186a32c41a8b71",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/QXeDUum3aySi"
-    },
-    {
-      "id": "69b9b5260a186a32c41a8ec0",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/b9YQJEJZeA2W"
-    },
     {
       "id": "69b9b5720a186a32c41a8f1c",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3785,18 +3737,6 @@
       "affiliateUrl": "https://lmdee.link/b28ktN07itoW"
     },
     {
-      "id": "69d4020b768c8f2da45bdd58",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "name": "Infantil- Ganhe 20% OFF na compra de 2 peças  (Cupom: EXTRA20)",
-      "description": "Infantil- Ganhe 20% OFF na compra de 2 peças  (Cupom: EXTRA20)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/FOH3jsCWXXGa"
-    },
-    {
       "id": "69d51a4c768c8f2da45c2c9c",
       "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
       "brandName": "Gazin",
@@ -3999,6 +3939,30 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/4IpgtIv8aLo4"
+    },
+    {
+      "id": "69df86bf768c8f2da45eaba8",
+      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
+      "brandName": "Multimóveis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
+      "name": "Especial Dia das Mães",
+      "description": "Especial Dia das Mães",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/tDcv1WhYaEVh"
+    },
+    {
+      "id": "69dfa2d9768c8f2da45eb7a0",
+      "brandId": "4a2f41d4-099d-4c8d-a003-5a37bef52ac8",
+      "brandName": "Hipervarejo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/4a2f41d4-099d-4c8d-a003-5a37bef52ac8/logo",
+      "name": "Semana da Caixa de Direção - TRW com até 20%off",
+      "description": "Semana da Caixa de Direção - TRW com até 20%off",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ]
 }
