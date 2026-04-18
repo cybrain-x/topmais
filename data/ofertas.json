@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T05:59:08.406Z",
+  "lastUpdated": "2026-04-18T05:29:20.608Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -47,7 +47,7 @@
       "logo": "https://cdn.lomadee.com.br/logos/06d4e00d-d3c2-4e01-9874-5a457b5361e6/logo",
       "segment": "fogão ",
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+      "affiliateUrl": null
     },
     {
       "id": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -814,6 +814,14 @@
       "name": "Buddha SPA",
       "logo": "https://cdn.lomadee.com.br/logos/cda2b486-0ba6-4be9-8944-5d5096735e03/logo",
       "segment": "others",
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "ce68e7de-f212-44e3-bec6-16f5bec419ef",
+      "name": "MiniPreço",
+      "logo": "https://cdn.lomadee.com.br/logos/ce68e7de-f212-44e3-bec6-16f5bec419ef/logo",
+      "segment": "retail",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
@@ -2710,36 +2718,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "69d9434c768c8f2da45d3ad6",
-      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
-      "brandName": "Electrolux",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
-      "code": "NOITE10",
-      "description": "Cupom de 10% de desconto ",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/JaoZF6nMALKk"
-    },
-    {
-      "id": "69d94561768c8f2da45d3bf0",
-      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
-      "brandName": "Electrolux",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
-      "code": "NOITE5",
-      "description": "Cupom de 5% de desconto ",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Klo-UdCWgF1z"
-    },
-    {
       "id": "69dcffef768c8f2da45ded4e",
       "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
       "brandName": "BALAROTI",
@@ -2809,6 +2787,160 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/Yl1sYUTHPEin"
+    },
+    {
+      "id": "69e0f306768c8f2da45f0ec5",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "bemvindo",
+      "description": "10%OFF Primeira compra",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NEkxtapu-Ykz"
+    },
+    {
+      "id": "69e0f52d768c8f2da45f11b0",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "cuponomia10off",
+      "description": "Cuponomia 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kgsuEy2WxyNR"
+    },
+    {
+      "id": "69e0f58c768c8f2da45f11dd",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "cuponation10off",
+      "description": "Cuponation 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/l2KOM7hK5i1Z"
+    },
+    {
+      "id": "69e0f5d8768c8f2da45f1213",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "Agora10OFF",
+      "description": "Agora Cupom 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HfBvPAwBxm59"
+    },
+    {
+      "id": "69e0f626768c8f2da45f122c",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "melhorcompra10",
+      "description": "Melhor Compra 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kE6KZrt08rMS"
+    },
+    {
+      "id": "69e0f65c768c8f2da45f124d",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "cupomvalido10",
+      "description": "Cupom Válido 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/opccz3H8821p"
+    },
+    {
+      "id": "69e0f686768c8f2da45f12ad",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "radarcupom10",
+      "description": "Radar Cupom 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/rigDr0d1FvHQ"
+    },
+    {
+      "id": "69e0f6b1768c8f2da45f12d1",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "desconto10%OFF",
+      "description": "Cupom Desconto 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/E87PRyfXYMVN"
+    },
+    {
+      "id": "69e0f6de768c8f2da45f12f9",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "Linkbux10",
+      "description": "Linkbux 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/C8U5RoQGzwK3"
+    },
+    {
+      "id": "69e0f711768c8f2da45f1326",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "1001cupons",
+      "description": "1001 Cupons 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QRR1RmZKB5lY"
+    },
+    {
+      "id": "69e0f73b768c8f2da45f1384",
+      "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
+      "brandName": "FOM",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
+      "code": "pratique10off",
+      "description": "Pratique Economia 10%OFF",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/uGcy4qSxWl-I"
     }
   ],
   "offers": [
@@ -3485,18 +3617,6 @@
       "affiliateUrl": "https://lmdee.link/QvtoH7pwGMwW"
     },
     {
-      "id": "69cd2954768c8f2da45a41b0",
-      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
-      "brandName": "Electrolux",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
-      "name": "Casa Bem Vivida - 50% Off + até 15% no PIX + Frete Grátis + Cupom 5% Of",
-      "description": "Casa Bem Vivida - 50% Off + até 15% no PIX + Frete Grátis + Cupom 5% Of",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/C19NN6ReM8zz"
-    },
-    {
       "id": "69cd2987768c8f2da45a41e4",
       "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
       "brandName": "Electrolux",
@@ -3963,6 +4083,18 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "69dffb9a768c8f2da45edba3",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Night Sale leve 2 pague 1",
+      "description": "Night Sale leve 2 pague 1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/DfdzJlZTdm7N"
     }
   ]
 }
