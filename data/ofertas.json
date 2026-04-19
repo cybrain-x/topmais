@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T05:29:20.608Z",
+  "lastUpdated": "2026-04-19T05:53:09.367Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2666,6 +2666,21 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
+      "id": "69cd3a4d768c8f2da45a4b91",
+      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
+      "brandName": "Guess Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
+      "code": "EXTRA15",
+      "description": "Cupom de 15% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4kInu5CC6o38"
+    },
+    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -3653,6 +3668,18 @@
       "affiliateUrl": "https://lmdee.link/7yVLTQEMYUQu"
     },
     {
+      "id": "69cd38fd768c8f2da45a4a0e",
+      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
+      "brandName": "Guess Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
+      "name": "Feriado com Desconto- Use o cupom EXTRA15 e ganhe 15% OFF",
+      "description": "Feriado com Desconto- Use o cupom EXTRA15 e ganhe 15% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XtwghLkoMjyS"
+    },
+    {
       "id": "69ce5cc2768c8f2da45a9b81",
       "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
       "brandName": "Grendene",
@@ -3977,18 +4004,6 @@
       "affiliateUrl": "https://lmdee.link/zHtdq0jaO3aF"
     },
     {
-      "id": "69dcf5c4768c8f2da45de673",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "QUEIMA DE ESTOQUE",
-      "description": "QUEIMA DE ESTOQUE",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/KIG3oP-dc3qi"
-    },
-    {
       "id": "69dd3347768c8f2da45e0d31",
       "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
       "brandName": "Móveis Carraro",
@@ -4085,16 +4100,16 @@
       "affiliateUrl": null
     },
     {
-      "id": "69dffb9a768c8f2da45edba3",
+      "id": "69e27d32768c8f2da45f6c7e",
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
       "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Night Sale leve 2 pague 1",
-      "description": "Night Sale leve 2 pague 1",
+      "name": "Happy Holiday",
+      "description": "Happy Holiday",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/DfdzJlZTdm7N"
+      "affiliateUrl": "https://lmdee.link/lfyvdE0qVH4O"
     }
   ]
 }
