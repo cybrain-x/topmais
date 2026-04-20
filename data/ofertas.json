@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T05:53:09.367Z",
+  "lastUpdated": "2026-04-20T06:09:03.824Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2733,34 +2733,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "69dcffef768c8f2da45ded4e",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "RADARCUPOM",
-      "description": "radar cupom",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/OvuueX1tyOeY"
-    },
-    {
-      "id": "69dd308b768c8f2da45e0b4d",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "FESTIVALDACONSTRUÇÃO",
-      "description": "FESTIVAL DA CONSTRUÇÃO",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/oNWmCjBry-au"
-    },
-    {
       "id": "69dd31de768c8f2da45e0c48",
       "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
       "brandName": "Móveis Carraro",
@@ -2773,20 +2745,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/N4ZNZSAXzQBm"
-    },
-    {
-      "id": "69dd39ec768c8f2da45e1477",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "QUEIMADEESTOQUE",
-      "description": "QUEIMA DE ESTOQUE",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/UDL-CWH53psn"
     },
     {
       "id": "69de7885768c8f2da45e69bf",
@@ -2959,6 +2917,30 @@
     }
   ],
   "offers": [
+    {
+      "id": "69b9b3380a186a32c41a8b71",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QXeDUum3aySi"
+    },
+    {
+      "id": "69b9b5260a186a32c41a8ec0",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/b9YQJEJZeA2W"
+    },
     {
       "id": "69b9b5720a186a32c41a8f1c",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -4086,18 +4068,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/tDcv1WhYaEVh"
-    },
-    {
-      "id": "69dfa2d9768c8f2da45eb7a0",
-      "brandId": "4a2f41d4-099d-4c8d-a003-5a37bef52ac8",
-      "brandName": "Hipervarejo",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/4a2f41d4-099d-4c8d-a003-5a37bef52ac8/logo",
-      "name": "Semana da Caixa de Direção - TRW com até 20%off",
-      "description": "Semana da Caixa de Direção - TRW com até 20%off",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
     },
     {
       "id": "69e27d32768c8f2da45f6c7e",
