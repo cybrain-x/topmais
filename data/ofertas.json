@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T05:58:05.448Z",
+  "lastUpdated": "2026-04-22T05:55:31.717Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2914,6 +2914,21 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/uGcy4qSxWl-I"
+    },
+    {
+      "id": "69e6215b768c8f2da45ff3aa",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "code": "ROUP5",
+      "description": "Cupom de 5% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Qf1KUdY7rqIy"
     }
   ],
   "offers": [
@@ -3890,18 +3905,6 @@
       "affiliateUrl": "https://lmdee.link/juV3x4A4rIvj"
     },
     {
-      "id": "69d6c163768c8f2da45cabf1",
-      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
-      "brandName": "iRobot",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
-      "name": "Roomba 705+ - Campanha de Abril (Comunicação: Parcelamento, Percentual de Desconto)",
-      "description": "Roomba 705+ - Campanha de Abril (Comunicação: Parcelamento, Percentual de Desconto)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/eE8E3edmBgpS"
-    },
-    {
       "id": "69d6c79c768c8f2da45caeb6",
       "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
       "brandName": "iRobot",
@@ -4070,16 +4073,28 @@
       "affiliateUrl": "https://lmdee.link/tDcv1WhYaEVh"
     },
     {
-      "id": "69e27d32768c8f2da45f6c7e",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Happy Holiday",
-      "description": "Happy Holiday",
+      "id": "69e26200768c8f2da45f6190",
+      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
+      "brandName": "Multimóveis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
+      "name": "Última Chance de Abril",
+      "description": "Última Chance de Abril",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/lfyvdE0qVH4O"
+      "affiliateUrl": "https://lmdee.link/eVjsrRqku3ZF"
+    },
+    {
+      "id": "69e627bc768c8f2da45ff903",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "2 sandálias por R$ 119,00 (produtos selecionados do link)",
+      "description": "2 sandálias por R$ 119,00 (produtos selecionados do link)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/hOdMgsQEmh4S"
     }
   ]
 }
