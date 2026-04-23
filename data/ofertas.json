@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T05:55:31.717Z",
+  "lastUpdated": "2026-04-23T05:59:40.617Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2666,21 +2666,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69cd3a4d768c8f2da45a4b91",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "code": "EXTRA15",
-      "description": "Cupom de 15% de desconto ",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "beauty"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/4kInu5CC6o38"
-    },
-    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -2745,21 +2730,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/N4ZNZSAXzQBm"
-    },
-    {
-      "id": "69de7885768c8f2da45e69bf",
-      "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
-      "brandName": "DeÔnibus",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/b89e4834-6f7c-4ac8-9972-5d579488432c/logo",
-      "code": "FERIADAO10",
-      "description": "Cupom de 10% de desconto ",
-      "docType": "code",
-      "categories": [
-        "tourism-and-leisure",
-        "services"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Yl1sYUTHPEin"
     },
     {
       "id": "69e0f306768c8f2da45f0ec5",
@@ -2932,18 +2902,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "69b9b3380a186a32c41a8b71",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/QXeDUum3aySi"
-    },
     {
       "id": "69b9b5260a186a32c41a8ec0",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3665,16 +3623,16 @@
       "affiliateUrl": "https://lmdee.link/7yVLTQEMYUQu"
     },
     {
-      "id": "69cd38fd768c8f2da45a4a0e",
+      "id": "69cd395e768c8f2da45a4a68",
       "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
       "brandName": "Guess Brasil",
       "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "Feriado com Desconto- Use o cupom EXTRA15 e ganhe 15% OFF",
-      "description": "Feriado com Desconto- Use o cupom EXTRA15 e ganhe 15% OFF",
+      "name": "Dia das Mães- Brinde exclusivo acima de R$ 799",
+      "description": "Dia das Mães- Brinde exclusivo acima de R$ 799",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/XtwghLkoMjyS"
+      "affiliateUrl": "https://lmdee.link/ybDPDHNoJNjY"
     },
     {
       "id": "69ce5cc2768c8f2da45a9b81",
