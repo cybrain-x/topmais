@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T05:59:40.617Z",
+  "lastUpdated": "2026-04-24T06:03:08.417Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2666,6 +2666,21 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
+      "id": "69cbf1e5768c8f2da459e3ae",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "CHURRASCO15",
+      "description": "15% off nos produtos de churrasco ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ghEN5qRf41aB"
+    },
+    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -2899,117 +2914,38 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/Qf1KUdY7rqIy"
+    },
+    {
+      "id": "69ea51d63802c70c247ad75d",
+      "brandId": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
+      "brandName": "Casa do Fitness",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/038925ab-7cd8-462d-9c27-1266f14ee3b2/logo",
+      "code": "FITNESS5",
+      "description": "Cupom de 5% de desconto em todo o site ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/hge6Bva9AlNd"
+    },
+    {
+      "id": "69ea79263802c70c247ae9a8",
+      "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
+      "brandName": "DeÔnibus",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b89e4834-6f7c-4ac8-9972-5d579488432c/logo",
+      "code": "DEVOLTA",
+      "description": "12% OFF na passagem de volta",
+      "docType": "code",
+      "categories": [
+        "tourism-and-leisure"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/sik20QMbIeGV"
     }
   ],
   "offers": [
-    {
-      "id": "69b9b5260a186a32c41a8ec0",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/b9YQJEJZeA2W"
-    },
-    {
-      "id": "69b9b5720a186a32c41a8f1c",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/G9DxqBBIbsWm"
-    },
-    {
-      "id": "69b9b6030a186a32c41a8fb7",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fWko598wgPYT"
-    },
-    {
-      "id": "69b9b63b0a186a32c41a902d",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/0oA5MHuMRCUa"
-    },
-    {
-      "id": "69b9b6c50a186a32c41a9063",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/HHDIF7UN4lyV"
-    },
-    {
-      "id": "69b9b7130a186a32c41a90f5",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/O4A9BCTzFgXR"
-    },
-    {
-      "id": "69b9b7440a186a32c41a9141",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/y4X716hAVN0b"
-    },
-    {
-      "id": "69bc2c470a186a32c41b2f1c",
-      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
-      "brandName": "Xiaomi Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
-      "name": "Lançamento X8 PRO",
-      "description": "Lançamento X8 PRO",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/En8bWnqYCl6n"
-    },
-    {
-      "id": "69bc4b100a186a32c41b4942",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/MY8wK0zGWfNc"
-    },
     {
       "id": "69bc4b3b0a186a32c41b496c",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3117,18 +3053,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/JJ-wEs1WqOYi"
-    },
-    {
-      "id": "69bd8a000a186a32c41b9309",
-      "brandId": "c7fda3cb-c9e5-4a06-822d-5d687cc56802",
-      "brandName": "Zupper",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c7fda3cb-c9e5-4a06-822d-5d687cc56802/logo",
-      "name": "Viaje com o Zupper",
-      "description": "Viaje com o Zupper",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/SnxkiHd-BAnf"
     },
     {
       "id": "69bda0900a186a32c41b9e14",
@@ -3923,18 +3847,6 @@
       "affiliateUrl": "https://lmdee.link/lg9PxR6AQhDf"
     },
     {
-      "id": "69dcd890768c8f2da45dd5b0",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Semana do beijo",
-      "description": "Semana do beijo",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/TWKjc9J4j92M"
-    },
-    {
       "id": "69dcd96d768c8f2da45dd60b",
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
@@ -3957,18 +3869,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/KrBJotXUaYR4"
-    },
-    {
-      "id": "69de3084768c8f2da45e4f6d",
-      "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
-      "brandName": "Multimóveis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/3480e31a-4b36-4f4f-a4fc-66509654f2c9/logo",
-      "name": "Universo Kids",
-      "description": "Universo Kids",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/TByuoGVWyco9"
     },
     {
       "id": "69de76f7768c8f2da45e68b4",
@@ -4053,6 +3953,150 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/hOdMgsQEmh4S"
+    },
+    {
+      "id": "69e904db3802c70c247a749c",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "10% OFF acima de 6 unidade + 6 Brindes",
+      "description": "10% OFF acima de 6 unidade + 6 Brindes",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/KE9VPquMRoTm"
+    },
+    {
+      "id": "69e929fe3802c70c247a86e7",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "25% EXTRA em lista selecionada e Frete Grátis acima de R$249 | Cupom MAIS 25",
+      "description": "25% EXTRA em lista selecionada e Frete Grátis acima de R$249 | Cupom MAIS 25",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/hvmC5PHRabNG"
+    },
+    {
+      "id": "69e92bfd3802c70c247a88f8",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "ShopClub 48H: Condição geral: Até 2500$ off + pix ate 5% + frete gratis*",
+      "description": "ShopClub 48H: Condição geral: Até 2500$ off + pix ate 5% + frete gratis*",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2dOSb4o79QiU"
+    },
+    {
+      "id": "69e933ce3802c70c247a8ea0",
+      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
+      "brandName": "NutriBullet",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
+      "name": "Presente de Dia das Mães Nutribullet com até R$650 OFF ",
+      "description": "Presente de Dia das Mães Nutribullet com até R$650 OFF ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/biqWAZ4a2Wdj"
+    },
+    {
+      "id": "69ea4e053802c70c247ad560",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Dia das Mães | Escolha um presente nas compras acima de R$249",
+      "description": "Dia das Mães | Escolha um presente nas compras acima de R$249",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0LcaiBuTE2dG"
+    },
+    {
+      "id": "69ea4e973802c70c247ad5b0",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Dia das Mães | Maternity",
+      "description": "Dia das Mães | Maternity",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/wYf8IKcyTXA0"
+    },
+    {
+      "id": "69ea4f3b3802c70c247ad5d9",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Dia das Mães | produtos com até 60%OFF",
+      "description": "Dia das Mães | produtos com até 60%OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/irU8ke4cHHJ8"
+    },
+    {
+      "id": "69ea4fd33802c70c247ad601",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Lançamento Flat Blend | Duas novas cores",
+      "description": "Lançamento Flat Blend | Duas novas cores",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ao8tUTMHiv0Z"
+    },
+    {
+      "id": "69ea50633802c70c247ad66b",
+      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
+      "brandName": "Océane",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
+      "name": "Progressiva de Mimos | Ganhe até 03 chaveiros esponja",
+      "description": "Progressiva de Mimos | Ganhe até 03 chaveiros esponja",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/DwT-VNdL0Lnb"
+    },
+    {
+      "id": "69ea6ee33802c70c247ae644",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "Banner Dia das Mães",
+      "description": "Banner Dia das Mães",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TEXv8PPw31wT"
+    },
+    {
+      "id": "69ea6f1a3802c70c247ae6b2",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "Story Dia das mães",
+      "description": "Story Dia das mães",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/LvGZ2QrQcPZX"
+    },
+    {
+      "id": "69ea6f3f3802c70c247ae6db",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "Feed Dia das Mães",
+      "description": "Feed Dia das Mães",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ue-97y1PXZEl"
     }
   ]
 }
