@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T05:43:26.377Z",
+  "lastUpdated": "2026-04-26T06:01:32.898Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2666,21 +2666,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69cbf1e5768c8f2da459e3ae",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "CHURRASCO15",
-      "description": "15% off nos produtos de churrasco ",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ghEN5qRf41aB"
-    },
-    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -2943,116 +2928,226 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/sik20QMbIeGV"
+    },
+    {
+      "id": "69ebbd133802c70c247b3f9b",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "OPERACAOBALA",
+      "description": "OPERAÇÃO BALAROTI",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/uIePjnJN42W8"
+    },
+    {
+      "id": "69ebbee13802c70c247b4295",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "OBRAFIRME10",
+      "description": "OBRAFIRME10",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/oBcseRWrDFFP"
+    },
+    {
+      "id": "69ebbf753802c70c247b431a",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "BASEFORTE10",
+      "description": "BASEFORTE10",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HpXn4MiJHCDv"
+    },
+    {
+      "id": "69ebc02f3802c70c247b4377",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "REFORMAON",
+      "description": "REFORMAON",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/WRiSTqhlVrz3"
+    },
+    {
+      "id": "69ebc9c23802c70c247b4943",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "ELUX15",
+      "description": "15% OFF em Produtos Selecionados Electrolux",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Z5sWJaiUz6Wl"
+    },
+    {
+      "id": "69ebca213802c70c247b49c6",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "GANHE7",
+      "description": "cupom de 7% de desconto",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XB3pfQDu4HFI"
+    },
+    {
+      "id": "69ebd4f63802c70c247b5291",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "code": "ZAXY15LD",
+      "description": "Primeira Zaxy c/ 15% Off",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69ebd5863802c70c247b5311",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "code": "IPANEMA15LD",
+      "description": "Primeira Ipanema c/ 15% Off",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69ebd5e53802c70c247b536f",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "code": "GKIDS15ld",
+      "description": "Grendene Kids c/ 15% Off",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69ebd6243802c70c247b53e6",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "code": "RIDER15LD",
+      "description": "Primeiro Rider c/ 15% OFF",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ],
   "offers": [
     {
-      "id": "69bc4b3b0a186a32c41b496c",
+      "id": "69b9b6030a186a32c41a8fb7",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
       "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nzU6EzXhrUU8"
+      "affiliateUrl": "https://lmdee.link/fWko598wgPYT"
     },
     {
-      "id": "69bc4b600a186a32c41b499a",
+      "id": "69b9b63b0a186a32c41a902d",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
       "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9A7PhvxQunD4"
+      "affiliateUrl": "https://lmdee.link/0oA5MHuMRCUa"
     },
     {
-      "id": "69bc4b880a186a32c41b49c2",
+      "id": "69b9b6c50a186a32c41a9063",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
       "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/DCXM8ZUhUFfA"
+      "affiliateUrl": "https://lmdee.link/HHDIF7UN4lyV"
     },
     {
-      "id": "69bc4bad0a186a32c41b49ea",
+      "id": "69b9b7130a186a32c41a90f5",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
       "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/v0jGRVO1eqNa"
+      "affiliateUrl": "https://lmdee.link/O4A9BCTzFgXR"
     },
     {
-      "id": "69bc4bd60a186a32c41b4a12",
+      "id": "69b9b7440a186a32c41a9141",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
       "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/RO04J1iovXrb"
+      "affiliateUrl": "https://lmdee.link/y4X716hAVN0b"
     },
     {
-      "id": "69bc4bfe0a186a32c41b4a3a",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
+      "id": "69bc2c470a186a32c41b2f1c",
+      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
+      "brandName": "Xiaomi Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
+      "name": "Lançamento X8 PRO",
+      "description": "Lançamento X8 PRO",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/X894tOE-16B8"
-    },
-    {
-      "id": "69bc4c210a186a32c41b4a66",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/B3kp9oxFlxVB"
-    },
-    {
-      "id": "69bc4c470a186a32c41b4a8e",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/UhDEXv1xiuo9"
-    },
-    {
-      "id": "69bc4c6e0a186a32c41b4abf",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Porta_Sapato",
-      "description": "Porta_Sapato",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/JJ-wEs1WqOYi"
+      "affiliateUrl": "https://lmdee.link/En8bWnqYCl6n"
     },
     {
       "id": "69bda0900a186a32c41b9e14",
@@ -3979,18 +4074,6 @@
       "affiliateUrl": "https://lmdee.link/hvmC5PHRabNG"
     },
     {
-      "id": "69e92bfd3802c70c247a88f8",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "ShopClub 48H: Condição geral: Até 2500$ off + pix ate 5% + frete gratis*",
-      "description": "ShopClub 48H: Condição geral: Até 2500$ off + pix ate 5% + frete gratis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/2dOSb4o79QiU"
-    },
-    {
       "id": "69e933ce3802c70c247a8ea0",
       "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
       "brandName": "NutriBullet",
@@ -4097,6 +4180,54 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ue-97y1PXZEl"
+    },
+    {
+      "id": "69eb7f383802c70c247b1f7d",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "name": "OPERAÇÃO BALAROTI",
+      "description": "OPERAÇÃO BALAROTI",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/H0eDtA7HF739"
+    },
+    {
+      "id": "69eb81de3802c70c247b21b0",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Dia das Maes",
+      "description": "Dia das Maes",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2fTCDmmxQfjk"
+    },
+    {
+      "id": "69ebbcbf3802c70c247b3f26",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Brinde Dia das Mães",
+      "description": "Brinde Dia das Mães",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/q6347UcJIvt1"
+    },
+    {
+      "id": "69ebd8523802c70c247b54ea",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "name": "25% Off Segundo Par Zaxy ",
+      "description": "25% Off Segundo Par Zaxy ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ]
 }
