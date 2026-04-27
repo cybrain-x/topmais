@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T06:01:32.898Z",
+  "lastUpdated": "2026-04-27T06:22:43.450Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -3078,6 +3078,30 @@
   ],
   "offers": [
     {
+      "id": "69b9b5260a186a32c41a8ec0",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/b9YQJEJZeA2W"
+    },
+    {
+      "id": "69b9b5720a186a32c41a8f1c",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Botas OI26",
+      "description": "Botas OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/G9DxqBBIbsWm"
+    },
+    {
       "id": "69b9b6030a186a32c41a8fb7",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -3964,18 +3988,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/KrBJotXUaYR4"
-    },
-    {
-      "id": "69de76f7768c8f2da45e68b4",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "4 MAKES 99 (sem lábios) | 3 makes por R$99 + mini batom de brinde 4MAKES",
-      "description": "4 MAKES 99 (sem lábios) | 3 makes por R$99 + mini batom de brinde 4MAKES",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/AQqMRj8VRhDz"
     },
     {
       "id": "69de7758768c8f2da45e68e6",
