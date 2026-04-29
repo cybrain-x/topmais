@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T06:24:40.691Z",
+  "lastUpdated": "2026-04-29T06:17:48.070Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2704,34 +2704,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69cbf25b768c8f2da459e429",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "FRETEZERO",
-      "description": "Dia do frete grátis  para toda a loja",
-      "docType": "code",
-      "categories": [
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Upu27sBqKxWt"
-    },
-    {
-      "id": "69cbf3da768c8f2da459e614",
-      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
-      "brandName": "Coza",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "code": "DIADOFRETE",
-      "description": " Dia do frete grátis - frete grátis em toda a loja com cupom",
-      "docType": "code",
-      "categories": [
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7mb7mfvTkk3T"
-    },
-    {
       "id": "69d3958d768c8f2da45baedc",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
       "brandName": "Nobelpack",
@@ -2802,7 +2774,7 @@
       "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
       "brandName": "FOM",
       "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
-      "code": "bemvindo",
+      "code": "bemvindo10off",
       "description": "10%OFF Primeira compra",
       "docType": "code",
       "categories": [
@@ -2816,7 +2788,7 @@
       "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
       "brandName": "FOM",
       "brandLogo": "https://cdn.lomadee.com.br/logos/c43edf8e-c151-474a-83e8-d52ec3e13a24/logo",
-      "code": "desconto10%OFF",
+      "code": "desconto10OFF",
       "description": "Cupom Desconto 10%OFF",
       "docType": "code",
       "categories": [
@@ -3075,93 +3047,85 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/aeUtNom6TI6c"
+    },
+    {
+      "id": "69f0ca6b3802c70c247c6dd6",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "code": "100tempo",
+      "description": "Dia Das Mães Afiliados ",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "electronics",
+        "promotions"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/IPyPg18PHJQy"
+    },
+    {
+      "id": "69f0feb13802c70c247c8f74",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "MAE5",
+      "description": "Cupom de 5% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-qzu8i6TnfEb"
+    },
+    {
+      "id": "69f0fee03802c70c247c8fcf",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "MAE10",
+      "description": "Cupom de 10% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/IzQgd11b7Bfz"
+    },
+    {
+      "id": "69f0ff1d3802c70c247c9035",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "MAE7",
+      "description": "cupom de 7% de desconto",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/SaUAfUNUfBla"
+    },
+    {
+      "id": "69f1127b3802c70c247c9e10",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "FRETEGRATIS",
+      "description": "Dia do Frete Grátis | No site todo por 24h",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/nNuWI89Cg8SO"
     }
   ],
   "offers": [
-    {
-      "id": "69b9b7130a186a32c41a90f5",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/O4A9BCTzFgXR"
-    },
-    {
-      "id": "69b9b7440a186a32c41a9141",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Botas OI26",
-      "description": "Botas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/y4X716hAVN0b"
-    },
-    {
-      "id": "69bc2c470a186a32c41b2f1c",
-      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
-      "brandName": "Xiaomi Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
-      "name": "Lançamento X8 PRO",
-      "description": "Lançamento X8 PRO",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/En8bWnqYCl6n"
-    },
-    {
-      "id": "69bda0900a186a32c41b9e14",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "OI2026_2",
-      "description": "OI2026_2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/na-fdN3h36F3"
-    },
-    {
-      "id": "69bda0f00a186a32c41b9e6d",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "OI2026_2",
-      "description": "OI2026_2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/smAYNAdwOXKc"
-    },
-    {
-      "id": "69bda1360a186a32c41b9ea6",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "OI2026_2",
-      "description": "OI2026_2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/G7szxSFPHKIn"
-    },
-    {
-      "id": "69bda21b0a186a32c41b9f67",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "OI2026_2",
-      "description": "OI2026_2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/qMWq087mvUiD"
-    },
     {
       "id": "69bda2470a186a32c41b9f95",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3619,18 +3583,6 @@
       "affiliateUrl": "https://lmdee.link/ybDPDHNoJNjY"
     },
     {
-      "id": "69cd3996768c8f2da45a4a92",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "Dia do Frete Grátis",
-      "description": "Dia do Frete Grátis",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/MDa1ifkIJxi4"
-    },
-    {
       "id": "69ce5cc2768c8f2da45a9b81",
       "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
       "brandName": "Grendene",
@@ -3833,18 +3785,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/b28ktN07itoW"
-    },
-    {
-      "id": "69d51a4c768c8f2da45c2c9c",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Smartphone Motorola Moto G15 4G Octa Core 256GB 4GB - Grafite - Quadriband (De: R$ 1.652,00 ; Por: R$ 779,90 no Pix)",
-      "description": "Smartphone Motorola Moto G15 4G Octa Core 256GB 4GB - Grafite - Quadriband (De: R$ 1.652,00 ; Por: R$ 779,90 no Pix)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/JNXVcMPZ2hvk"
     },
     {
       "id": "69d63df6768c8f2da45c71f7",
@@ -4123,18 +4063,6 @@
       "affiliateUrl": "https://lmdee.link/ue-97y1PXZEl"
     },
     {
-      "id": "69eb7f383802c70c247b1f7d",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "OPERAÇÃO BALAROTI",
-      "description": "OPERAÇÃO BALAROTI",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/H0eDtA7HF739"
-    },
-    {
       "id": "69eb81de3802c70c247b21b0",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -4241,6 +4169,126 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/w2V08Bm4BRhB"
+    },
+    {
+      "id": "69f0b9d13802c70c247c63b5",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Ação de fecha mês, produtos com até 47% OFF 🔥",
+      "description": "Ação de fecha mês, produtos com até 47% OFF 🔥",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/eG9WMd6kM8S9"
+    },
+    {
+      "id": "69f0c9a83802c70c247c6d91",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Dia Das Mães 2026 - iRobot",
+      "description": "Dia Das Mães 2026 - iRobot",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7wyj1k8DGweY"
+    },
+    {
+      "id": "69f0ca993802c70c247c6e01",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Cupom Dia Das Mães - Banner",
+      "description": "Cupom Dia Das Mães - Banner",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Lp8eD0DJGZ2F"
+    },
+    {
+      "id": "69f0cefc3802c70c247c72e2",
+      "brandId": "40167aca-ebfe-4ffd-bc01-e6778fb7aeed",
+      "brandName": "Hunter Fan",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/40167aca-ebfe-4ffd-bc01-e6778fb7aeed/logo",
+      "name": "Dia Das Mães - Oferta Ventilador de Teto - Angra ",
+      "description": "Dia Das Mães - Oferta Ventilador de Teto - Angra ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NkLt9LLmI2Eo"
+    },
+    {
+      "id": "69f0cf583802c70c247c7322",
+      "brandId": "40167aca-ebfe-4ffd-bc01-e6778fb7aeed",
+      "brandName": "Hunter Fan",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/40167aca-ebfe-4ffd-bc01-e6778fb7aeed/logo",
+      "name": "Dia Das Mães - Oferta Ventilador de Teto - Builder Plus Branco",
+      "description": "Dia Das Mães - Oferta Ventilador de Teto - Builder Plus Branco",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/5qMH2gVBZKh8"
+    },
+    {
+      "id": "69f0cfc93802c70c247c7382",
+      "brandId": "40167aca-ebfe-4ffd-bc01-e6778fb7aeed",
+      "brandName": "Hunter Fan",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/40167aca-ebfe-4ffd-bc01-e6778fb7aeed/logo",
+      "name": "Dia Das Mães - Oferta Ventilador de Teto - Contempo",
+      "description": "Dia Das Mães - Oferta Ventilador de Teto - Contempo",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XW4hPLr7DhRz"
+    },
+    {
+      "id": "69f0d01e3802c70c247c73bd",
+      "brandId": "40167aca-ebfe-4ffd-bc01-e6778fb7aeed",
+      "brandName": "Hunter Fan",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/40167aca-ebfe-4ffd-bc01-e6778fb7aeed/logo",
+      "name": "Dia Das Mães - Oferta Ventilador de Teto - Dante",
+      "description": "Dia Das Mães - Oferta Ventilador de Teto - Dante",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/F2w4Y-0YiMom"
+    },
+    {
+      "id": "69f0d0663802c70c247c73d8",
+      "brandId": "40167aca-ebfe-4ffd-bc01-e6778fb7aeed",
+      "brandName": "Hunter Fan",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/40167aca-ebfe-4ffd-bc01-e6778fb7aeed/logo",
+      "name": "Dia Das Mães - Oferta Ventilador de Teto - Sonic",
+      "description": "Dia Das Mães - Oferta Ventilador de Teto - Sonic",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/DThRc1jggVA8"
+    },
+    {
+      "id": "69f0ea003802c70c247c850d",
+      "brandId": "a463682f-09a7-420a-9858-1e9681591513",
+      "brandName": "Dyson",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/a463682f-09a7-420a-9858-1e9681591513/logo",
+      "name": "Compre Dyson e Ganhe Brinde de Dia Das Mães ",
+      "description": "Compre Dyson e Ganhe Brinde de Dia Das Mães ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/acmlk6pD7ele"
+    },
+    {
+      "id": "69f112cc3802c70c247c9e7f",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "name": "Malwee Kids - DIA DO FRETE GRÁTIS 🔥No site todo por 24h, 🎟️ Usando o cupom FRETEGRATIS",
+      "description": "Malwee Kids - DIA DO FRETE GRÁTIS 🔥No site todo por 24h, 🎟️ Usando o cupom FRETEGRATIS",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NLIVx9tCzTS-"
     }
   ]
 }
