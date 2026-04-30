@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T06:17:48.070Z",
+  "lastUpdated": "2026-04-30T06:22:17.434Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -170,6 +170,14 @@
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
+      "id": "2b82adcc-b901-4f2b-86c7-9c6287a0b272",
+      "name": "YSY Acessórios",
+      "logo": "https://cdn.lomadee.com.br/logos/2b82adcc-b901-4f2b-86c7-9c6287a0b272/logo",
+      "segment": "fashion",
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
       "id": "2c0005fa-a3d6-4062-b0a7-ab9490101e27",
       "name": "FUNKO",
       "logo": "https://cdn.lomadee.com.br/logos/2c0005fa-a3d6-4062-b0a7-ab9490101e27/logo",
@@ -192,6 +200,14 @@
       "segment": "Perfumaria",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "2e9c32ff-43f2-46d8-8b08-339114067bcd",
+      "name": "Freeway",
+      "logo": "https://cdn.lomadee.com.br/logos/2e9c32ff-43f2-46d8-8b08-339114067bcd/logo",
+      "segment": "fashion",
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "304e46ab-9e6f-462d-87e7-9afad02997aa",
@@ -3110,22 +3126,45 @@
       "affiliateUrl": "https://lmdee.link/SaUAfUNUfBla"
     },
     {
-      "id": "69f1127b3802c70c247c9e10",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "FRETEGRATIS",
-      "description": "Dia do Frete Grátis | No site todo por 24h",
+      "id": "69f269e03802c70c247d0c19",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "FIMDEMES",
+      "description": "10% OFF nas compras acima de R$ 130,00",
       "docType": "code",
       "categories": [
-        "beauty",
-        "shopping"
+        "wellness"
       ],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nNuWI89Cg8SO"
+      "affiliateUrl": null
     }
   ],
   "offers": [
+    {
+      "id": "69bda1360a186a32c41b9ea6",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/G7szxSFPHKIn"
+    },
+    {
+      "id": "69bda21b0a186a32c41b9f67",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "OI2026_2",
+      "description": "OI2026_2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qMWq087mvUiD"
+    },
     {
       "id": "69bda2470a186a32c41b9f95",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3245,18 +3284,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/VAPOHYlj9B-0"
-    },
-    {
-      "id": "69c2e528768c8f2da457b0bd",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "story outono v2",
-      "description": "story outono v2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/BhthLOR7wvp-"
     },
     {
       "id": "69c2e54a768c8f2da457b0ee",
@@ -3931,18 +3958,6 @@
       "affiliateUrl": "https://lmdee.link/hOdMgsQEmh4S"
     },
     {
-      "id": "69e904db3802c70c247a749c",
-      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
-      "brandName": "Vinícola Jolimont",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
-      "name": "10% OFF acima de 6 unidade + 6 Brindes",
-      "description": "10% OFF acima de 6 unidade + 6 Brindes",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/KE9VPquMRoTm"
-    },
-    {
       "id": "69e929fe3802c70c247a86e7",
       "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
       "brandName": "Vestis",
@@ -4279,16 +4294,16 @@
       "affiliateUrl": "https://lmdee.link/acmlk6pD7ele"
     },
     {
-      "id": "69f112cc3802c70c247c9e7f",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "name": "Malwee Kids - DIA DO FRETE GRÁTIS 🔥No site todo por 24h, 🎟️ Usando o cupom FRETEGRATIS",
-      "description": "Malwee Kids - DIA DO FRETE GRÁTIS 🔥No site todo por 24h, 🎟️ Usando o cupom FRETEGRATIS",
+      "id": "69f254f43802c70c247cfee5",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "Ação acumulativa: a cada R$550 em compras + ganhe 2 brindes de vinho",
+      "description": "Ação acumulativa: a cada R$550 em compras + ganhe 2 brindes de vinho",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/NLIVx9tCzTS-"
+      "affiliateUrl": "https://lmdee.link/BObZRJ3DlkkN"
     }
   ]
 }
