@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T06:31:47.571Z",
+  "lastUpdated": "2026-05-02T06:00:50.054Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -3071,18 +3071,6 @@
   ],
   "offers": [
     {
-      "id": "693080801eb93c75edd40321",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Feminino ",
-      "description": "Banner Feminino ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/GzMgtMgAKP9T"
-    },
-    {
       "id": "693081d01eb93c75edd40389",
       "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
       "brandName": "Serallê Calçados",
@@ -3957,6 +3945,18 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ItnWWeF5YQn4"
+    },
+    {
+      "id": "69efbb023802c70c247c3000",
+      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
+      "brandName": "Xiaomi Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
+      "name": "2026.05 - Dia das Mães",
+      "description": "2026.05 - Dia das Mães",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/tNlb7gEWnVmw"
     },
     {
       "id": "69f0c9a83802c70c247c6d91",
