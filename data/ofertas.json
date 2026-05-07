@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T06:24:29.098Z",
+  "lastUpdated": "2026-05-07T06:29:49.955Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -3028,9 +3028,48 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/z0rNjpH8RMQx"
+    },
+    {
+      "id": "69fb7b2c3802c70c247f21f1",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "EXTRA15",
+      "description": "Outlet até 40% OFF + 15% OFF EXTRA ",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qxPAi8TwP0dV"
     }
   ],
   "offers": [
+    {
+      "id": "6973535ca3075d050fd014e3",
+      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
+      "brandName": "Mundo Vem",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
+      "name": "Sale tudo com 50% OFF",
+      "description": "Sale tudo com 50% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/t7qOLTCsR57S"
+    },
+    {
+      "id": "6984dc3c8c4a76c20ce62ed0",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "name": "Lançamentos 2026",
+      "description": "Lançamentos 2026",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bLp0DAAqKytn"
+    },
     {
       "id": "69b00b7f5b90aa51cce897d2",
       "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
@@ -3572,18 +3611,6 @@
       "affiliateUrl": "https://lmdee.link/KrBJotXUaYR4"
     },
     {
-      "id": "69de7758768c8f2da45e68e6",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Ganhe Mini Nécessaire recheado acima de R$229 | AMOMINI",
-      "description": "Ganhe Mini Nécessaire recheado acima de R$229 | AMOMINI",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Hpn73WVCdh1F"
-    },
-    {
       "id": "69df86bf768c8f2da45eaba8",
       "brandId": "3480e31a-4b36-4f4f-a4fc-66509654f2c9",
       "brandName": "Multimóveis",
@@ -3608,42 +3635,6 @@
       "affiliateUrl": "https://lmdee.link/biqWAZ4a2Wdj"
     },
     {
-      "id": "69ea4e053802c70c247ad560",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Dia das Mães | Escolha um presente nas compras acima de R$249",
-      "description": "Dia das Mães | Escolha um presente nas compras acima de R$249",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/0LcaiBuTE2dG"
-    },
-    {
-      "id": "69ea4e973802c70c247ad5b0",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Dia das Mães | Maternity",
-      "description": "Dia das Mães | Maternity",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/wYf8IKcyTXA0"
-    },
-    {
-      "id": "69ea4f3b3802c70c247ad5d9",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Dia das Mães | produtos com até 60%OFF",
-      "description": "Dia das Mães | produtos com até 60%OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/irU8ke4cHHJ8"
-    },
-    {
       "id": "69ea4fd33802c70c247ad601",
       "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
       "brandName": "Océane",
@@ -3654,18 +3645,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ao8tUTMHiv0Z"
-    },
-    {
-      "id": "69ea50633802c70c247ad66b",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Progressiva de Mimos | Ganhe até 03 chaveiros esponja",
-      "description": "Progressiva de Mimos | Ganhe até 03 chaveiros esponja",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/DwT-VNdL0Lnb"
     },
     {
       "id": "69ea6ee33802c70c247ae644",
@@ -3750,30 +3729,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/4nDmSC3gI4hf"
-    },
-    {
-      "id": "69ef78043802c70c247c0708",
-      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
-      "brandName": "Up4you",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
-      "name": "Dia das Mães - Bolsas com até 50% OFF",
-      "description": "Dia das Mães - Bolsas com até 50% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/RPVsQWafKRnN"
-    },
-    {
-      "id": "69ef783c3802c70c247c0734",
-      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
-      "brandName": "Up4you",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
-      "name": "Presente de Dia das Mães - Coleção de presentes (Bolsas - mochilas - malas etc)",
-      "description": "Presente de Dia das Mães - Coleção de presentes (Bolsas - mochilas - malas etc)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/tRnCaOWeFWle"
     },
     {
       "id": "69efbb023802c70c247c3000",
@@ -4196,18 +4151,6 @@
       "affiliateUrl": "https://lmdee.link/4ZxwsnzGFUIT"
     },
     {
-      "id": "69f8fc9b3802c70c247e7cf7",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "Até 3500 off + cupom até 10% + pix ate 15%",
-      "description": "Até 3500 off + cupom até 10% + pix ate 15%",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/1XpM4sZfwVNn"
-    },
-    {
       "id": "69fa5b5a3802c70c247ee7ec",
       "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
       "brandName": "Gazin",
@@ -4218,6 +4161,54 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/GcWZD80yx0o8"
+    },
+    {
+      "id": "69fb38903802c70c247f04da",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "name": "Dia das mães com 25% OFF",
+      "description": "Dia das mães com 25% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69fb38d63802c70c247f0527",
+      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
+      "brandName": "Grendene",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
+      "name": "Zaxy- Dia das mães com 25% OFF",
+      "description": "Zaxy- Dia das mães com 25% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69fb7b773802c70c247f2266",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "name": "Malwee Kids- Outlet até 40% OFF + 15% OFF EXTRA (Usando o cupom EXTRA15)",
+      "description": "Malwee Kids- Outlet até 40% OFF + 15% OFF EXTRA (Usando o cupom EXTRA15)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ZA7IhSyqHIsd"
+    },
+    {
+      "id": "69fba3bf3802c70c247f31fa",
+      "brandId": "3ac8822c-900d-46f3-ae72-67c155a3ba99",
+      "brandName": "Openbox2",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/e2fa694d-566d-4af9-9fa7-dc4f29387eec/logo/transferir%20%281%29.jpeg",
+      "name": "Pânico de ofertas ",
+      "description": "Pânico de ofertas ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Q1e2JbuVCJhd"
     }
   ]
 }
