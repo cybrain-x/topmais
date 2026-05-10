@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T06:09:17.996Z",
+  "lastUpdated": "2026-05-10T06:28:26.659Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -136,6 +136,14 @@
       "segment": "retail",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "1e1dd5a0-d4c3-4ca8-9357-ad986c42b932",
+      "name": "Loccitane",
+      "logo": "https://cdn.lomadee.com.br/logos/1e1dd5a0-d4c3-4ca8-9357-ad986c42b932/logo",
+      "segment": "fashion",
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "1eb0fb06-b892-473b-89bd-dd4d68fc11f6",
@@ -594,6 +602,14 @@
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
+      "id": "8b2cf0e4-f183-479a-bcc9-d4ca9ed1dc9a",
+      "name": "Loungerie",
+      "logo": "https://cdn.lomadee.com.br/logos/8b2cf0e4-f183-479a-bcc9-d4ca9ed1dc9a/logo",
+      "segment": "fashion",
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
       "id": "91f3bc9c-f784-4e69-8290-ff3e7052f3f7",
       "name": "Empório Craft",
       "logo": "https://cdn.lomadee.com.br/logos/91f3bc9c-f784-4e69-8290-ff3e7052f3f7/logo",
@@ -808,6 +824,14 @@
       "segment": "fashion",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "c0520326-00a8-4064-b4fe-ba1b8cd3bfe7",
+      "name": "Homedock",
+      "logo": "https://cdn.lomadee.com.br/logos/c0520326-00a8-4064-b4fe-ba1b8cd3bfe7/logo",
+      "segment": "retail",
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "c364d4e3-56e2-4da9-a6ea-195716da559a",
@@ -1513,7 +1537,7 @@
     },
     {
       "id": "moda",
-      "name": "moda",
+      "name": "Moda",
       "slug": "moda",
       "icon": "👗"
     },
@@ -2960,18 +2984,33 @@
       "affiliateUrl": "https://lmdee.link/SaUAfUNUfBla"
     },
     {
-      "id": "69f251c13802c70c247cf773",
+      "id": "69f223843802c70c247cdaad",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "HOJESOUCHEF",
+      "description": "15% off em todo site",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/B02XSA0MhDbu"
+    },
+    {
+      "id": "69f252bf3802c70c247cf917",
       "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "brandName": "Coza",
       "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "code": "GELADEIRA15",
-      "description": "15% off em produtos da linha dry",
+      "code": "EASY15",
+      "description": "15% off em produtos da linha easy",
       "docType": "code",
       "categories": [
         "home-and-decoration"
       ],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/W9EIypWPzq0I"
+      "affiliateUrl": "https://lmdee.link/5YQ6x2b6kzCt"
     },
     {
       "id": "69f3587a3802c70c247d4387",
@@ -2986,34 +3025,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ER-StLflXFC9"
-    },
-    {
-      "id": "69f8d2be3802c70c247e5db5",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "ZEROIMPOSTO",
-      "description": "ZERO IMPOSTO ",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/HiedUklwyrjy"
-    },
-    {
-      "id": "69f8d3e63802c70c247e5ec9",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "SEMANADIADASMAES",
-      "description": "SEMANA DIA DAS MAES",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/kMxvPTjEukq3"
     },
     {
       "id": "69f9e6f13802c70c247ead38",
@@ -3043,69 +3054,38 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/qxPAi8TwP0dV"
+    },
+    {
+      "id": "69fce1383802c70c247f864c",
+      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
+      "brandName": "Drogasmil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
+      "code": "KASSIO10",
+      "description": "R$10 OFF nas compras de perfume na Drogasmil",
+      "docType": "code",
+      "categories": [
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "69fdf8c33802c70c247fcbfc",
+      "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
+      "brandName": "DeÔnibus",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b89e4834-6f7c-4ac8-9972-5d579488432c/logo",
+      "code": "MAE10",
+      "description": "Cupom de 10% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "tourism-and-leisure"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/UqWxXlcArrjF"
     }
   ],
   "offers": [
-    {
-      "id": "6973535ca3075d050fd014e3",
-      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
-      "brandName": "Mundo Vem",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
-      "name": "Sale tudo com 50% OFF",
-      "description": "Sale tudo com 50% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/t7qOLTCsR57S"
-    },
-    {
-      "id": "6984dc3c8c4a76c20ce62ed0",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Lançamentos 2026",
-      "description": "Lançamentos 2026",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/bLp0DAAqKytn"
-    },
-    {
-      "id": "69b00b7f5b90aa51cce897d2",
-      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
-      "brandName": "Nobelpack",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "name": "Sacolas personalizadas com a sua marca",
-      "description": "Sacolas personalizadas com a sua marca",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/IPZ--tlOw-qM"
-    },
-    {
-      "id": "69b029e35b90aa51cce8afe1",
-      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
-      "brandName": "Nobelpack",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "name": "Envelopes personalizados",
-      "description": "Envelopes personalizados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/cpio-21L1Yhd"
-    },
-    {
-      "id": "69b9ab400a186a32c41a810b",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/RlZ9qZcJZvjM"
-    },
     {
       "id": "69b9ab790a186a32c41a818c",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -4031,30 +4011,6 @@
       "affiliateUrl": "https://lmdee.link/b0a5ZnoSaeUl"
     },
     {
-      "id": "69f8966a3802c70c247e32dd",
-      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
-      "brandName": "Vinícola Jolimont",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
-      "name": "Compre 6 un de Moscatel e Ganhe 12% OFF + Brindes Exclusivos",
-      "description": "Compre 6 un de Moscatel e Ganhe 12% OFF + Brindes Exclusivos",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/z3Bd3yErHLGd"
-    },
-    {
-      "id": "69f897133802c70c247e336a",
-      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
-      "brandName": "Vinícola Jolimont",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
-      "name": "Compre 6 un de Vinhos, ganhe 8% off + 2 Taças",
-      "description": "Compre 6 un de Vinhos, ganhe 8% off + 2 Taças",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/knEHHGs1uWFW"
-    },
-    {
       "id": "69f8986a3802c70c247e35da",
       "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
       "brandName": "Ortope",
@@ -4139,18 +4095,6 @@
       "affiliateUrl": "https://lmdee.link/XaU1dyBVxe84"
     },
     {
-      "id": "69f8d0cb3802c70c247e5c93",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "Semana do Acabamento Zero Imposto ",
-      "description": "Semana do Acabamento Zero Imposto ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/4ZxwsnzGFUIT"
-    },
-    {
       "id": "69fa5b5a3802c70c247ee7ec",
       "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
       "brandName": "Gazin",
@@ -4209,6 +4153,90 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/Q1e2JbuVCJhd"
+    },
+    {
+      "id": "69fcaf5c3802c70c247f7486",
+      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
+      "brandName": "Mundo Vem",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
+      "name": "[CATEGORIA] Copos",
+      "description": "[CATEGORIA] Copos",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Hk1b-KNLKHSn"
+    },
+    {
+      "id": "69fcb0cf3802c70c247f752d",
+      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
+      "brandName": "Mundo Vem",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
+      "name": "[CATEGORIA] Cremeiras e Molheiras",
+      "description": "[CATEGORIA] Cremeiras e Molheiras",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/bdi6qWNBzVm7"
+    },
+    {
+      "id": "69fcb0fa3802c70c247f755b",
+      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
+      "brandName": "Mundo Vem",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
+      "name": "[CATEGORIA] Cubas",
+      "description": "[CATEGORIA] Cubas",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/PsGC5ZlrKGcJ"
+    },
+    {
+      "id": "69fcb12a3802c70c247f7595",
+      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
+      "brandName": "Mundo Vem",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
+      "name": "[CATEGORIA] Dadinho de Tapioca",
+      "description": "[CATEGORIA] Dadinho de Tapioca",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/RFkB7FXCe4NC"
+    },
+    {
+      "id": "69fcf7ed3802c70c247f94ca",
+      "brandId": "cb4ebfb0-1586-446d-a86b-b894d92d4dea",
+      "brandName": "Mobly",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/cb4ebfb0-1586-446d-a86b-b894d92d4dea/logo",
+      "name": "Bota Fora",
+      "description": "Bota Fora",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vj3E4A-rC82y"
+    },
+    {
+      "id": "69fdf84b3802c70c247fcbba",
+      "brandId": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
+      "brandName": "Casa do Fitness",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/038925ab-7cd8-462d-9c27-1266f14ee3b2/logo",
+      "name": "Dia das mães com ofertas especiais! Até 45% off em produtos selecionados",
+      "description": "Dia das mães com ofertas especiais! Até 45% off em produtos selecionados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/68x1VhRytEaZ"
+    },
+    {
+      "id": "69fe2bf03802c70c247fe458",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "AÇÃO VINHO DE BRINDE- A cada R$1650 em compras ganhe + 6 vinhos de brinde",
+      "description": "AÇÃO VINHO DE BRINDE- A cada R$1650 em compras ganhe + 6 vinhos de brinde",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TWdANk9V6UZI"
     }
   ]
 }
