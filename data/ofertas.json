@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T06:31:37.197Z",
+  "lastUpdated": "2026-05-13T06:42:13.663Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -1338,12 +1338,6 @@
       "icon": "🏷️"
     },
     {
-      "id": "electronics",
-      "name": "electronics",
-      "slug": "electronics",
-      "icon": "🏷️"
-    },
-    {
       "id": "eletrodom-moda-casa-smart-tv-eletroportateis",
       "name": "Eletrodom, Moda Casa, Smart TV, Eletroportáteis",
       "slug": "eletrodom-moda-casa-smart-tv-eletroportateis",
@@ -1398,12 +1392,6 @@
       "icon": "🏷️"
     },
     {
-      "id": "finance",
-      "name": "finance",
-      "slug": "finance",
-      "icon": "🏷️"
-    },
-    {
       "id": "financial-services",
       "name": "financial-services",
       "slug": "financial-services",
@@ -1431,12 +1419,6 @@
       "id": "food-delivery-and-restaurants",
       "name": "food-delivery-and-restaurants",
       "slug": "food-delivery-and-restaurants",
-      "icon": "🏷️"
-    },
-    {
-      "id": "gadgets",
-      "name": "gadgets",
-      "slug": "gadgets",
       "icon": "🏷️"
     },
     {
@@ -1473,18 +1455,6 @@
       "id": "infant-products",
       "name": "infant-products",
       "slug": "infant-products",
-      "icon": "🏷️"
-    },
-    {
-      "id": "internet-and-technology",
-      "name": "internet-and-technology",
-      "slug": "internet-and-technology",
-      "icon": "🏷️"
-    },
-    {
-      "id": "investments",
-      "name": "investments",
-      "slug": "investments",
       "icon": "🏷️"
     },
     {
@@ -1584,12 +1554,6 @@
       "icon": "🏷️"
     },
     {
-      "id": "movies-and-tv",
-      "name": "movies-and-tv",
-      "slug": "movies-and-tv",
-      "icon": "🏷️"
-    },
-    {
       "id": "others",
       "name": "others",
       "slug": "others",
@@ -1677,12 +1641,6 @@
       "id": "sala-de-jantar-cozinhas-guarda-roupas-complementos",
       "name": "Sala de jantar, cozinhas, guarda roupas, complementos ",
       "slug": "sala-de-jantar-cozinhas-guarda-roupas-complementos",
-      "icon": "🏷️"
-    },
-    {
-      "id": "science",
-      "name": "science",
-      "slug": "science",
       "icon": "🏷️"
     },
     {
@@ -2752,44 +2710,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69d3958d768c8f2da45baedc",
-      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
-      "brandName": "Nobelpack",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "code": "MAE10",
-      "description": "Cupom 10% de desconto",
-      "docType": "code",
-      "categories": [
-        "animals",
-        "art-and-culture",
-        "auto-and-accessories",
-        "food-and-beverages",
-        "beauty",
-        "wellness",
-        "shopping",
-        "home-and-decoration",
-        "science",
-        "food-delivery-and-restaurants",
-        "education",
-        "economy",
-        "electronics",
-        "entertainment",
-        "sports",
-        "events",
-        "movies-and-tv",
-        "finance",
-        "gadgets",
-        "investments",
-        "industry-and-commerce",
-        "woman",
-        "fashion",
-        "promotions",
-        "internet-and-technology"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/yoRZ1jbrWhvc"
-    },
-    {
       "id": "69dd31de768c8f2da45e0c48",
       "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
       "brandName": "Móveis Carraro",
@@ -2993,69 +2913,24 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "6a036f893802c70c2480ea07",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "SUPER500",
+      "description": "R$ 500 OFF para Eletrodomésticos (Válido para produtos selecionados ou até acabarem os estoques)",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/I3ZHJLGLiyCA"
     }
   ],
   "offers": [
-    {
-      "id": "6911dde8978648de25b6d85f",
-      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
-      "brandName": "Revest Acabamentos",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
-      "name": "Preço de Black",
-      "description": "Preço de Black",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/EFX7vAZYXm3v"
-    },
-    {
-      "id": "6915db77bd96b991f002569a",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Roupas e calçados",
-      "description": "Roupas e calçados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/aW9Ct1k6I3RD"
-    },
-    {
-      "id": "6915dd0dbd96b991f0025744",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Verão 2026",
-      "description": "Verão 2026",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/MVJqrSmqI1VC"
-    },
-    {
-      "id": "6915f5683bb240f13b85d61a",
-      "brandId": "6d416a9b-81f6-4187-9351-4a5196e9ef47",
-      "brandName": "Lomadee Teste",
-      "brandLogo": "blob:https://beta.lomadee.com/75fc9228-a43c-4046-a0cc-171d83be0be6",
-      "name": "Oferta URL",
-      "description": "Oferta URL",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "6916371dbd96b991f0027c39",
-      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
-      "brandName": "Vestis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
-      "name": "Conjunto Infantil de Verão a partir de R$29,90",
-      "description": "Conjunto Infantil de Verão a partir de R$29,90",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/kdLoZB8rp-vV"
-    },
     {
       "id": "691727fabd96b991f0029b78",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
@@ -3525,18 +3400,6 @@
       "affiliateUrl": "https://lmdee.link/n2UG6O0eZLbC"
     },
     {
-      "id": "69c18c09768c8f2da45742e5",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Bolsas nova coleção ",
-      "description": "Bolsas nova coleção ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9ZYHwQpHbMz5"
-    },
-    {
       "id": "69c44386768c8f2da458258e",
       "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
       "brandName": "iRobot",
@@ -3679,18 +3542,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/fYrm4UhAtZbi"
-    },
-    {
-      "id": "69d399d7768c8f2da45bb11e",
-      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
-      "brandName": "Nobelpack",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "name": "Mês das Mães Nobelpack",
-      "description": "Mês das Mães Nobelpack",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/b28ktN07itoW"
     },
     {
       "id": "69d6c79c768c8f2da45caeb6",
@@ -4123,6 +3974,90 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/axn8dypvM1Jr"
+    },
+    {
+      "id": "6a0353873802c70c2480dc56",
+      "brandId": "d9a040f8-bb54-40d2-804b-150f007305d0",
+      "brandName": "Toymania",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d9a040f8-bb54-40d2-804b-150f007305d0/logo",
+      "name": "Mês do Orgulho Geek Lomadee",
+      "description": "Mês do Orgulho Geek Lomadee",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/zrpDsycsL3oa"
+    },
+    {
+      "id": "6a0354b33802c70c2480dc6f",
+      "brandId": "d9a040f8-bb54-40d2-804b-150f007305d0",
+      "brandName": "Toymania",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d9a040f8-bb54-40d2-804b-150f007305d0/logo",
+      "name": "Álbum da Copa do Mundo Lomadee",
+      "description": "Álbum da Copa do Mundo Lomadee",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/45ncAsFuAaXL"
+    },
+    {
+      "id": "6a036e213802c70c2480e7f8",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "Semana do Frete Grátis",
+      "description": "Semana do Frete Grátis",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/iUzAgLuG9mOP"
+    },
+    {
+      "id": "6a036e653802c70c2480e84f",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "Máquinas de Lavar até 40% OFF + Frete Grátis*",
+      "description": "Máquinas de Lavar até 40% OFF + Frete Grátis*",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2Q7kzULA7Tza"
+    },
+    {
+      "id": "6a036eb93802c70c2480e888",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "Aspiradores até R$800 OFF + Frete Grátis*",
+      "description": "Aspiradores até R$800 OFF + Frete Grátis*",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1pD1eQvZcxdw"
+    },
+    {
+      "id": "6a0370e13802c70c2480eb2a",
+      "brandId": "d9a040f8-bb54-40d2-804b-150f007305d0",
+      "brandName": "Toymania",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/d9a040f8-bb54-40d2-804b-150f007305d0/logo",
+      "name": "Campanha Dia dos Namorados",
+      "description": "Campanha Dia dos Namorados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HLTzFGnFUjA0"
+    },
+    {
+      "id": "6a03812d3802c70c2480f4f6",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Bolsas_OI26",
+      "description": "Bolsas_OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/OdRJrujh-m8c"
     }
   ]
 }
