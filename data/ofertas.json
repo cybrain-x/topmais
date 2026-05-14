@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T06:42:13.663Z",
+  "lastUpdated": "2026-05-14T06:40:39.016Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -304,6 +304,14 @@
       "segment": "Sofás, Móveis, Cadeiras",
       "isHighlight": true,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "3b075380-4af3-492b-a335-1369c3c27e4f",
+      "name": "Make Norte",
+      "logo": "https://cdn.lomadee.com.br/logos/3b075380-4af3-492b-a335-1369c3c27e4f/logo",
+      "segment": "retail",
+      "isHighlight": false,
+      "affiliateUrl": null
     },
     {
       "id": "3ca484a7-31bf-4799-9dcb-9b4cff3d9931",
@@ -2710,20 +2718,6 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
-      "id": "69dd31de768c8f2da45e0c48",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "code": "DIADASMAES5",
-      "description": "DIADASMAES5",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/N4ZNZSAXzQBm"
-    },
-    {
       "id": "69e0f306768c8f2da45f0ec5",
       "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
       "brandName": "FOM",
@@ -2915,6 +2909,21 @@
       "affiliateUrl": null
     },
     {
+      "id": "6a02359e3802c70c2480a437",
+      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
+      "brandName": "Rovitex",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
+      "code": "NOVO15",
+      "description": "Cupom de 15% de desconto",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/6jj-m2hFic8Q"
+    },
+    {
       "id": "6a036f893802c70c2480ea07",
       "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
       "brandName": "Electrolux",
@@ -2928,9 +2937,98 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/I3ZHJLGLiyCA"
+    },
+    {
+      "id": "6a0470763802c70c2481272a",
+      "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
+      "brandName": "DeÔnibus",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b89e4834-6f7c-4ac8-9972-5d579488432c/logo",
+      "code": "LOMADEE12",
+      "description": "12% OFF - no valor da passagem (1 uso por usuário)",
+      "docType": "code",
+      "categories": [
+        "tourism-and-leisure"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HSKDYnzEPvsZ"
+    },
+    {
+      "id": "6a04f5c33802c70c248165cb",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "FAVORITO10",
+      "description": "Cupom de 10% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/PhnMm3O9zfR4"
     }
   ],
   "offers": [
+    {
+      "id": "6911dde8978648de25b6d85f",
+      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
+      "brandName": "Revest Acabamentos",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
+      "name": "Preço de Black",
+      "description": "Preço de Black",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EFX7vAZYXm3v"
+    },
+    {
+      "id": "6915db77bd96b991f002569a",
+      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
+      "brandName": "Serallê Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
+      "name": "Roupas e calçados",
+      "description": "Roupas e calçados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/aW9Ct1k6I3RD"
+    },
+    {
+      "id": "6915dd0dbd96b991f0025744",
+      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
+      "brandName": "Serallê Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
+      "name": "Verão 2026",
+      "description": "Verão 2026",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MVJqrSmqI1VC"
+    },
+    {
+      "id": "6915f5683bb240f13b85d61a",
+      "brandId": "6d416a9b-81f6-4187-9351-4a5196e9ef47",
+      "brandName": "Lomadee Teste",
+      "brandLogo": "blob:https://beta.lomadee.com/75fc9228-a43c-4046-a0cc-171d83be0be6",
+      "name": "Oferta URL",
+      "description": "Oferta URL",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6916371dbd96b991f0027c39",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Conjunto Infantil de Verão a partir de R$29,90",
+      "description": "Conjunto Infantil de Verão a partir de R$29,90",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kdLoZB8rp-vV"
+    },
     {
       "id": "691727fabd96b991f0029b78",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
@@ -3278,126 +3376,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/cpio-21L1Yhd"
-    },
-    {
-      "id": "69b9ab400a186a32c41a810b",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/RlZ9qZcJZvjM"
-    },
-    {
-      "id": "69b9ab790a186a32c41a818c",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fnGPw2nhz9of"
-    },
-    {
-      "id": "69b9aba40a186a32c41a826a",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Qfo60s3KT1QP"
-    },
-    {
-      "id": "69b9abe10a186a32c41a8348",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/0cfYQJQ8zwHH"
-    },
-    {
-      "id": "69b9ac1d0a186a32c41a83d3",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mgcu6FeVS6LA"
-    },
-    {
-      "id": "69b9ac5a0a186a32c41a8421",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ACnEIuoFjKpE"
-    },
-    {
-      "id": "69b9ac900a186a32c41a8496",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/8kWVUvL7Kx5f"
-    },
-    {
-      "id": "69b9acb90a186a32c41a84ed",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/prX0ladYKb8a"
-    },
-    {
-      "id": "69b9ada60a186a32c41a85b3",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7AB0y49GUupi"
-    },
-    {
-      "id": "69b9add40a186a32c41a8601",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Rasteitas OI26",
-      "description": "Rasteitas OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/n2UG6O0eZLbC"
     },
     {
       "id": "69c44386768c8f2da458258e",
@@ -3784,18 +3762,6 @@
       "affiliateUrl": "https://lmdee.link/F9HaPEBf9Va4"
     },
     {
-      "id": "69f8b0883802c70c247e43f9",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "CashBack em dobro",
-      "description": "CashBack em dobro",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/AmmaejEHKc5I"
-    },
-    {
       "id": "69f8bed13802c70c247e4e5d",
       "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
       "brandName": "Mundo Vem",
@@ -3904,6 +3870,18 @@
       "affiliateUrl": "https://lmdee.link/vj3E4A-rC82y"
     },
     {
+      "id": "69fe2bf03802c70c247fe458",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "AÇÃO VINHO DE BRINDE- A cada R$1650 em compras ganhe + 6 vinhos de brinde",
+      "description": "AÇÃO VINHO DE BRINDE- A cada R$1650 em compras ganhe + 6 vinhos de brinde",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/TWdANk9V6UZI"
+    },
+    {
       "id": "6a01ad513802c70c248073c3",
       "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
       "brandName": "Ortope",
@@ -3952,16 +3930,16 @@
       "affiliateUrl": "https://lmdee.link/NbdLCqCoXpi7"
     },
     {
-      "id": "6a020dfc3802c70c2480978d",
-      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
-      "brandName": "Vinícola Jolimont",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
-      "name": "Ação dobre seu brinde: acima de R$600 ganhe +2 vinhos, acima de R$1200 ganhe +4 vinhos e  acima de R$2000 ganhe + 6 vinhos",
-      "description": "Ação dobre seu brinde: acima de R$600 ganhe +2 vinhos, acima de R$1200 ganhe +4 vinhos e  acima de R$2000 ganhe + 6 vinhos",
+      "id": "6a021b153802c70c24809c07",
+      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
+      "brandName": "Rovitex",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
+      "name": "Mega Outlet com até 70% OFF",
+      "description": "Mega Outlet com até 70% OFF",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9S3s09dvZSHb"
+      "affiliateUrl": "https://lmdee.link/MK0c2ZB9p1QN"
     },
     {
       "id": "6a021b763802c70c24809c53",
@@ -4058,6 +4036,54 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/OdRJrujh-m8c"
+    },
+    {
+      "id": "6a04bb2b3802c70c24814cb6",
+      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
+      "brandName": "Up4you",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
+      "name": "Celebre o mês do orgulho Geek - Mochilas, estojos e lancheiras - Produtos com até 75% Off;",
+      "description": "Celebre o mês do orgulho Geek - Mochilas, estojos e lancheiras - Produtos com até 75% Off;",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Rg0H1VZ3FiCY"
+    },
+    {
+      "id": "6a04bb5e3802c70c24814d40",
+      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
+      "brandName": "Up4you",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
+      "name": "Coleção Loud x Up4You - Orgulho nerd - Confira os produtos da coleção Loud",
+      "description": "Coleção Loud x Up4You - Orgulho nerd - Confira os produtos da coleção Loud",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/h2PwAhn4O3iV"
+    },
+    {
+      "id": "6a04c7603802c70c24815359",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Rasteiras_Oi26",
+      "description": "Rasteiras_Oi26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/VOFzIa6tPD3Y"
+    },
+    {
+      "id": "6a04c7c13802c70c2481539d",
+      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
+      "brandName": "Soulier",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
+      "name": "Novas_Baixas_OI26",
+      "description": "Novas_Baixas_OI26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ofJDqOJ9KTOQ"
     }
   ]
 }
