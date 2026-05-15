@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T06:40:39.016Z",
+  "lastUpdated": "2026-05-15T06:50:32.247Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -1502,12 +1502,6 @@
       "icon": "🏷️"
     },
     {
-      "id": "medicamentos",
-      "name": "Medicamentos ",
-      "slug": "medicamentos",
-      "icon": "🏷️"
-    },
-    {
       "id": "midia",
       "name": "Mídia",
       "slug": "midia",
@@ -2852,18 +2846,47 @@
       "affiliateUrl": "https://lmdee.link/B02XSA0MhDbu"
     },
     {
-      "id": "69f252bf3802c70c247cf917",
+      "id": "69f224093802c70c247cdb52",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "CHAZINHO",
+      "description": "Cupom de 15% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/soaIYlb46Ta-"
+    },
+    {
+      "id": "69f253353802c70c247cf9ff",
       "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "brandName": "Coza",
       "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "code": "EASY15",
-      "description": "15% off em produtos da linha easy",
+      "code": "BAMBU10",
+      "description": "10% off + frete grátis em modo bambu",
       "docType": "code",
       "categories": [
         "home-and-decoration"
       ],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/5YQ6x2b6kzCt"
+      "affiliateUrl": "https://lmdee.link/SGaEQ2kxrvY1"
+    },
+    {
+      "id": "69f253ad3802c70c247cfbb4",
+      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
+      "brandName": "Coza",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
+      "code": "ORGANIZA20",
+      "description": "20% off em todo site",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/RaIBqKHA6yPo"
     },
     {
       "id": "69f3587a3802c70c247d4387",
@@ -2966,6 +2989,78 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/PhnMm3O9zfR4"
+    },
+    {
+      "id": "6a05f8973802c70c24819be3",
+      "brandId": "efd916a7-faa3-417b-8581-d3afe03e849c",
+      "brandName": "Líquido",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/efd916a7-faa3-417b-8581-d3afe03e849c/logo",
+      "code": "LIQUIDO10",
+      "description": "10% OFF Coleção Aura/Inverno",
+      "docType": "code",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mVjys1Bf0EQ0"
+    },
+    {
+      "id": "6a0602413802c70c2481a0b1",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "code": "LOMADEE10",
+      "description": "LOMADEE10",
+      "docType": "code",
+      "categories": [
+        "food-and-beverages"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/faxGEnL2SPml"
+    },
+    {
+      "id": "6a060b023802c70c2481a7c0",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "code": "AVENTURANDO",
+      "description": "AVENTURANDO",
+      "docType": "code",
+      "categories": [
+        "food-and-beverages"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Kc9NxE1uJMnJ"
+    },
+    {
+      "id": "6a0616263802c70c2481ad54",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "LOMADEE10",
+      "description": "Cupom de 10% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/nTmALu0AG9lp"
+    },
+    {
+      "id": "6a0616563802c70c2481ad9e",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "LOMADEE5",
+      "description": "Cupom de 5% de desconto ",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/T13F5ngXEf9r"
     }
   ],
   "offers": [
@@ -3868,18 +3963,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vj3E4A-rC82y"
-    },
-    {
-      "id": "69fe2bf03802c70c247fe458",
-      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
-      "brandName": "Vinícola Jolimont",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
-      "name": "AÇÃO VINHO DE BRINDE- A cada R$1650 em compras ganhe + 6 vinhos de brinde",
-      "description": "AÇÃO VINHO DE BRINDE- A cada R$1650 em compras ganhe + 6 vinhos de brinde",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/TWdANk9V6UZI"
     },
     {
       "id": "6a01ad513802c70c248073c3",
