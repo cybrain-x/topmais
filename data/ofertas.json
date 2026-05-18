@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T06:39:22.743Z",
+  "lastUpdated": "2026-05-18T07:55:04.804Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -143,7 +143,7 @@
       "logo": "https://cdn.lomadee.com.br/logos/1e1dd5a0-d4c3-4ca8-9357-ad986c42b932/logo",
       "segment": "fashion",
       "isHighlight": false,
-      "affiliateUrl": null
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "1eb0fb06-b892-473b-89bd-dd4d68fc11f6",
@@ -251,7 +251,7 @@
     },
     {
       "id": "33ff67b5-7c9b-4af7-82a1-f4b7445e59f9",
-      "name": "Santander PJ",
+      "name": "Santander Abertura de Conta - PJ",
       "logo": "https://cdn.lomadee.com.br/domain/7948a18c-7935-472c-b219-430d9abed475/logo/Captura%20de%20tela%202026-04-08%20145235.png",
       "segment": "financial-services",
       "isHighlight": false,
@@ -435,10 +435,10 @@
     },
     {
       "id": "65e2c720-48d0-451a-9f89-88aa98b8c9a1",
-      "name": "Santander PF",
+      "name": "Santander Abertura de Contas - PF",
       "logo": "https://cdn.lomadee.com.br/logos/65e2c720-48d0-451a-9f89-88aa98b8c9a1/logo",
       "segment": "financial-services",
-      "isHighlight": false,
+      "isHighlight": true,
       "affiliateUrl": null
     },
     {
@@ -615,7 +615,7 @@
       "logo": "https://cdn.lomadee.com.br/logos/8b2cf0e4-f183-479a-bcc9-d4ca9ed1dc9a/logo",
       "segment": "fashion",
       "isHighlight": false,
-      "affiliateUrl": null
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
       "id": "91f3bc9c-f784-4e69-8290-ff3e7052f3f7",
@@ -2831,21 +2831,6 @@
       "affiliateUrl": "https://lmdee.link/7tUNK5Anuvwg"
     },
     {
-      "id": "69f223843802c70c247cdaad",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "HOJESOUCHEF",
-      "description": "15% off em todo site",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/B02XSA0MhDbu"
-    },
-    {
       "id": "69f224093802c70c247cdb52",
       "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
       "brandName": "Brinox",
@@ -2930,21 +2915,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
-    },
-    {
-      "id": "6a02359e3802c70c2480a437",
-      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
-      "brandName": "Rovitex",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
-      "code": "NOVO15",
-      "description": "Cupom de 15% de desconto",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/6jj-m2hFic8Q"
     },
     {
       "id": "6a036f893802c70c2480ea07",
@@ -3061,9 +3031,103 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/T13F5ngXEf9r"
+    },
+    {
+      "id": "6a0722703802c70c2481eb21",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "code": "SONO50",
+      "description": "R$50 OFF em colchões selecionados",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/aUcqI5MHkFxn"
+    },
+    {
+      "id": "6a077b1c3802c70c24820c08",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "GANHE15",
+      "description": "Cupom de 15% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Vldy0pxgz9p0"
+    },
+    {
+      "id": "6a078d453802c70c248211cf",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "COPA5",
+      "description": "5% OFF para Preparar sua Casa para Copa",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ZqHSin3K0hF1"
     }
   ],
   "offers": [
+    {
+      "id": "6911dcd7978648de25b6d7cb",
+      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
+      "brandName": "Revest Acabamentos",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
+      "name": "Metais Coloridos - Black November",
+      "description": "Metais Coloridos - Black November",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EHoY99TN8MrM"
+    },
+    {
+      "id": "6911dd1b978648de25b6d7d9",
+      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
+      "brandName": "Revest Acabamentos",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
+      "name": "Pisos e Porcelanatos - Black November",
+      "description": "Pisos e Porcelanatos - Black November",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mm0UfaBlDohe"
+    },
+    {
+      "id": "6911dd54978648de25b6d7f1",
+      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
+      "brandName": "Revest Acabamentos",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
+      "name": "Black on Black",
+      "description": "Black on Black",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XPWewZndj3Bt"
+    },
+    {
+      "id": "6911dd98978648de25b6d841",
+      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
+      "brandName": "Revest Acabamentos",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
+      "name": "LEVO - Black November",
+      "description": "LEVO - Black November",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/nQUNPCBOS82L"
+    },
     {
       "id": "6911dde8978648de25b6d85f",
       "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
@@ -3653,18 +3717,6 @@
       "affiliateUrl": "https://lmdee.link/ao8tUTMHiv0Z"
     },
     {
-      "id": "69ef70bc3802c70c247bfccb",
-      "brandId": "a0124a6a-c622-4b7d-a560-bc75a515b542",
-      "brandName": "Kidy Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/a0124a6a-c622-4b7d-a560-bc75a515b542/logo",
-      "name": "Liquida TEAR Calce Fácil Kidy ",
-      "description": "Liquida TEAR Calce Fácil Kidy ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/jHKinCMngx1G"
-    },
-    {
       "id": "69ef751e3802c70c247c0173",
       "brandId": "a0124a6a-c622-4b7d-a560-bc75a515b542",
       "brandName": "Kidy Calçados",
@@ -4013,30 +4065,6 @@
       "affiliateUrl": "https://lmdee.link/NbdLCqCoXpi7"
     },
     {
-      "id": "6a021b153802c70c24809c07",
-      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
-      "brandName": "Rovitex",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
-      "name": "Mega Outlet com até 70% OFF",
-      "description": "Mega Outlet com até 70% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/MK0c2ZB9p1QN"
-    },
-    {
-      "id": "6a021b763802c70c24809c53",
-      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
-      "brandName": "Rovitex",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
-      "name": "DIA DOS NAMORADOS: Peças a partir de R$49,99- Ganhe 1 par de meias acima de R$199 ou 2 pares acima de R$299",
-      "description": "DIA DOS NAMORADOS: Peças a partir de R$49,99- Ganhe 1 par de meias acima de R$199 ou 2 pares acima de R$299",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/axn8dypvM1Jr"
-    },
-    {
       "id": "6a0353873802c70c2480dc56",
       "brandId": "d9a040f8-bb54-40d2-804b-150f007305d0",
       "brandName": "Toymania",
@@ -4059,42 +4087,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/45ncAsFuAaXL"
-    },
-    {
-      "id": "6a036e213802c70c2480e7f8",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "Semana do Frete Grátis",
-      "description": "Semana do Frete Grátis",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/iUzAgLuG9mOP"
-    },
-    {
-      "id": "6a036e653802c70c2480e84f",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "Máquinas de Lavar até 40% OFF + Frete Grátis*",
-      "description": "Máquinas de Lavar até 40% OFF + Frete Grátis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/2Q7kzULA7Tza"
-    },
-    {
-      "id": "6a036eb93802c70c2480e888",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "Aspiradores até R$800 OFF + Frete Grátis*",
-      "description": "Aspiradores até R$800 OFF + Frete Grátis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/1pD1eQvZcxdw"
     },
     {
       "id": "6a0370e13802c70c2480eb2a",
@@ -4167,6 +4159,54 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ofJDqOJ9KTOQ"
+    },
+    {
+      "id": "6a0714d53802c70c2481e5c4",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "Campanha Copa Shopclub: Até 55% OFF + pix 5% + frete grátis*",
+      "description": "Campanha Copa Shopclub: Até 55% OFF + pix 5% + frete grátis*",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/POEqVk7hAeGk"
+    },
+    {
+      "id": "6a0763d13802c70c2482047e",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "Ação Vinho de Brinde - Escadinha promocional",
+      "description": "Ação Vinho de Brinde - Escadinha promocional",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/febn1rmcLI2-"
+    },
+    {
+      "id": "6a0779ab3802c70c24820ac9",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "SHOPCLUB DAYS Até R$3500 off + cupom até 15% + frete grátis*",
+      "description": "SHOPCLUB DAYS Até R$3500 off + cupom até 15% + frete grátis*",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/jxKJgiJV01Tq"
+    },
+    {
+      "id": "6a0788b73802c70c24821097",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Ofertas especiais em Smartphones, Últimas peças*!!",
+      "description": "Ofertas especiais em Smartphones, Últimas peças*!!",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7hEBhCA1Tlb2"
     }
   ]
 }
