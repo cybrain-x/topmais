@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T07:55:04.804Z",
+  "lastUpdated": "2026-05-19T07:36:55.259Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -677,7 +677,7 @@
       "id": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
       "name": "Ortope",
       "logo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
-      "segment": "Moda geral ",
+      "segment": "fashion",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
@@ -3063,59 +3063,37 @@
       "affiliateUrl": "https://lmdee.link/Vldy0pxgz9p0"
     },
     {
-      "id": "6a078d453802c70c248211cf",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "COPA5",
-      "description": "5% OFF para Preparar sua Casa para Copa",
+      "id": "6a0b79ca3802c70c2482b544",
+      "brandId": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
+      "brandName": "Casa do Fitness",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/038925ab-7cd8-462d-9c27-1266f14ee3b2/logo",
+      "code": "PRIMEIRACOMPRA",
+      "description": "5% off em todo o site",
       "docType": "code",
       "categories": [
         "wellness",
-        "shopping",
-        "home-and-decoration"
+        "sports"
       ],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ZqHSin3K0hF1"
+      "affiliateUrl": "https://lmdee.link/8r8IR3yufq1K"
+    },
+    {
+      "id": "6a0b7a3b3802c70c2482b56c",
+      "brandId": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
+      "brandName": "Casa do Fitness",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/038925ab-7cd8-462d-9c27-1266f14ee3b2/logo",
+      "code": "S10320OFF",
+      "description": "R$ 200,00 de desconto na Bicicleta Speedo S103 ",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "sports"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4qo3n7PXEB-Q"
     }
   ],
   "offers": [
-    {
-      "id": "6911dcd7978648de25b6d7cb",
-      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
-      "brandName": "Revest Acabamentos",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
-      "name": "Metais Coloridos - Black November",
-      "description": "Metais Coloridos - Black November",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/EHoY99TN8MrM"
-    },
-    {
-      "id": "6911dd1b978648de25b6d7d9",
-      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
-      "brandName": "Revest Acabamentos",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
-      "name": "Pisos e Porcelanatos - Black November",
-      "description": "Pisos e Porcelanatos - Black November",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mm0UfaBlDohe"
-    },
-    {
-      "id": "6911dd54978648de25b6d7f1",
-      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
-      "brandName": "Revest Acabamentos",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
-      "name": "Black on Black",
-      "description": "Black on Black",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/XPWewZndj3Bt"
-    },
     {
       "id": "6911dd98978648de25b6d841",
       "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
@@ -4197,16 +4175,52 @@
       "affiliateUrl": "https://lmdee.link/jxKJgiJV01Tq"
     },
     {
-      "id": "6a0788b73802c70c24821097",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Ofertas especiais em Smartphones, Últimas peças*!!",
-      "description": "Ofertas especiais em Smartphones, Últimas peças*!!",
+      "id": "6a0b0c003802c70c24827c44",
+      "brandId": "cb4ebfb0-1586-446d-a86b-b894d92d4dea",
+      "brandName": "Mobly",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/cb4ebfb0-1586-446d-a86b-b894d92d4dea/logo",
+      "name": "Torcida Mobly",
+      "description": "Torcida Mobly",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7hEBhCA1Tlb2"
+      "affiliateUrl": "https://lmdee.link/svlgnoqA9MiF"
+    },
+    {
+      "id": "6a0b2d363802c70c24828d15",
+      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
+      "brandName": "NutriBullet",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
+      "name": "🔥 Oferta relâmpago Magic Bullet com 20% OFF",
+      "description": "🔥 Oferta relâmpago Magic Bullet com 20% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/xQpZvVN92cxM"
+    },
+    {
+      "id": "6a0b2fdd3802c70c24828e08",
+      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
+      "brandName": "NutriBullet",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
+      "name": "🔥 Nutribullet 900W com R$ 270OFF - Potência profissional para sua rotina",
+      "description": "🔥 Nutribullet 900W com R$ 270OFF - Potência profissional para sua rotina",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/tMq3dBN1V6kY"
+    },
+    {
+      "id": "6a0b32343802c70c24828f04",
+      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
+      "brandName": "NutriBullet",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
+      "name": "15%OFF no Portable Blender 💪 O blender portátil da sua rotina fitness",
+      "description": "15%OFF no Portable Blender 💪 O blender portátil da sua rotina fitness",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/pgZ7RXPKEF86"
     }
   ]
 }
