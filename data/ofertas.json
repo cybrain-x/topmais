@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T07:36:55.259Z",
+  "lastUpdated": "2026-05-20T07:35:55.287Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -1509,7 +1509,7 @@
     },
     {
       "id": "moda",
-      "name": "Moda",
+      "name": "moda",
       "slug": "moda",
       "icon": "👗"
     },
@@ -2359,6 +2359,35 @@
       "affiliateUrl": "https://lmdee.link/JIr5QJ5CWlSk"
     },
     {
+      "id": "6941b7402415075058869af4",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "GANHE5",
+      "description": "5% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/L3nkfx5UGFsa"
+    },
+    {
+      "id": "6941b7b52415075058869b63",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "GANHE10",
+      "description": "10% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/J7i2JjKkTrdC"
+    },
+    {
       "id": "696a51b024150750588e5674",
       "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
       "brandName": "Casa das Alianças",
@@ -2831,6 +2860,21 @@
       "affiliateUrl": "https://lmdee.link/7tUNK5Anuvwg"
     },
     {
+      "id": "69f223c73802c70c247cdaeb",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "CARRINHO30",
+      "description": "R$30 off nos carrinhos organizadores",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/rfaKvQ59j59M"
+    },
+    {
       "id": "69f224093802c70c247cdb52",
       "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
       "brandName": "Brinox",
@@ -3053,7 +3097,7 @@
       "brandName": "Shopclub",
       "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
       "code": "GANHE15",
-      "description": "Cupom de 15% de desconto ",
+      "description": "15% de desconto em produtos selecionados",
       "docType": "code",
       "categories": [
         "shopping",
@@ -4139,18 +4183,6 @@
       "affiliateUrl": "https://lmdee.link/ofJDqOJ9KTOQ"
     },
     {
-      "id": "6a0714d53802c70c2481e5c4",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "Campanha Copa Shopclub: Até 55% OFF + pix 5% + frete grátis*",
-      "description": "Campanha Copa Shopclub: Até 55% OFF + pix 5% + frete grátis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/POEqVk7hAeGk"
-    },
-    {
       "id": "6a0763d13802c70c2482047e",
       "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
       "brandName": "Vinícola Jolimont",
@@ -4221,6 +4253,18 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/pgZ7RXPKEF86"
+    },
+    {
+      "id": "6a0c670e3802c70c2482e883",
+      "brandId": "efd916a7-faa3-417b-8581-d3afe03e849c",
+      "brandName": "Líquido",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/efd916a7-faa3-417b-8581-d3afe03e849c/logo",
+      "name": "Aura Outono/Inverno 2026- Use o cupom LIQUIDO10 e ganhe 10% OFF",
+      "description": "Aura Outono/Inverno 2026- Use o cupom LIQUIDO10 e ganhe 10% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/GljRgCfZmSXW"
     }
   ]
 }
