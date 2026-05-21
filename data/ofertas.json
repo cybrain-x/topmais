@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T07:35:55.287Z",
+  "lastUpdated": "2026-05-21T07:42:13.739Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -414,6 +414,14 @@
       "name": "Shein",
       "logo": "https://cdn.lomadee.com.br/logos/5c9d64b4-a490-41d0-9106-26598526f600/logo",
       "segment": "fashion",
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
+      "id": "5f35b464-cb68-4af6-9bd7-3b3d3791cb53",
+      "name": "Unopar EAD",
+      "logo": "https://cdn.lomadee.com.br/logos/5f35b464-cb68-4af6-9bd7-3b3d3791cb53/logo",
+      "segment": "education",
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
@@ -1066,6 +1074,14 @@
       "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
     },
     {
+      "id": "ead717bb-b65a-4a4f-a1e9-4ad54c49db0e",
+      "name": "Anhanguera",
+      "logo": "https://cdn.lomadee.com.br/logos/ead717bb-b65a-4a4f-a1e9-4ad54c49db0e/logo",
+      "segment": "education",
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vWbBwNkpuqhR"
+    },
+    {
       "id": "eb6d987f-29a4-41ef-a47f-ae133e736df0",
       "name": "Tiktok",
       "logo": "https://cdn.lomadee.com.br/logos/eb6d987f-29a4-41ef-a47f-ae133e736df0/logo",
@@ -1509,7 +1525,7 @@
     },
     {
       "id": "moda",
-      "name": "moda",
+      "name": "Moda",
       "slug": "moda",
       "icon": "👗"
     },
@@ -3135,57 +3151,80 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/4qo3n7PXEB-Q"
+    },
+    {
+      "id": "6a0db8c43802c70c24834d1d",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "TUDOEMOBRA",
+      "description": "TUDO EM OBRA ",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-H1A02fEcKew"
+    },
+    {
+      "id": "6a0db9f43802c70c24834d7c",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "OFERTADOLAR",
+      "description": "OFERTA DO LAR",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/9srEakCeervY"
+    },
+    {
+      "id": "6a0dba7e3802c70c24834dbe",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "OFFDACONSTRU",
+      "description": "OFF DA CONSTRU",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QXDca8oXXDX8"
+    },
+    {
+      "id": "6a0dbac73802c70c24834e08",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "REFORMATOTAL",
+      "description": "REFORMA TOTAL",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/jDYxttgYvXnP"
+    },
+    {
+      "id": "6a0e18bd3802c70c248375a5",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "code": "SECRETO15",
+      "description": "Cupom de 15% de desconto em todo o site ",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "wellness"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/IUBEXDLk46QD"
     }
   ],
   "offers": [
-    {
-      "id": "6911dd98978648de25b6d841",
-      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
-      "brandName": "Revest Acabamentos",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
-      "name": "LEVO - Black November",
-      "description": "LEVO - Black November",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nQUNPCBOS82L"
-    },
-    {
-      "id": "6911dde8978648de25b6d85f",
-      "brandId": "37eb2500-9232-4491-9ab1-e1880025f7e3",
-      "brandName": "Revest Acabamentos",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37eb2500-9232-4491-9ab1-e1880025f7e3/logo",
-      "name": "Preço de Black",
-      "description": "Preço de Black",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/EFX7vAZYXm3v"
-    },
-    {
-      "id": "6915db77bd96b991f002569a",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Roupas e calçados",
-      "description": "Roupas e calçados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/aW9Ct1k6I3RD"
-    },
-    {
-      "id": "6915dd0dbd96b991f0025744",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Verão 2026",
-      "description": "Verão 2026",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/MVJqrSmqI1VC"
-    },
     {
       "id": "6915f5683bb240f13b85d61a",
       "brandId": "6d416a9b-81f6-4187-9351-4a5196e9ef47",
@@ -4265,6 +4304,54 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/GljRgCfZmSXW"
+    },
+    {
+      "id": "6a0db5243802c70c24834c03",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "name": "QUEIMA DE ESTOQUE DE PISOS E PORCELANATOS BALAROTI",
+      "description": "QUEIMA DE ESTOQUE DE PISOS E PORCELANATOS BALAROTI",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/k4Y3BdiG0qZ-"
+    },
+    {
+      "id": "6a0e191c3802c70c24837681",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Calça de Sarja e Jeans - Leve 2 por R$ 199,99",
+      "description": "Calça de Sarja e Jeans - Leve 2 por R$ 199,99",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ftbvDqOI-wL-"
+    },
+    {
+      "id": "6a0e194f3802c70c248376b0",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Ritmo de Trabalho - produtos selecionados",
+      "description": "Ritmo de Trabalho - produtos selecionados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/LnSjjhGyGJQg"
+    },
+    {
+      "id": "6a0e19a03802c70c248376ea",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Calça Alfaiataria - Leve 2 por R$ 249,99",
+      "description": "Calça Alfaiataria - Leve 2 por R$ 249,99",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/6wVE56LQ8gop"
     }
   ]
 }
