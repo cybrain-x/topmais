@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T07:42:13.739Z",
+  "lastUpdated": "2026-05-22T07:36:26.874Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2375,35 +2375,6 @@
       "affiliateUrl": "https://lmdee.link/JIr5QJ5CWlSk"
     },
     {
-      "id": "6941b7402415075058869af4",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "GANHE5",
-      "description": "5% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/L3nkfx5UGFsa"
-    },
-    {
-      "id": "6941b7b52415075058869b63",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "GANHE10",
-      "description": "10% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/J7i2JjKkTrdC"
-    },
-    {
       "id": "696a51b024150750588e5674",
       "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
       "brandName": "Casa das Alianças",
@@ -2948,21 +2919,6 @@
       "affiliateUrl": "https://lmdee.link/ER-StLflXFC9"
     },
     {
-      "id": "69fb7b2c3802c70c247f21f1",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "EXTRA15",
-      "description": "Outlet até 40% OFF + 15% OFF EXTRA ",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/qxPAi8TwP0dV"
-    },
-    {
       "id": "69fce1383802c70c247f864c",
       "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
       "brandName": "Drogasmil",
@@ -3106,21 +3062,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/aUcqI5MHkFxn"
-    },
-    {
-      "id": "6a077b1c3802c70c24820c08",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "GANHE15",
-      "description": "15% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Vldy0pxgz9p0"
     },
     {
       "id": "6a0b79ca3802c70c2482b544",
@@ -4006,18 +3947,6 @@
       "affiliateUrl": "https://lmdee.link/XaU1dyBVxe84"
     },
     {
-      "id": "69fb7b773802c70c247f2266",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "name": "Malwee Kids- Outlet até 40% OFF + 15% OFF EXTRA (Usando o cupom EXTRA15)",
-      "description": "Malwee Kids- Outlet até 40% OFF + 15% OFF EXTRA (Usando o cupom EXTRA15)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ZA7IhSyqHIsd"
-    },
-    {
       "id": "69fcaf5c3802c70c247f7486",
       "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
       "brandName": "Mundo Vem",
@@ -4222,30 +4151,6 @@
       "affiliateUrl": "https://lmdee.link/ofJDqOJ9KTOQ"
     },
     {
-      "id": "6a0763d13802c70c2482047e",
-      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
-      "brandName": "Vinícola Jolimont",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
-      "name": "Ação Vinho de Brinde - Escadinha promocional",
-      "description": "Ação Vinho de Brinde - Escadinha promocional",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/febn1rmcLI2-"
-    },
-    {
-      "id": "6a0779ab3802c70c24820ac9",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "SHOPCLUB DAYS Até R$3500 off + cupom até 15% + frete grátis*",
-      "description": "SHOPCLUB DAYS Até R$3500 off + cupom até 15% + frete grátis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/jxKJgiJV01Tq"
-    },
-    {
       "id": "6a0b0c003802c70c24827c44",
       "brandId": "cb4ebfb0-1586-446d-a86b-b894d92d4dea",
       "brandName": "Mobly",
@@ -4352,6 +4257,54 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/6wVE56LQ8gop"
+    },
+    {
+      "id": "6a0f3bdd3802c70c2483b9f8",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "name": "Cubas e Metais importados",
+      "description": "Cubas e Metais importados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/iUd5ielyeGWw"
+    },
+    {
+      "id": "6a0f40583802c70c2483bddc",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "name": "Instalação elétrica  ",
+      "description": "Instalação elétrica  ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/cxlBsCZOsYWF"
+    },
+    {
+      "id": "6a0f67563802c70c2483d51f",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Colchão Casal Molas Gazin Provence 138x188 - Marrom (R$599,00 à vista ou 12x R$55,00)",
+      "description": "Colchão Casal Molas Gazin Provence 138x188 - Marrom (R$599,00 à vista ou 12x R$55,00)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2UKv5gz3WIos"
+    },
+    {
+      "id": "6a0f67a33802c70c2483d553",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Colchão Cama Box Gazin Molas Casal Provence 138x188 - Marrom (R$899,00 à vista ou 12x R$91,58)",
+      "description": "Colchão Cama Box Gazin Molas Casal Provence 138x188 - Marrom (R$899,00 à vista ou 12x R$91,58)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ullYkUpPD4D8"
     }
   ]
 }
