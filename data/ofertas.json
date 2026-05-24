@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T06:28:23.661Z",
+  "lastUpdated": "2026-05-24T06:53:46.308Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2855,36 +2855,6 @@
       "affiliateUrl": "https://lmdee.link/7tUNK5Anuvwg"
     },
     {
-      "id": "69f223c73802c70c247cdaeb",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "CARRINHO30",
-      "description": "R$30 off nos carrinhos organizadores",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/rfaKvQ59j59M"
-    },
-    {
-      "id": "69f224093802c70c247cdb52",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "CHAZINHO",
-      "description": "Cupom de 15% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "wellness",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/soaIYlb46Ta-"
-    },
-    {
       "id": "69f253ad3802c70c247cfbb4",
       "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "brandName": "Coza",
@@ -3210,6 +3180,18 @@
     }
   ],
   "offers": [
+    {
+      "id": "6917281cbd96b991f0029ba2",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "Story Esquenta Black Friday Sem 3 - versão 1",
+      "description": "Story Esquenta Black Friday Sem 3 - versão 1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/CFFNBtlSKmvN"
+    },
     {
       "id": "69172834bd96b991f0029bcc",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
@@ -3689,18 +3671,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": null
-    },
-    {
-      "id": "69ea4fd33802c70c247ad601",
-      "brandId": "68cbcd60-5ce0-4d1a-9490-f00fb05270ae",
-      "brandName": "Océane",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/68cbcd60-5ce0-4d1a-9490-f00fb05270ae/logo",
-      "name": "Lançamento Flat Blend | Duas novas cores",
-      "description": "Lançamento Flat Blend | Duas novas cores",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ao8tUTMHiv0Z"
     },
     {
       "id": "69ef751e3802c70c247c0173",
