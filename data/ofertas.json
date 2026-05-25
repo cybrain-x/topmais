@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T06:53:46.308Z",
+  "lastUpdated": "2026-05-25T08:12:19.010Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2853,6 +2853,21 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/7tUNK5Anuvwg"
+    },
+    {
+      "id": "69f224433802c70c247cdbf4",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "BURGERBRINOX",
+      "description": "Cupom de 15% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1Y87LUTuXNyi"
     },
     {
       "id": "69f253ad3802c70c247cfbb4",
