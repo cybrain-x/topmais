@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T08:12:19.010Z",
+  "lastUpdated": "2026-05-26T07:36:22.697Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -30,7 +30,7 @@
       "name": "Lojas REDE",
       "logo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
       "segment": "retail",
-      "isHighlight": false,
+      "isHighlight": true,
       "affiliateUrl": "https://lmdee.link/gQycKZEPBdP4"
     },
     {
@@ -3144,38 +3144,6 @@
       "affiliateUrl": "https://lmdee.link/IUBEXDLk46QD"
     },
     {
-      "id": "6a1054763802c70c2483fe30",
-      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
-      "brandName": "Rovitex",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
-      "code": "QUERO15",
-      "description": "15% OFF extra em TODO site + Brinde Exclusivo acima de R$299",
-      "docType": "code",
-      "categories": [
-        "wellness",
-        "shopping",
-        "beauty"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/qpCM4YJbSxRM"
-    },
-    {
-      "id": "6a109e6a3802c70c248415df",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "15SOCIALSOUL",
-      "description": "Cupom de 15% de desconto ",
-      "docType": "code",
-      "categories": [
-        "wellness",
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/H1hb7gNnv9oA"
-    },
-    {
       "id": "6a10c5893802c70c24842098",
       "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
       "brandName": "Grendene",
@@ -3192,57 +3160,38 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
+    },
+    {
+      "id": "6a148a623802c70c2484e58d",
+      "brandId": "c0520326-00a8-4064-b4fe-ba1b8cd3bfe7",
+      "brandName": "Homedock",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c0520326-00a8-4064-b4fe-ba1b8cd3bfe7/logo",
+      "code": "HOME7",
+      "description": "Cupom de 7% de desconto ",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a14b62c3802c70c2484f876",
+      "brandId": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
+      "brandName": "Simple Organic",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/e783798e-b219-48d6-9855-a7ad62d1d2c6/logo",
+      "code": "MEUPDRN",
+      "description": "OMPRE O DUO PDRN + BALM DE OLHOS e ganhe 01 Balm CB2 para completar sua rotina",
+      "docType": "code",
+      "categories": [
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ifZyGGwm1r-p"
     }
   ],
   "offers": [
-    {
-      "id": "6917281cbd96b991f0029ba2",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Story Esquenta Black Friday Sem 3 - versão 1",
-      "description": "Story Esquenta Black Friday Sem 3 - versão 1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/CFFNBtlSKmvN"
-    },
-    {
-      "id": "69172834bd96b991f0029bcc",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Feed Esquenta Black Friday Sem 3 - versão 1",
-      "description": "Feed Esquenta Black Friday Sem 3 - versão 1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/GWWYz7lE7pNa"
-    },
-    {
-      "id": "691728b8bd96b991f0029c1e",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Story Esquenta Black Friday Sem 3 - versão 2",
-      "description": "Story Esquenta Black Friday Sem 3 - versão 2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ChDZsBPnTZpb"
-    },
-    {
-      "id": "691728cdbd96b991f0029c48",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Feed Esquenta Black Friday Sem 3 - versão 2",
-      "description": "Feed Esquenta Black Friday Sem 3 - versão 2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9ErgNmU67huk"
-    },
     {
       "id": "691728e4bd96b991f0029c72",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
@@ -4072,30 +4021,6 @@
       "affiliateUrl": "https://lmdee.link/OdRJrujh-m8c"
     },
     {
-      "id": "6a04bb2b3802c70c24814cb6",
-      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
-      "brandName": "Up4you",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
-      "name": "Celebre o mês do orgulho Geek - Mochilas, estojos e lancheiras - Produtos com até 75% Off;",
-      "description": "Celebre o mês do orgulho Geek - Mochilas, estojos e lancheiras - Produtos com até 75% Off;",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Rg0H1VZ3FiCY"
-    },
-    {
-      "id": "6a04bb5e3802c70c24814d40",
-      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
-      "brandName": "Up4you",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
-      "name": "Coleção Loud x Up4You - Orgulho nerd - Confira os produtos da coleção Loud",
-      "description": "Coleção Loud x Up4You - Orgulho nerd - Confira os produtos da coleção Loud",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/h2PwAhn4O3iV"
-    },
-    {
       "id": "6a04c7603802c70c24815359",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -4294,6 +4219,66 @@
       "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
       "name": "Ipanema + Boca Rosa com 15% Off",
       "description": "Ipanema + Boca Rosa com 15% Off",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a1444e93802c70c2484c84b",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "Linha DNA Flex por apenas R$ 59,90🔥",
+      "description": "Linha DNA Flex por apenas R$ 59,90🔥",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/W2w9I3CxXaEt"
+    },
+    {
+      "id": "6a146a6f3802c70c2484db27",
+      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
+      "brandName": "Guess Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
+      "name": "Dia dos Namorados: Até 20% OFF levando 3 peças",
+      "description": "Dia dos Namorados: Até 20% OFF levando 3 peças",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/uTCMV4Iwto3w"
+    },
+    {
+      "id": "6a14a95b3802c70c2484f39c",
+      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
+      "brandName": "iRobot",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
+      "name": "Dia dos namorados: Robô Aspirador de Pó e Passa Pano a partir de  R$ 1.899,99🔥",
+      "description": "Dia dos namorados: Robô Aspirador de Pó e Passa Pano a partir de  R$ 1.899,99🔥",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HGsJNuwEqVVl"
+    },
+    {
+      "id": "6a14ab123802c70c2484f438",
+      "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
+      "brandName": "Casa das Alianças",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
+      "name": "Dia dos namorados, presenteie com amor!  Categoria exclusiva para surpreender quem você ama. ",
+      "description": "Dia dos namorados, presenteie com amor!  Categoria exclusiva para surpreender quem você ama. ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a14ab593802c70c2484f464",
+      "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
+      "brandName": "Casa das Alianças",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
+      "name": "Dia dos namorados- A nova geração em ouro para surpreender seu amor",
+      "description": "Dia dos namorados- A nova geração em ouro para surpreender seu amor",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
