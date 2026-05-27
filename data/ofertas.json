@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T07:36:22.697Z",
+  "lastUpdated": "2026-05-27T07:56:15.663Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -1562,12 +1562,6 @@
       "icon": "🏷️"
     },
     {
-      "id": "moveis",
-      "name": "Móveis",
-      "slug": "moveis",
-      "icon": "🏷️"
-    },
-    {
       "id": "moveis-e-casa",
       "name": "móveis e casa ",
       "slug": "moveis-e-casa",
@@ -2884,6 +2878,20 @@
       "affiliateUrl": "https://lmdee.link/RaIBqKHA6yPo"
     },
     {
+      "id": "69f254033802c70c247cfc86",
+      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
+      "brandName": "Coza",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
+      "code": "FRITAS15",
+      "description": "15% off na linha easy e uno",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ckgoaMK4IrUE"
+    },
+    {
       "id": "69f3587a3802c70c247d4387",
       "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
       "brandName": "Gazin",
@@ -2954,18 +2962,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/PhnMm3O9zfR4"
-    },
-    {
-      "id": "6a05f8973802c70c24819be3",
-      "brandId": "efd916a7-faa3-417b-8581-d3afe03e849c",
-      "brandName": "Líquido",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/efd916a7-faa3-417b-8581-d3afe03e849c/logo",
-      "code": "LIQUIDO10",
-      "description": "10% OFF Coleção Aura/Inverno",
-      "docType": "code",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mVjys1Bf0EQ0"
     },
     {
       "id": "6a0602413802c70c2481a0b1",
@@ -3189,57 +3185,129 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ifZyGGwm1r-p"
+    },
+    {
+      "id": "6a15cf463802c70c248531fc",
+      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
+      "brandName": "Rovitex",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
+      "code": "LEVEMAIS",
+      "description": "Até 30% OFF levando 3 peças ou mais ",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/NJCw03jXR41Q"
+    },
+    {
+      "id": "6a15fcbe3802c70c2485483a",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "KENVUE15",
+      "description": "Compre acima de R$ 80,00 em produtos selecionados e ganhe R$15,00 OFF",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QPOGUpYJpWW9"
+    },
+    {
+      "id": "6a15fd863802c70c2485484f",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "1LWELLA",
+      "description": "Compre o Kit Condicionador Wella 1L Invigo Nutri + Máscara de Nutrição Wella 500g Invigo Nutri, você ganha o Shampoo Wella 1L Invigo Nutri",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/2M1JcWlHcc7R"
+    },
+    {
+      "id": "6a15fde33802c70c24854888",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "BRIDGERTON",
+      "description": "Compre R$ 19,90 em produtos Bridgerton Risqué e Paixão e ganhe um lenço exclusivo",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Y5FlUGStZ8Ad"
+    },
+    {
+      "id": "6a15fe243802c70c248548a5",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "CASTING",
+      "description": "Compre 02 tinturas Casting Creme Gloss da seleção e ganhe necessaire exclusiva",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/YhzUWWFWxNjW"
+    },
+    {
+      "id": "6a15fe823802c70c248548d5",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "OLEOKOLENE",
+      "description": "Compre R$ 49,90 em produtos Kolene e ganhe 01 óleo Kolene Blend 7 óleos",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/X1bRMnvxD1Hs"
+    },
+    {
+      "id": "6a15fee63802c70c248548fa",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "TRUSSBAG",
+      "description": "Compre R$ 99,90 em produtos Truss e ganhe shoulder bag",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/yoegTawTgej3"
+    },
+    {
+      "id": "6a15ff3e3802c70c2485492e",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "SHAMPOOWELLA",
+      "description": "Compre uma Máscara Capilar Wella Invigo Color Brilliance 500ml e ganhe um Shampoo Wella Invigo Color Brilliance 250ml",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/LCj3-qlsVR5k"
     }
   ],
   "offers": [
-    {
-      "id": "691728e4bd96b991f0029c72",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Story Esquenta Black Friday Sem 3 - versão 3",
-      "description": "Story Esquenta Black Friday Sem 3 - versão 3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/4X1k9tCZ-tt7"
-    },
-    {
-      "id": "691728f5bd96b991f0029c9c",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "Feed Esquenta Black Friday Sem 3 - versão 3",
-      "description": "Feed Esquenta Black Friday Sem 3 - versão 3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/OFT9vKXJO5OS"
-    },
-    {
-      "id": "691dd4725c32e12ef0c3b784",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Refrigerador Brastemp - Frete fixo",
-      "description": "Refrigerador Brastemp - Frete fixo",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mv-ztkwZp9zR"
-    },
-    {
-      "id": "6926105b0d010e658c7dc4a1",
-      "brandId": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
-      "brandName": "Simple Organic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e783798e-b219-48d6-9855-a7ad62d1d2c6/logo",
-      "name": "Produtos até R$39",
-      "description": "Produtos até R$39",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/bj6FFH-gRlJp"
-    },
     {
       "id": "692610770d010e658c7dc4b3",
       "brandId": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
@@ -4093,18 +4161,6 @@
       "affiliateUrl": "https://lmdee.link/pgZ7RXPKEF86"
     },
     {
-      "id": "6a0c670e3802c70c2482e883",
-      "brandId": "efd916a7-faa3-417b-8581-d3afe03e849c",
-      "brandName": "Líquido",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/efd916a7-faa3-417b-8581-d3afe03e849c/logo",
-      "name": "Aura Outono/Inverno 2026- Use o cupom LIQUIDO10 e ganhe 10% OFF",
-      "description": "Aura Outono/Inverno 2026- Use o cupom LIQUIDO10 e ganhe 10% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/GljRgCfZmSXW"
-    },
-    {
       "id": "6a0db5243802c70c24834c03",
       "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
       "brandName": "BALAROTI",
@@ -4279,6 +4335,30 @@
       "brandLogo": "https://cdn.lomadee.com.br/logos/b3d8f33b-dfc0-4091-a8e3-5b1f335114e0/logo",
       "name": "Dia dos namorados- A nova geração em ouro para surpreender seu amor",
       "description": "Dia dos namorados- A nova geração em ouro para surpreender seu amor",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a1599953802c70c24851835",
+      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
+      "brandName": "Gazin",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
+      "name": "Frete grátis para PR e SP em itens selecionados",
+      "description": "Frete grátis para PR e SP em itens selecionados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/sz5v4v2nMeJE"
+    },
+    {
+      "id": "6a15a6793802c70c24851e15",
+      "brandId": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
+      "brandName": "Concórdia Informática ",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/6d568a33-7292-4219-b9e0-4217900b3d11/logo/02.png",
+      "name": "Promoção de Gabinetes Gamers ",
+      "description": "Promoção de Gabinetes Gamers ",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
