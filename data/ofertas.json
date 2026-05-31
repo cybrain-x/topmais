@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T06:40:26.454Z",
+  "lastUpdated": "2026-05-31T07:38:24.211Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2909,34 +2909,6 @@
       "affiliateUrl": "https://lmdee.link/nX2BZT1UOi7y"
     },
     {
-      "id": "69f253ad3802c70c247cfbb4",
-      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
-      "brandName": "Coza",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "code": "ORGANIZA20",
-      "description": "20% off em todo site",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/RaIBqKHA6yPo"
-    },
-    {
-      "id": "69f254033802c70c247cfc86",
-      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
-      "brandName": "Coza",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "code": "FRITAS15",
-      "description": "15% off na linha easy e uno",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ckgoaMK4IrUE"
-    },
-    {
       "id": "69f3587a3802c70c247d4387",
       "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
       "brandName": "Gazin",
@@ -3174,21 +3146,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ifZyGGwm1r-p"
-    },
-    {
-      "id": "6a15fcbe3802c70c2485483a",
-      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
-      "brandName": "Lojas REDE",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
-      "code": "KENVUE15",
-      "description": "Compre acima de R$ 80,00 em produtos selecionados e ganhe R$15,00 OFF",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/QPOGUpYJpWW9"
     },
     {
       "id": "6a15fd863802c70c2485484f",
