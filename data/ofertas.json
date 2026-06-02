@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T09:13:35.671Z",
+  "lastUpdated": "2026-06-02T08:20:32.801Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2480,21 +2480,6 @@
       "affiliateUrl": "https://lmdee.link/xooswv24VldV"
     },
     {
-      "id": "69a593985b90aa51cce56293",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "OUTONOBRINOX",
-      "description": "10% off em chaleiras e cafeteiras",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/xWtiBT4kctVR"
-    },
-    {
       "id": "69b0157a5b90aa51cce89cb5",
       "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
       "brandName": "Drogaria Rosário",
@@ -2879,21 +2864,6 @@
       "affiliateUrl": "https://lmdee.link/7tUNK5Anuvwg"
     },
     {
-      "id": "69f2249b3802c70c247cdcf9",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "FRITAS",
-      "description": "Cupom de 15% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nX2BZT1UOi7y"
-    },
-    {
       "id": "69f3587a3802c70c247d4387",
       "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
       "brandName": "Gazin",
@@ -3010,21 +2980,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/4qo3n7PXEB-Q"
-    },
-    {
-      "id": "6a0e18bd3802c70c248375a5",
-      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
-      "brandName": "Camisaria Colombo",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
-      "code": "SECRETO15",
-      "description": "Cupom de 15% de desconto em todo o site ",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "wellness"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/IUBEXDLk46QD"
     },
     {
       "id": "6a10c5893802c70c24842098",
@@ -3233,6 +3188,50 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/qURI1Z60AoKG"
+    },
+    {
+      "id": "6a1d922efab5b24456d82662",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "code": "ESQUENTA",
+      "description": "Esquenta 6.6 com 30%OFF",
+      "docType": "code",
+      "categories": [
+        "fashion"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/gPy8lds4vtzK"
+    },
+    {
+      "id": "6a1d96b5c9730096027bc79d",
+      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
+      "brandName": "Coza",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
+      "code": "COPAEMCASA",
+      "description": "15% OFF na linha Uno",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ZUoud6g8LHx0"
+    },
+    {
+      "id": "6a1d9703c9730096027bc8a5",
+      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
+      "brandName": "Coza",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
+      "code": "EXTRA20",
+      "description": "20% off em todo site",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/lsGRkjDl37Xf"
     }
   ],
   "offers": [
