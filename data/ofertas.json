@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T08:20:32.801Z",
+  "lastUpdated": "2026-06-03T08:47:40.984Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -1347,6 +1347,12 @@
       "id": "cervejas-artesanais-cervejas-importadas-cervejas-de-trigo",
       "name": "Cervejas Artesanais, Cervejas Importadas, Cervejas de Trigo",
       "slug": "cervejas-artesanais-cervejas-importadas-cervejas-de-trigo",
+      "icon": "🏷️"
+    },
+    {
+      "id": "colchoes",
+      "name": "Colchões",
+      "slug": "colchoes",
       "icon": "🏷️"
     },
     {
@@ -2982,24 +2988,6 @@
       "affiliateUrl": "https://lmdee.link/4qo3n7PXEB-Q"
     },
     {
-      "id": "6a10c5893802c70c24842098",
-      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
-      "brandName": "Grendene",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
-      "code": "BOCAROSA",
-      "description": "Ipanema + Boca Rosa com 15% Off",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "industry-and-commerce",
-        "woman",
-        "fashion",
-        "promotions"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
       "id": "6a148a623802c70c2484e58d",
       "brandId": "c0520326-00a8-4064-b4fe-ba1b8cd3bfe7",
       "brandName": "Homedock",
@@ -3013,20 +3001,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
-    },
-    {
-      "id": "6a14b62c3802c70c2484f876",
-      "brandId": "e783798e-b219-48d6-9855-a7ad62d1d2c6",
-      "brandName": "Simple Organic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e783798e-b219-48d6-9855-a7ad62d1d2c6/logo",
-      "code": "MEUPDRN",
-      "description": "OMPRE O DUO PDRN + BALM DE OLHOS e ganhe 01 Balm CB2 para completar sua rotina",
-      "docType": "code",
-      "categories": [
-        "beauty"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ifZyGGwm1r-p"
     },
     {
       "id": "6a15ccca3802c70c24853011",
@@ -3232,9 +3206,131 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/lsGRkjDl37Xf"
+    },
+    {
+      "id": "6a1f2ee5a97551aec919ef41",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "code": "HEXA6",
+      "description": "HEXA6",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mkrE6efvlNz4"
     }
   ],
   "offers": [
+    {
+      "id": "6930791f1eb93c75edd4010f",
+      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
+      "brandName": "Serallê Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
+      "name": "Amigo Secreto",
+      "description": "Amigo Secreto",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/nESkndqn8Slu"
+    },
+    {
+      "id": "69307a4f1eb93c75edd401c9",
+      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
+      "brandName": "Serallê Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
+      "name": "Banner Rasteira",
+      "description": "Banner Rasteira",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qqypIZOnWSHf"
+    },
+    {
+      "id": "69307b601eb93c75edd40213",
+      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
+      "brandName": "Serallê Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
+      "name": "Banner Tênis Casual ",
+      "description": "Banner Tênis Casual ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/n1QNuP9q5Gq-"
+    },
+    {
+      "id": "69307f871eb93c75edd40270",
+      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
+      "brandName": "Serallê Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
+      "name": "Banner Esportivo",
+      "description": "Banner Esportivo",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/U23n4k8i6o4z"
+    },
+    {
+      "id": "693080801eb93c75edd40321",
+      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
+      "brandName": "Serallê Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
+      "name": "Banner Feminino ",
+      "description": "Banner Feminino ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/GzMgtMgAKP9T"
+    },
+    {
+      "id": "693081d01eb93c75edd40389",
+      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
+      "brandName": "Serallê Calçados",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
+      "name": "Banner Infantil",
+      "description": "Banner Infantil",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ob-qbZcLhWca"
+    },
+    {
+      "id": "6931d1fa1eb93c75edd45a89",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "story Natal para Celebrar ",
+      "description": "story Natal para Celebrar ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kw3s7Xt2vmVL"
+    },
+    {
+      "id": "69330e2a1eb93c75edd4a49c",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "name": "R$15 off em compras acima de R$150",
+      "description": "R$15 off em compras acima de R$150",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/K0Xcwf5WhFTz"
+    },
+    {
+      "id": "696fcc5624150750588f9c0c",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "TUDO por MENOS de R$50 *nesse link",
+      "description": "TUDO por MENOS de R$50 *nesse link",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/rUkmlQLZtfSS"
+    },
     {
       "id": "697229e4a3075d050fcfb8e5",
       "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
@@ -3356,90 +3452,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "69ceb5ac768c8f2da45ac823",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "banner prova social ",
-      "description": "banner prova social ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/TXj-c1jmz2j4"
-    },
-    {
-      "id": "69ceb5ce768c8f2da45ac859",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "feed prova social v1 ",
-      "description": "feed prova social v1 ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/61bBkOxYEsPq"
-    },
-    {
-      "id": "69ceb5ea768c8f2da45ac88e",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "feed prova social v1 ",
-      "description": "feed prova social v1 ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/zCMzIg5b5-Ht"
-    },
-    {
-      "id": "69ceb60c768c8f2da45ac8c1",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "feed prova social v2",
-      "description": "feed prova social v2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/m8iKdYi4DIVW"
-    },
-    {
-      "id": "69ceb62a768c8f2da45ac901",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "story prova social v2",
-      "description": "story prova social v2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/CyAjVxaZ6HIx"
-    },
-    {
-      "id": "69ceb647768c8f2da45ac943",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "feed prova social v3",
-      "description": "feed prova social v3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Rmkafvy5-1Kf"
-    },
-    {
-      "id": "69ceb668768c8f2da45ac97e",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "story prova social v3",
-      "description": "story prova social v3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fYrm4UhAtZbi"
-    },
-    {
       "id": "69d6c79c768c8f2da45caeb6",
       "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
       "brandName": "iRobot",
@@ -3452,16 +3464,16 @@
       "affiliateUrl": "https://lmdee.link/lXWCVSiirv2Y"
     },
     {
-      "id": "69d7aee2768c8f2da45cda1d",
-      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
-      "brandName": "Grendene",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
-      "name": "Compre e Ganhe - Meias Zaxy",
-      "description": "Compre e Ganhe - Meias Zaxy",
+      "id": "69dd3347768c8f2da45e0d31",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "name": "Coleção de Frete Reduzido R$50 de desconto",
+      "description": "Coleção de Frete Reduzido R$50 de desconto",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": null
+      "affiliateUrl": "https://lmdee.link/KrBJotXUaYR4"
     },
     {
       "id": "69ef751e3802c70c247c0173",
@@ -3476,16 +3488,16 @@
       "affiliateUrl": "https://lmdee.link/4nDmSC3gI4hf"
     },
     {
-      "id": "69efbb023802c70c247c3000",
-      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
-      "brandName": "Xiaomi Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
-      "name": "2026.05 - Dia das Mães",
-      "description": "2026.05 - Dia das Mães",
+      "id": "69efc5ed3802c70c247c3346",
+      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
+      "brandName": "Móveis Carraro",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
+      "name": "Frete Grátis para Sul e SP em itens selecionados🔥",
+      "description": "Frete Grátis para Sul e SP em itens selecionados🔥",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/tNlb7gEWnVmw"
+      "affiliateUrl": "https://lmdee.link/w2V08Bm4BRhB"
     },
     {
       "id": "69f0c9a83802c70c247c6d91",
@@ -3510,150 +3522,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/Lp8eD0DJGZ2F"
-    },
-    {
-      "id": "69f224e13802c70c247cddfd",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "name": "Oportunidades de Maio",
-      "description": "Oportunidades de Maio",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/H8eekhvyEfI-"
-    },
-    {
-      "id": "69f254553802c70c247cfd5f",
-      "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
-      "brandName": "Coza",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/37c43619-9b1b-429f-9c86-e3ca2be3148e/logo",
-      "name": "Oportunidades de Maio- Coza",
-      "description": "Oportunidades de Maio- Coza",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/LBx103AUhTi1"
-    },
-    {
-      "id": "69f3b0e63802c70c247d6a89",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "BANNER KITS 40%OFF",
-      "description": "BANNER KITS 40%OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/US6PTUNVIAui"
-    },
-    {
-      "id": "69f3b11f3802c70c247d6afd",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED kITS V1",
-      "description": "FEED kITS V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/O6ZcMcnhi5Qw"
-    },
-    {
-      "id": "69f3b1453802c70c247d6b48",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY KITS V1",
-      "description": "STORY KITS V1",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/i1vTkjotr3i1"
-    },
-    {
-      "id": "69f3b1683802c70c247d6b76",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED KITS V2",
-      "description": "FEED KITS V2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/YeOlIeE42gTT"
-    },
-    {
-      "id": "69f3b1a83802c70c247d6ba5",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY KITS V2",
-      "description": "STORY KITS V2",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/2pRU7KBxOIy7"
-    },
-    {
-      "id": "69f3b1c63802c70c247d6bcd",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "FEED KITS V3",
-      "description": "FEED KITS V3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/lluXJLQ-xF0-"
-    },
-    {
-      "id": "69f3b1e13802c70c247d6c01",
-      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
-      "brandName": "Amakha Paris",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
-      "name": "STORY KITS V3",
-      "description": "STORY KITS V3",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/xsranJPnSBuj"
-    },
-    {
-      "id": "69f3c4343802c70c247d755b",
-      "brandId": "1ba96890-8d3b-45d6-8e55-247bf62f6b4e",
-      "brandName": "Pneunet",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/1ba96890-8d3b-45d6-8e55-247bf62f6b4e/logo",
-      "name": "Na hora da revisão, não amarele! Garantir o pneu perfeito é o seu sinal verde para rodar com segurança",
-      "description": "Na hora da revisão, não amarele! Garantir o pneu perfeito é o seu sinal verde para rodar com segurança",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/b0a5ZnoSaeUl"
-    },
-    {
-      "id": "69f8986a3802c70c247e35da",
-      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
-      "brandName": "Ortope",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
-      "name": "Combo- 2 Tênis por R$ 149,90- Várias cores",
-      "description": "Combo- 2 Tênis por R$ 149,90- Várias cores",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/lnKXcMmxDyKV"
-    },
-    {
-      "id": "69f89d533802c70c247e38e6",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "Fall’26- Escolhas para a temporada",
-      "description": "Fall’26- Escolhas para a temporada",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/F9HaPEBf9Va4"
     },
     {
       "id": "69f8bed13802c70c247e4e5d",
@@ -3752,18 +3620,6 @@
       "affiliateUrl": "https://lmdee.link/vj3E4A-rC82y"
     },
     {
-      "id": "6a01ad513802c70c248073c3",
-      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
-      "brandName": "Ortope",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
-      "name": "Tá na Ortopé- Até 20% OFF levando 4 pares ou mais ",
-      "description": "Tá na Ortopé- Até 20% OFF levando 4 pares ou mais ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/XDs3dfxZPwlZ"
-    },
-    {
       "id": "6a01dfcd3802c70c2480846a",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -3798,18 +3654,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/NbdLCqCoXpi7"
-    },
-    {
-      "id": "6a0353873802c70c2480dc56",
-      "brandId": "d9a040f8-bb54-40d2-804b-150f007305d0",
-      "brandName": "Toymania",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/d9a040f8-bb54-40d2-804b-150f007305d0/logo",
-      "name": "Mês do Orgulho Geek Lomadee",
-      "description": "Mês do Orgulho Geek Lomadee",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/zrpDsycsL3oa"
     },
     {
       "id": "6a0354b33802c70c2480dc6f",
@@ -3896,42 +3740,6 @@
       "affiliateUrl": "https://lmdee.link/xQpZvVN92cxM"
     },
     {
-      "id": "6a0b2fdd3802c70c24828e08",
-      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
-      "brandName": "NutriBullet",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
-      "name": "🔥 Nutribullet 900W com R$ 270OFF - Potência profissional para sua rotina",
-      "description": "🔥 Nutribullet 900W com R$ 270OFF - Potência profissional para sua rotina",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/tMq3dBN1V6kY"
-    },
-    {
-      "id": "6a0b32343802c70c24828f04",
-      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
-      "brandName": "NutriBullet",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
-      "name": "15%OFF no Portable Blender 💪 O blender portátil da sua rotina fitness",
-      "description": "15%OFF no Portable Blender 💪 O blender portátil da sua rotina fitness",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/pgZ7RXPKEF86"
-    },
-    {
-      "id": "6a0db5243802c70c24834c03",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "QUEIMA DE ESTOQUE DE PISOS E PORCELANATOS BALAROTI",
-      "description": "QUEIMA DE ESTOQUE DE PISOS E PORCELANATOS BALAROTI",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/k4Y3BdiG0qZ-"
-    },
-    {
       "id": "6a0e191c3802c70c24837681",
       "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
       "brandName": "Camisaria Colombo",
@@ -3966,78 +3774,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/6wVE56LQ8gop"
-    },
-    {
-      "id": "6a0f3bdd3802c70c2483b9f8",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "Cubas e Metais importados",
-      "description": "Cubas e Metais importados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/iUd5ielyeGWw"
-    },
-    {
-      "id": "6a0f40583802c70c2483bddc",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "Instalação elétrica  ",
-      "description": "Instalação elétrica  ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/cxlBsCZOsYWF"
-    },
-    {
-      "id": "6a0f67563802c70c2483d51f",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Colchão Casal Molas Gazin Provence 138x188 - Marrom (R$599,00 à vista ou 12x R$55,00)",
-      "description": "Colchão Casal Molas Gazin Provence 138x188 - Marrom (R$599,00 à vista ou 12x R$55,00)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/2UKv5gz3WIos"
-    },
-    {
-      "id": "6a0f67a33802c70c2483d553",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Colchão Cama Box Gazin Molas Casal Provence 138x188 - Marrom (R$899,00 à vista ou 12x R$91,58)",
-      "description": "Colchão Cama Box Gazin Molas Casal Provence 138x188 - Marrom (R$899,00 à vista ou 12x R$91,58)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ullYkUpPD4D8"
-    },
-    {
-      "id": "6a10c6323802c70c248420ed",
-      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
-      "brandName": "Grendene",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
-      "name": "Ipanema + Boca Rosa com 15% Off",
-      "description": "Ipanema + Boca Rosa com 15% Off",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "6a1444e93802c70c2484c84b",
-      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
-      "brandName": "Ortope",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
-      "name": "Linha DNA Flex por apenas R$ 59,90🔥",
-      "description": "Linha DNA Flex por apenas R$ 59,90🔥",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/W2w9I3CxXaEt"
     },
     {
       "id": "6a146a6f3802c70c2484db27",
@@ -4088,18 +3824,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "6a1599953802c70c24851835",
-      "brandId": "bb109aaa-cf69-45ba-8d0f-c3feb6fe8997",
-      "brandName": "Gazin",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bb109aaa-cf69-45ba-8d0f-c3feb6fe8997/logo",
-      "name": "Frete grátis para PR e SP em itens selecionados",
-      "description": "Frete grátis para PR e SP em itens selecionados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/sz5v4v2nMeJE"
-    },
-    {
       "id": "6a15a6793802c70c24851e15",
       "brandId": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
       "brandName": "Concórdia Informática ",
@@ -4112,30 +3836,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "6a170a033802c70c2485888d",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "ELETRO WEEK: Até 3000 off + pix + frete gratis*",
-      "description": "ELETRO WEEK: Até 3000 off + pix + frete gratis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nEcAELFALrEM"
-    },
-    {
-      "id": "6a170a3b3802c70c248588c7",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "name": "PORTATEIS WEEK A partir de 89,90 + frete grátis*",
-      "description": "PORTATEIS WEEK A partir de 89,90 + frete grátis*",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/65oxPT5PHwKa"
-    },
-    {
       "id": "6a17183e3802c70c24859031",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
       "brandName": "Soulier",
@@ -4146,18 +3846,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/BKiC1r3v1gHI"
-    },
-    {
-      "id": "6a1726ea3802c70c2485963c",
-      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
-      "brandName": "Vestis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
-      "name": "Compre e Ganhe | Cupom: GANHEI",
-      "description": "Compre e Ganhe | Cupom: GANHEI",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Vc5o4kosbT18"
     },
     {
       "id": "6a172e143802c70c2485992b",
@@ -4280,16 +3968,352 @@
       "affiliateUrl": "https://lmdee.link/z0B0lNYERy-v"
     },
     {
-      "id": "6a174a433802c70c2485a990",
-      "brandId": "c9c0e78c-648a-4e8d-897a-3e9492e301b0",
-      "brandName": "Skeptic",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c9c0e78c-648a-4e8d-897a-3e9492e301b0/logo",
-      "name": "Love is Dark ganhe 10%off acima de R$250 usando o cupom LOVE10 ou 15% off acima de R$350 usando o cupom LOVE15 válido até dia 12-06",
-      "description": "Love is Dark ganhe 10%off acima de R$250 usando o cupom LOVE10 ou 15% off acima de R$350 usando o cupom LOVE15 válido até dia 12-06",
+      "id": "6a185a2f3802c70c2485f0d9",
+      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
+      "brandName": "Up4you",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
+      "name": "Dia dos Namorados - Bolsas e malas com até 20% Off",
+      "description": "Dia dos Namorados - Bolsas e malas com até 20% Off",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mqosMl2htKEk"
+      "affiliateUrl": "https://lmdee.link/6pNYivlAfxnq"
+    },
+    {
+      "id": "6a1889003802c70c2485ff29",
+      "brandId": "cda2b486-0ba6-4be9-8944-5d5096735e03",
+      "brandName": "Buddha SPA",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/cda2b486-0ba6-4be9-8944-5d5096735e03/logo",
+      "name": "Campanha dia dos namorados - MATCH PERFEITO   (Compre e ganhe)",
+      "description": "Campanha dia dos namorados - MATCH PERFEITO   (Compre e ganhe)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/xn6PRzj936C0"
+    },
+    {
+      "id": "6a18a2353802c70c24860bab",
+      "brandId": "0f15db57-cb67-47d7-9a8b-666bdc62e7b6",
+      "brandName": "PCYES",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/98ac69c6-20a4-49ed-8be1-508d7aac8087/logo/Simbolo_Vermelho_fundo_Preto.jpg",
+      "name": "PCYES 2026",
+      "description": "PCYES 2026",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/GM9xaCQLXSp2"
+    },
+    {
+      "id": "6a18a8ec3802c70c24860d7c",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "banner namorados v1",
+      "description": "banner namorados v1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HluiyVhKbUzx"
+    },
+    {
+      "id": "6a18a90d3802c70c24860da6",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "feed namorados v1",
+      "description": "feed namorados v1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Iyh-95-JwhPU"
+    },
+    {
+      "id": "6a18a9303802c70c24860dd1",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "story namorados v1",
+      "description": "story namorados v1",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0R-QhgEC925L"
+    },
+    {
+      "id": "6a18a9563802c70c24860dff",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "feed namorados v2",
+      "description": "feed namorados v2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/jms9-oOg1kVW"
+    },
+    {
+      "id": "6a18a9793802c70c24860e31",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "story namorados v2",
+      "description": "story namorados v2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/puJEaneTsUvg"
+    },
+    {
+      "id": "6a18a99d3802c70c24860e5a",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "feed namorados v3",
+      "description": "feed namorados v3",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/4hBNdyIyV02y"
+    },
+    {
+      "id": "6a18a9bd3802c70c24860e8c",
+      "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
+      "brandName": "Amakha Paris",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/2e12febc-de9f-4d9f-924c-741f13e41cb7/logo",
+      "name": "story namorados v3",
+      "description": "story namorados v3",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/LUpiEEcTIhiR"
+    },
+    {
+      "id": "6a1d8f2f440698b488502055",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Esquenta 6.6 com 30%OFF | Cupom: ESQUENTA",
+      "description": "Esquenta 6.6 com 30%OFF | Cupom: ESQUENTA",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/juXbxLENIUt5"
+    },
+    {
+      "id": "6a1d8f2f440698b488502056",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Esquenta 6.6 com 30%OFF",
+      "description": "Esquenta 6.6 com 30%OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/PyHUcXcIDDKN"
+    },
+    {
+      "id": "6a1d8f2f440698b488502057",
+      "brandId": "0527fd20-994b-4839-b255-341c59d25127",
+      "brandName": "Sawary",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/0527fd20-994b-4839-b255-341c59d25127/logo",
+      "name": "Outlet Sawary",
+      "description": "Outlet Sawary",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MM5DdgjF8n6K"
+    },
+    {
+      "id": "6a1d8f2f440698b488502058",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "Ortopé, ofertas por apenas R$ 79,90",
+      "description": "Ortopé, ofertas por apenas R$ 79,90",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mU3ZGJLP6vf-"
+    },
+    {
+      "id": "6a1d9394c9730096027bbfe4",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "Ofertas Ortopé por R$ 79,90",
+      "description": "Ofertas Ortopé por R$ 79,90",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/IpHfFrC97Myj"
+    },
+    {
+      "id": "6a1da4e9c9730096027be12b",
+      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
+      "brandName": "NutriBullet",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
+      "name": "❤️ Dia dos Namorados Nutribullet | R$670 OFF",
+      "description": "❤️ Dia dos Namorados Nutribullet | R$670 OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/svNClzQJPOuy"
+    },
+    {
+      "id": "6a1db687c9730096027bf79d",
+      "brandId": "79084ddb-bc21-40a1-955e-e19716e16493",
+      "brandName": "NutriBullet",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/79084ddb-bc21-40a1-955e-e19716e16493/logo",
+      "name": "Blender Combo Nutribullet 1000W (DE: R$ 1.599,99 🚀 POR: R$ 929,99)",
+      "description": "Blender Combo Nutribullet 1000W (DE: R$ 1.599,99 🚀 POR: R$ 929,99)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/6imSJ9zrNKBn"
+    },
+    {
+      "id": "6a1db70cc9730096027bf860",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Esquenta 6.6 com 30%OFF | Cupom: ESQUENTA",
+      "description": "Esquenta 6.6 com 30%OFF | Cupom: ESQUENTA",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/6xifvJsOzIbF"
+    },
+    {
+      "id": "6a1de4b1c9730096027c42ab",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Dia dos Namorados",
+      "description": "Dia dos Namorados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/qOizc0dSTDSD"
+    },
+    {
+      "id": "6a1de677c9730096027c45bc",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Copa do Mundo",
+      "description": "Copa do Mundo",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/mPmhi49kpk74"
+    },
+    {
+      "id": "6a1de78ec9730096027c4779",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Camisas Polo  | De R$ 79,90 Por R$ 59,90 u Leve 2 por 99,99 Imperdível!",
+      "description": "Camisas Polo  | De R$ 79,90 Por R$ 59,90 u Leve 2 por 99,99 Imperdível!",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/eQTL1zugTw2m"
+    },
+    {
+      "id": "6a1de963c9730096027c4bca",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Camisa Social DE R$ 129,00 Por R$ 99,99 | Super oferta!",
+      "description": "Camisa Social DE R$ 129,00 Por R$ 99,99 | Super oferta!",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/MLwep1D3fSmL"
+    },
+    {
+      "id": "6a1dea56c9730096027c4eab",
+      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
+      "brandName": "Camisaria Colombo",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
+      "name": "Chegou novidade! Casa Colombo, descubra! Ofertas a partir de R$ 59,90",
+      "description": "Chegou novidade! Casa Colombo, descubra! Ofertas a partir de R$ 59,90",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/zJOQLNQcZSGO"
+    },
+    {
+      "id": "6a1e0196c9730096027c6bcc",
+      "brandId": "0527fd20-994b-4839-b255-341c59d25127",
+      "brandName": "Sawary",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/0527fd20-994b-4839-b255-341c59d25127/logo",
+      "name": "Dia dos Namorados Sawary Jeans",
+      "description": "Dia dos Namorados Sawary Jeans",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/3sRubPrkhsDF"
+    },
+    {
+      "id": "6a1ed865c9730096027ce0cd",
+      "brandId": "e36f5bbb-3e5f-42e2-be4c-6c32dac101c2",
+      "brandName": "Friopeças",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/20c67e3a-df8b-452d-ad7b-78167fcf350d/logo/logotipo_friopecas_positivo_apenas_icone.png",
+      "name": "Coleção de produtos que estão com 10% OFF",
+      "description": "Coleção de produtos que estão com 10% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/zRgoY9XPAPtW"
+    },
+    {
+      "id": "6a1ed8f6c9730096027ce24a",
+      "brandId": "7f241a92-3f89-4346-86ab-babace37ef8a",
+      "brandName": "Ferramentas Kennedy",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/cf2a1a22-c19c-47c6-acce-ae90c482a13a/logo/transferir.png",
+      "name": " Movimentação e carga",
+      "description": " Movimentação e carga",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/0OryCt9JPUZ4"
+    },
+    {
+      "id": "6a1ed941c9730096027ce2af",
+      "brandId": "7f241a92-3f89-4346-86ab-babace37ef8a",
+      "brandName": "Ferramentas Kennedy",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/cf2a1a22-c19c-47c6-acce-ae90c482a13a/logo/transferir.png",
+      "name": "Festival de Inverno",
+      "description": "Festival de Inverno",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/QP5iwjSUVTU3"
+    },
+    {
+      "id": "6a1ee1f7a97551aec9196f95",
+      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
+      "brandName": "Guess Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
+      "name": "Outlet Feminino- Guess",
+      "description": "Outlet Feminino- Guess",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Je9G04ovSQsL"
+    },
+    {
+      "id": "6a1ee222a97551aec91970a2",
+      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
+      "brandName": "Guess Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
+      "name": "Outlet Masculino- Guess",
+      "description": "Outlet Masculino- Guess",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/ywM5HUkwwriA"
     }
   ]
 }
