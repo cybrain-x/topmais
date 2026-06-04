@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T08:47:40.984Z",
+  "lastUpdated": "2026-06-04T08:12:28.138Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -319,7 +319,7 @@
       "logo": "https://cdn.lomadee.com.br/logos/3b075380-4af3-492b-a335-1369c3c27e4f/logo",
       "segment": "retail",
       "isHighlight": false,
-      "affiliateUrl": null
+      "affiliateUrl": "https://lmdee.link/BwmsmhWpdjXx"
     },
     {
       "id": "3ca484a7-31bf-4799-9dcb-9b4cff3d9931",
@@ -2884,6 +2884,21 @@
       "affiliateUrl": "https://lmdee.link/ER-StLflXFC9"
     },
     {
+      "id": "69f3b6623802c70c247d6fce",
+      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
+      "brandName": "Rovitex",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
+      "code": "DATADUPLA",
+      "description": "Ganhe 15% OFF extra em todo site +10x sem juros*",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/KdqI64SrUeaW"
+    },
+    {
       "id": "6a0470763802c70c2481272a",
       "brandId": "b89e4834-6f7c-4ac8-9972-5d579488432c",
       "brandName": "DeÔnibus",
@@ -3220,57 +3235,54 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/mkrE6efvlNz4"
+    },
+    {
+      "id": "6a203449a97551aec91a8ea6",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "6DO6",
+      "description": "20% OFF em selecionados (Válido adulto e infantil)",
+      "docType": "code",
+      "categories": [
+        "beauty",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/HkvWejlU0sLE"
+    },
+    {
+      "id": "6a206679a97551aec91ad98c",
+      "brandId": "091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1",
+      "brandName": "Dako",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1/logo",
+      "code": "AMBIENTE",
+      "description": "Cupom de 8% de desconto",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1NXDXRtGa1Cf"
+    },
+    {
+      "id": "6a20672ba97551aec91ad9f8",
+      "brandId": "06d4e00d-d3c2-4e01-9874-5a457b5361e6",
+      "brandName": "Atlas",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06d4e00d-d3c2-4e01-9874-5a457b5361e6/logo",
+      "code": "AMBIENTE",
+      "description": "Cupom de 8% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ],
   "offers": [
-    {
-      "id": "6930791f1eb93c75edd4010f",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Amigo Secreto",
-      "description": "Amigo Secreto",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/nESkndqn8Slu"
-    },
-    {
-      "id": "69307a4f1eb93c75edd401c9",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Rasteira",
-      "description": "Banner Rasteira",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/qqypIZOnWSHf"
-    },
-    {
-      "id": "69307b601eb93c75edd40213",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Tênis Casual ",
-      "description": "Banner Tênis Casual ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/n1QNuP9q5Gq-"
-    },
-    {
-      "id": "69307f871eb93c75edd40270",
-      "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
-      "brandName": "Serallê Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/95bc78d7-7b96-4be7-a148-de59dd0209da/logo",
-      "name": "Banner Esportivo",
-      "description": "Banner Esportivo",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/U23n4k8i6o4z"
-    },
     {
       "id": "693080801eb93c75edd40321",
       "brandId": "95bc78d7-7b96-4be7-a148-de59dd0209da",
@@ -3932,42 +3944,6 @@
       "affiliateUrl": "https://lmdee.link/AckEcZRNvbfh"
     },
     {
-      "id": "6a1741cd3802c70c2485a345",
-      "brandId": "c7fda3cb-c9e5-4a06-822d-5d687cc56802",
-      "brandName": "Zupper",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c7fda3cb-c9e5-4a06-822d-5d687cc56802/logo",
-      "name": "Status do feriado: a caminho de Salvador! ✈️",
-      "description": "Status do feriado: a caminho de Salvador! ✈️",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/vu5LvToyq7Q-"
-    },
-    {
-      "id": "6a1742463802c70c2485a362",
-      "brandId": "c7fda3cb-c9e5-4a06-822d-5d687cc56802",
-      "brandName": "Zupper",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c7fda3cb-c9e5-4a06-822d-5d687cc56802/logo",
-      "name": "🏖️ Malas prontas? Seu feriado de Corpus Christi é em Fortaleza!",
-      "description": "🏖️ Malas prontas? Seu feriado de Corpus Christi é em Fortaleza!",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Jn4Dz8yAFfMs"
-    },
-    {
-      "id": "6a1743453802c70c2485a3c0",
-      "brandId": "c7fda3cb-c9e5-4a06-822d-5d687cc56802",
-      "brandName": "Zupper",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c7fda3cb-c9e5-4a06-822d-5d687cc56802/logo",
-      "name": "☀️ Feriadão combina com João Pessoa. Partiu paraíso?",
-      "description": "☀️ Feriadão combina com João Pessoa. Partiu paraíso?",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/z0B0lNYERy-v"
-    },
-    {
       "id": "6a185a2f3802c70c2485f0d9",
       "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
       "brandName": "Up4you",
@@ -4314,6 +4290,54 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ywM5HUkwwriA"
+    },
+    {
+      "id": "6a20348ca97551aec91a8f2c",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "name": "Malwee Kids - 20% OFF em selecionados 🎟️ Usando o cupom 6DO6",
+      "description": "Malwee Kids - 20% OFF em selecionados 🎟️ Usando o cupom 6DO6",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kkBqYOchnPUL"
+    },
+    {
+      "id": "6a205e91a97551aec91ad149",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "Semana Nacional do Vinho Jolimont - Desconto Progressivo",
+      "description": "Semana Nacional do Vinho Jolimont - Desconto Progressivo",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/1rRfslJHikAp"
+    },
+    {
+      "id": "6a2067c8a97551aec91ada7f",
+      "brandId": "10f46c74-c870-4a7a-a486-59d0ebd14f7c",
+      "brandName": "Pneu Store",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/10f46c74-c870-4a7a-a486-59d0ebd14f7c/logo",
+      "name": "Frete grátis em 4 unidades",
+      "description": "Frete grátis em 4 unidades",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dRRJb11uEgA6"
+    },
+    {
+      "id": "6a207f7ea97551aec91b011e",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Jaqueta Puffer Up Baby | Últimas unidades!",
+      "description": "Jaqueta Puffer Up Baby | Últimas unidades!",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/61xl2JOTOPni"
     }
   ]
 }
