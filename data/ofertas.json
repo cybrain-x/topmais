@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T08:12:28.138Z",
+  "lastUpdated": "2026-06-05T07:59:48.542Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -3267,12 +3267,42 @@
       "affiliateUrl": "https://lmdee.link/1NXDXRtGa1Cf"
     },
     {
+      "id": "6a2066b9a97551aec91ad99d",
+      "brandId": "091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1",
+      "brandName": "Dako",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1/logo",
+      "code": "NAMORADOS",
+      "description": "Cupom de 5% de desconto",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/CCpdE3NfQU6-"
+    },
+    {
       "id": "6a20672ba97551aec91ad9f8",
       "brandId": "06d4e00d-d3c2-4e01-9874-5a457b5361e6",
       "brandName": "Atlas",
       "brandLogo": "https://cdn.lomadee.com.br/logos/06d4e00d-d3c2-4e01-9874-5a457b5361e6/logo",
       "code": "AMBIENTE",
       "description": "Cupom de 8% de desconto ",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a206763a97551aec91ada04",
+      "brandId": "06d4e00d-d3c2-4e01-9874-5a457b5361e6",
+      "brandName": "Atlas",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06d4e00d-d3c2-4e01-9874-5a457b5361e6/logo",
+      "code": "NAMORADOS",
+      "description": "Cupom de 5% de desconto ",
       "docType": "code",
       "categories": [
         "shopping",
