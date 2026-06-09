@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T08:45:56.992Z",
+  "lastUpdated": "2026-06-09T07:38:06.129Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -3447,117 +3447,112 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/M8bKM3Ytvybe"
+    },
+    {
+      "id": "6a26c3dca97551aec91f3c48",
+      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
+      "brandName": "Rovitex",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
+      "code": "PROGRESSIVO30",
+      "description": "CUPOM DE 15% OFF ACIMA DE R$ 199 ; e 30% OFF ACIMA DE R$ 349",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/CV8z2n0WBdkk"
+    },
+    {
+      "id": "6a270cd4a97551aec91fb05a",
+      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
+      "brandName": "Morena Rosa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
+      "code": "primeiracompra",
+      "description": "Primeiracompra MR",
+      "docType": "code",
+      "categories": [
+        "industry-and-commerce",
+        "fashion"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kqguuJg-Z2bB"
+    },
+    {
+      "id": "6a2725f4a97551aec91fd9a9",
+      "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
+      "brandName": "Mondial",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
+      "code": "AMOR20",
+      "description": "DIA DOS NAMORADOS [20%]",
+      "docType": "code",
+      "categories": [
+        "promotions"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vRsOyfYY5WNy"
+    },
+    {
+      "id": "6a2736a0a97551aec91ff590",
+      "brandId": "169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1",
+      "brandName": "Iodice",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1/logo",
+      "code": "primeiraiod",
+      "description": "Primeiracompra IOD",
+      "docType": "code",
+      "categories": [
+        "industry-and-commerce"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a27389da97551aec91ffac5",
+      "brandId": "a6bb78df-7055-4184-bd84-51a4cb831bf6",
+      "brandName": "Maria Valentina",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/a6bb78df-7055-4184-bd84-51a4cb831bf6/logo",
+      "code": "primeiramv",
+      "description": "Primeiracompra MV",
+      "docType": "code",
+      "categories": [
+        "industry-and-commerce",
+        "fashion"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/EfqDOOn8Z8oR"
+    },
+    {
+      "id": "6a2739ffa97551aec91ffde5",
+      "brandId": "c0e3dfb9-f402-4267-940d-ae2c4f06b421",
+      "brandName": "Zinco",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c0e3dfb9-f402-4267-940d-ae2c4f06b421/logo",
+      "code": "primeirazin",
+      "description": "Primeiracompra ZIN",
+      "docType": "code",
+      "categories": [
+        "industry-and-commerce",
+        "fashion"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a273c1aa97551aec9200504",
+      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
+      "brandName": "Malwee",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
+      "code": "ENFIM20",
+      "description": "20% OFF em selecionados de moda",
+      "docType": "code",
+      "categories": [
+        "wellness",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/AK1yccW9JF-I"
     }
   ],
   "offers": [
-    {
-      "id": "696fcc5624150750588f9c0c",
-      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
-      "brandName": "Vestis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
-      "name": "TUDO por MENOS de R$50 *nesse link",
-      "description": "TUDO por MENOS de R$50 *nesse link",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/rUkmlQLZtfSS"
-    },
-    {
-      "id": "697229e4a3075d050fcfb8e5",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Coleção Módulos de Cozinha",
-      "description": "Coleção Módulos de Cozinha",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/tA7qTaG387sV"
-    },
-    {
-      "id": "69724421a3075d050fcfc556",
-      "brandId": "10e15c60-c43b-439c-9d53-373bb4388756",
-      "brandName": "Lojão dos Esportes",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/10e15c60-c43b-439c-9d53-373bb4388756/logo",
-      "name": "Camisa do Brasil",
-      "description": "Camisa do Brasil",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/mZdQsR8soqFY"
-    },
-    {
-      "id": "6973535ca3075d050fd014e3",
-      "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
-      "brandName": "Mundo Vem",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/4395b3b8-8d26-4bd3-ab4f-554e39a40ac1/logo",
-      "name": "Sale tudo com 50% OFF",
-      "description": "Sale tudo com 50% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/t7qOLTCsR57S"
-    },
-    {
-      "id": "6984dc3c8c4a76c20ce62ed0",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Lançamentos 2026",
-      "description": "Lançamentos 2026",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/bLp0DAAqKytn"
-    },
-    {
-      "id": "69b00b7f5b90aa51cce897d2",
-      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
-      "brandName": "Nobelpack",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "name": "Sacolas personalizadas com a sua marca",
-      "description": "Sacolas personalizadas com a sua marca",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/IPZ--tlOw-qM"
-    },
-    {
-      "id": "69b029e35b90aa51cce8afe1",
-      "brandId": "b010c05b-3478-47c3-a6c9-69ef72cd2508",
-      "brandName": "Nobelpack",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/9f34f153-cc8d-4724-bf59-a85a66eaf147/logo/file.jpg",
-      "name": "Envelopes personalizados",
-      "description": "Envelopes personalizados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/cpio-21L1Yhd"
-    },
-    {
-      "id": "69c44386768c8f2da458258e",
-      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
-      "brandName": "iRobot",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
-      "name": "Desconto Aspirador Robô Roomba 705+ da iRobot",
-      "description": "Desconto Aspirador Robô Roomba 705+ da iRobot",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fxfL3mG73-cs"
-    },
-    {
-      "id": "69cd24ca768c8f2da45a3f43",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Estampas_OI26",
-      "description": "Estampas_OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/zZelHjo-cvoP"
-    },
     {
       "id": "69cd251a768c8f2da45a3fc9",
       "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
@@ -3787,18 +3782,6 @@
       "affiliateUrl": "https://lmdee.link/NbdLCqCoXpi7"
     },
     {
-      "id": "6a0354b33802c70c2480dc6f",
-      "brandId": "d9a040f8-bb54-40d2-804b-150f007305d0",
-      "brandName": "Toymania",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/d9a040f8-bb54-40d2-804b-150f007305d0/logo",
-      "name": "Álbum da Copa do Mundo Lomadee",
-      "description": "Álbum da Copa do Mundo Lomadee",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/45ncAsFuAaXL"
-    },
-    {
       "id": "6a0370e13802c70c2480eb2a",
       "brandId": "d9a040f8-bb54-40d2-804b-150f007305d0",
       "brandName": "Toymania",
@@ -3881,18 +3864,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/ftbvDqOI-wL-"
-    },
-    {
-      "id": "6a0e194f3802c70c248376b0",
-      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
-      "brandName": "Camisaria Colombo",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
-      "name": "Ritmo de Trabalho - produtos selecionados",
-      "description": "Ritmo de Trabalho - produtos selecionados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/LnSjjhGyGJQg"
     },
     {
       "id": "6a0e19a03802c70c248376ea",
@@ -4553,6 +4524,138 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/GI-x1vlaK8Hu"
+    },
+    {
+      "id": "6a26b2f5a97551aec91f1e28",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "É clima de jogo! Looks para entrar na torcida",
+      "description": "É clima de jogo! Looks para entrar na torcida",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/PvwP7HI9qdCP"
+    },
+    {
+      "id": "6a26b348a97551aec91f1ebe",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Looks para curtir o São João",
+      "description": "Looks para curtir o São João",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-kFDUi2pQjCG"
+    },
+    {
+      "id": "6a26c50aa97551aec91f3e12",
+      "brandId": "3b075380-4af3-492b-a335-1369c3c27e4f",
+      "brandName": "Make Norte",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3b075380-4af3-492b-a335-1369c3c27e4f/logo",
+      "name": "Compre e ganhe Brinde Mascaso!",
+      "description": "Compre e ganhe Brinde Mascaso!",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/w8CYRS-EH6Qp"
+    },
+    {
+      "id": "6a270a5ca97551aec91fabd6",
+      "brandId": "c0e3dfb9-f402-4267-940d-ae2c4f06b421",
+      "brandName": "Zinco",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c0e3dfb9-f402-4267-940d-ae2c4f06b421/logo",
+      "name": "Peças com 70% OFF - Lebôh",
+      "description": "Peças com 70% OFF - Lebôh",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a270e51a97551aec91fb2ef",
+      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
+      "brandName": "Morena Rosa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
+      "name": "pix 5% MR",
+      "description": "pix 5% MR",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8QcO-sMdKEyI"
+    },
+    {
+      "id": "6a270eada97551aec91fb373",
+      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
+      "brandName": "Morena Rosa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
+      "name": "Beach 30% OFF",
+      "description": "Beach 30% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/BPUC-35GnF1X"
+    },
+    {
+      "id": "6a270f64a97551aec91fb526",
+      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
+      "brandName": "Morena Rosa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
+      "name": "Copa MR ",
+      "description": "Copa MR ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/BCL2D6Rrcwis"
+    },
+    {
+      "id": "6a270fb5a97551aec91fb618",
+      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
+      "brandName": "Morena Rosa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
+      "name": "MR STUDIO ",
+      "description": "MR STUDIO ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/I4LVmO7h9KFw"
+    },
+    {
+      "id": "6a2712f2a97551aec91fbe9f",
+      "brandId": "3b075380-4af3-492b-a335-1369c3c27e4f",
+      "brandName": "Make Norte",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3b075380-4af3-492b-a335-1369c3c27e4f/logo",
+      "name": "Dia dos Namorados",
+      "description": "Dia dos Namorados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JSuaPmeA0Xd9"
+    },
+    {
+      "id": "6a2723a8a97551aec91fd72f",
+      "brandId": "6fe8dae4-a946-4c32-8142-18de9ac8b608",
+      "brandName": "Vinícola Jolimont",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6fe8dae4-a946-4c32-8142-18de9ac8b608/logo",
+      "name": "COMPRE E GANHE",
+      "description": "COMPRE E GANHE",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/WIbLf0TXBcQa"
+    },
+    {
+      "id": "6a273c88a97551aec92005f9",
+      "brandId": "9ad41f3f-431f-44e9-bf4c-ead611331557",
+      "brandName": "Up4you",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ad41f3f-431f-44e9-bf4c-ead611331557/logo",
+      "name": "Copa do Mundo- Malas médias e grandes com descontos especiais",
+      "description": "Copa do Mundo- Malas médias e grandes com descontos especiais",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fGAVdQRMMCVe"
     }
   ]
 }
