@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T07:38:06.129Z",
+  "lastUpdated": "2026-06-10T08:00:03.594Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2503,6 +2503,51 @@
       "affiliateUrl": "https://lmdee.link/gTdrfMHfaakA"
     },
     {
+      "id": "6972362da3075d050fcfbf24",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "OFERTA5",
+      "description": "Cupom de 5% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/L9Cqh0j8wn2a"
+    },
+    {
+      "id": "697236a1a3075d050fcfbf61",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "OFERTA10",
+      "description": "Cupom de 10% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/XmXmpe62kk7B"
+    },
+    {
+      "id": "697236e6a3075d050fcfbf97",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "code": "OFERTA15",
+      "description": "Cupom de 15% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/fwUbaVfN40ZK"
+    },
+    {
       "id": "69a591205b90aa51cce55c9a",
       "brandId": "37c43619-9b1b-429f-9c86-e3ca2be3148e",
       "brandName": "Coza",
@@ -2524,20 +2569,6 @@
       "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
       "code": "VITAMINAS10",
       "description": "R$10 OFF válido para compras acima de R$100 e apenas produtos selecionados. \t\t\t",
-      "docType": "code",
-      "categories": [
-        "health"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "69b015d75b90aa51cce89d09",
-      "brandId": "1fcee90e-562e-455c-97a5-6bdd6d60b589",
-      "brandName": "Drogaria Rosário",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/dabd2b17-1442-44e4-aea5-49cbd81cde35/logo",
-      "code": "ADULTO12",
-      "description": "R$12 OFF em Compras acima de R$130,00 e apenas para produtos selecionados. Somente uma utilização por CPF.\t\t\t",
       "docType": "code",
       "categories": [
         "health"
@@ -2691,21 +2722,6 @@
       "categories": [
         "beauty",
         "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "69b03e5d5b90aa51cce8c0a1",
-      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
-      "brandName": "Drogasmil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
-      "code": "ADULTO12",
-      "description": "R$12 OFF Compras acima de R$130,00 e apenas para produtos selecionados. Somente uma utilização por CPF.\t\t\t \t\t\t",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "wellness"
       ],
       "isHighlight": false,
       "affiliateUrl": null
@@ -3255,21 +3271,6 @@
       "affiliateUrl": "https://lmdee.link/mkrE6efvlNz4"
     },
     {
-      "id": "6a206679a97551aec91ad98c",
-      "brandId": "091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1",
-      "brandName": "Dako",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1/logo",
-      "code": "AMBIENTE",
-      "description": "Cupom de 8% de desconto",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/1NXDXRtGa1Cf"
-    },
-    {
       "id": "6a2066b9a97551aec91ad99d",
       "brandId": "091e0eb2-8a5d-4d23-a7a6-0ad51639c1d1",
       "brandName": "Dako",
@@ -3285,21 +3286,6 @@
       "affiliateUrl": "https://lmdee.link/CCpdE3NfQU6-"
     },
     {
-      "id": "6a20672ba97551aec91ad9f8",
-      "brandId": "06d4e00d-d3c2-4e01-9874-5a457b5361e6",
-      "brandName": "Atlas",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/06d4e00d-d3c2-4e01-9874-5a457b5361e6/logo",
-      "code": "AMBIENTE",
-      "description": "Cupom de 8% de desconto ",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
       "id": "6a206763a97551aec91ada04",
       "brandId": "06d4e00d-d3c2-4e01-9874-5a457b5361e6",
       "brandName": "Atlas",
@@ -3313,20 +3299,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
-    },
-    {
-      "id": "6a22d1b5a97551aec91c8825",
-      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
-      "brandName": "Vestis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
-      "code": "24HORAS",
-      "description": "24h de 24% EXTRA",
-      "docType": "code",
-      "categories": [
-        "fashion"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Av4Ug5gvMl6X"
     },
     {
       "id": "6a22d430a97551aec91c8f23",
@@ -3369,20 +3341,6 @@
       "docType": "code",
       "categories": [
         "health"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "6a2322f0a97551aec91d2ccf",
-      "brandId": "d855f505-7e26-4961-a182-c2139aeadd2c",
-      "brandName": "Drogasmil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/d855f505-7e26-4961-a182-c2139aeadd2c/logo",
-      "code": "ADULTO12",
-      "description": "R$12 OFF Compras acima de R$130,00 e apenas para produtos selecionados. Somente uma utilização por CPF",
-      "docType": "code",
-      "categories": [
-        "shopping"
       ],
       "isHighlight": false,
       "affiliateUrl": null
@@ -3550,105 +3508,99 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/AK1yccW9JF-I"
+    },
+    {
+      "id": "6a28079aa97551aec9207772",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "WEEK5",
+      "description": "Cupom de 5% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dgvSpMP9WIRZ"
+    },
+    {
+      "id": "6a2807dea97551aec92077b8",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "WEEK10",
+      "description": "Cupom de 10% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/yMYNYTyq3AkG"
+    },
+    {
+      "id": "6a28080fa97551aec9207839",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "code": "WEEK15",
+      "description": "Cupom de 15% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration",
+        "shopping"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-jwbAHpNlOph"
+    },
+    {
+      "id": "6a2831bba97551aec920c2f7",
+      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
+      "brandName": "Morena Rosa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
+      "code": "MR10",
+      "description": "10% OFF no fullprice",
+      "docType": "code",
+      "categories": [
+        "industry-and-commerce",
+        "fashion"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/B8SkFVZzqNrE"
+    },
+    {
+      "id": "6a283670a97551aec920cb05",
+      "brandId": "a6bb78df-7055-4184-bd84-51a4cb831bf6",
+      "brandName": "Maria Valentina",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/a6bb78df-7055-4184-bd84-51a4cb831bf6/logo",
+      "code": "MV10",
+      "description": "10% OFF no fullprice",
+      "docType": "code",
+      "categories": [
+        "industry-and-commerce",
+        "fashion"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/eJlhqgsmEEVP"
+    },
+    {
+      "id": "6a283790a97551aec920cc25",
+      "brandId": "169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1",
+      "brandName": "Iodice",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1/logo",
+      "code": "IOD10",
+      "description": "10% OFF no fullprice",
+      "docType": "code",
+      "categories": [
+        "industry-and-commerce",
+        "fashion"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
     }
   ],
   "offers": [
-    {
-      "id": "69cd251a768c8f2da45a3fc9",
-      "brandId": "07365f74-02b7-481f-bb71-98a4929240b6",
-      "brandName": "Soulier",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/07365f74-02b7-481f-bb71-98a4929240b6/logo",
-      "name": "Classicos_OI26",
-      "description": "Classicos_OI26",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/QvtoH7pwGMwW"
-    },
-    {
-      "id": "69ce5cc2768c8f2da45a9b81",
-      "brandId": "fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8",
-      "brandName": "Grendene",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/fd07cedd-6cc6-4a5e-ab85-cc0d9a474be8/logo",
-      "name": "Outlet até 60% Off ",
-      "description": "Outlet até 60% Off ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "69d6c79c768c8f2da45caeb6",
-      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
-      "brandName": "iRobot",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
-      "name": "Roomba 105+ - Campanha de Abril (Comunicação: Parcelamento, Percentual de Desconto)",
-      "description": "Roomba 105+ - Campanha de Abril (Comunicação: Parcelamento, Percentual de Desconto)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/lXWCVSiirv2Y"
-    },
-    {
-      "id": "69dd3347768c8f2da45e0d31",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Coleção de Frete Reduzido R$50 de desconto",
-      "description": "Coleção de Frete Reduzido R$50 de desconto",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/KrBJotXUaYR4"
-    },
-    {
-      "id": "69ef751e3802c70c247c0173",
-      "brandId": "a0124a6a-c622-4b7d-a560-bc75a515b542",
-      "brandName": "Kidy Calçados",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/a0124a6a-c622-4b7d-a560-bc75a515b542/logo",
-      "name": "Produtos Outlet Kidy Calçados",
-      "description": "Produtos Outlet Kidy Calçados",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/4nDmSC3gI4hf"
-    },
-    {
-      "id": "69efc5ed3802c70c247c3346",
-      "brandId": "f31e32be-c116-4739-85a3-43f85681b237",
-      "brandName": "Móveis Carraro",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/f31e32be-c116-4739-85a3-43f85681b237/logo",
-      "name": "Frete Grátis para Sul e SP em itens selecionados🔥",
-      "description": "Frete Grátis para Sul e SP em itens selecionados🔥",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/w2V08Bm4BRhB"
-    },
-    {
-      "id": "69f0c9a83802c70c247c6d91",
-      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
-      "brandName": "iRobot",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
-      "name": "Dia Das Mães 2026 - iRobot",
-      "description": "Dia Das Mães 2026 - iRobot",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7wyj1k8DGweY"
-    },
-    {
-      "id": "69f0ca993802c70c247c6e01",
-      "brandId": "9c5602b5-365f-4a43-b7d6-fb69643e55b0",
-      "brandName": "iRobot",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9c5602b5-365f-4a43-b7d6-fb69643e55b0/logo",
-      "name": "Cupom Dia Das Mães - Banner",
-      "description": "Cupom Dia Das Mães - Banner",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/Lp8eD0DJGZ2F"
-    },
     {
       "id": "69f8bed13802c70c247e4e5d",
       "brandId": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
@@ -4358,18 +4310,6 @@
       "affiliateUrl": "https://lmdee.link/61xl2JOTOPni"
     },
     {
-      "id": "6a22d1f4a97551aec91c8907",
-      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
-      "brandName": "Vestis",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
-      "name": "24h de 24% EXTRA | Cupom: 24HORAS",
-      "description": "24h de 24% EXTRA | Cupom: 24HORAS",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/NT1F8wGTBg9r"
-    },
-    {
       "id": "6a22f17fa97551aec91cc5a2",
       "brandId": "2e12febc-de9f-4d9f-924c-741f13e41cb7",
       "brandName": "Amakha Paris",
@@ -4562,6 +4502,18 @@
       "affiliateUrl": "https://lmdee.link/w8CYRS-EH6Qp"
     },
     {
+      "id": "6a26f8ada97551aec91f87bb",
+      "brandId": "e1d43df5-8c98-4f7a-9f75-e507ecbd649c",
+      "brandName": "Xiaomi Brasil",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/e1d43df5-8c98-4f7a-9f75-e507ecbd649c/logo",
+      "name": "2026.06 - Dia dos Namorados",
+      "description": "2026.06 - Dia dos Namorados",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Yiylsq2Citxf"
+    },
+    {
       "id": "6a270a5ca97551aec91fabd6",
       "brandId": "c0e3dfb9-f402-4267-940d-ae2c4f06b421",
       "brandName": "Zinco",
@@ -4602,20 +4554,32 @@
       "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
       "brandName": "Morena Rosa",
       "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
-      "name": "Copa MR ",
-      "description": "Copa MR ",
+      "name": "Especial para torcer MR ",
+      "description": "Especial para torcer MR ",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/BCL2D6Rrcwis"
     },
     {
+      "id": "6a270fa2a97551aec91fb5a1",
+      "brandId": "0f15db57-cb67-47d7-9a8b-666bdc62e7b6",
+      "brandName": "PCYES",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/98ac69c6-20a4-49ed-8be1-508d7aac8087/logo/Simbolo_Vermelho_fundo_Preto.jpg",
+      "name": "Copa PCYES",
+      "description": "Copa PCYES",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/U1k-69r-y24t"
+    },
+    {
       "id": "6a270fb5a97551aec91fb618",
       "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
       "brandName": "Morena Rosa",
       "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
-      "name": "MR STUDIO ",
-      "description": "MR STUDIO ",
+      "name": "Linha Festa Morena Rosa",
+      "description": "Linha Festa Morena Rosa",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
@@ -4656,6 +4620,126 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/fGAVdQRMMCVe"
+    },
+    {
+      "id": "6a280853a97551aec9207875",
+      "brandId": "3ce3e173-b3ba-4134-b871-f1c23dd56cb5",
+      "brandName": "Electrolux",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/3ce3e173-b3ba-4134-b871-f1c23dd56cb5/logo",
+      "name": "Condição Comercial: Até R$ 3.000 OFF + Cupons de até 15% OFF + Até 15% OFF no PIX",
+      "description": "Condição Comercial: Até R$ 3.000 OFF + Cupons de até 15% OFF + Até 15% OFF no PIX",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/xANQ8kCU1n8L"
+    },
+    {
+      "id": "6a28094ba97551aec9207bfe",
+      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
+      "brandName": "Shopclub",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
+      "name": "Condição Comercial: Até 50% off + cupom até 15% + frete grátis*",
+      "description": "Condição Comercial: Até 50% off + cupom até 15% + frete grátis*",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/SHDtBTL6jf6f"
+    },
+    {
+      "id": "6a283070a97551aec920c182",
+      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
+      "brandName": "Morena Rosa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
+      "name": "Esquenta Sale 50% OFF - MR ",
+      "description": "Esquenta Sale 50% OFF - MR ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/8DHS5jm0Eg9v"
+    },
+    {
+      "id": "6a28351ca97551aec920c88b",
+      "brandId": "c0e3dfb9-f402-4267-940d-ae2c4f06b421",
+      "brandName": "Zinco",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c0e3dfb9-f402-4267-940d-ae2c4f06b421/logo",
+      "name": "Esquenta Sale 50% OFF - ZIN",
+      "description": "Esquenta Sale 50% OFF - ZIN",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a28362ea97551aec920ca52",
+      "brandId": "a6bb78df-7055-4184-bd84-51a4cb831bf6",
+      "brandName": "Maria Valentina",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/a6bb78df-7055-4184-bd84-51a4cb831bf6/logo",
+      "name": "Esquenta Sale 50% OFF - MV",
+      "description": "Esquenta Sale 50% OFF - MV",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/a8lXhKJVXUOt"
+    },
+    {
+      "id": "6a283735a97551aec920cba7",
+      "brandId": "169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1",
+      "brandName": "Iodice",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1/logo",
+      "name": "Esquenta Sale 50% OFF - IOD",
+      "description": "Esquenta Sale 50% OFF - IOD",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a28432aa97551aec920e88c",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Saldos com até 70% OFF",
+      "description": "Saldos com até 70% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/JBV7eDotJkAv"
+    },
+    {
+      "id": "6a28438da97551aec920e901",
+      "brandId": "6877a08a-be27-4b5d-844e-db4689a58256",
+      "brandName": "Vestis",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/6877a08a-be27-4b5d-844e-db4689a58256/logo",
+      "name": "Achadinhos de Inverno por menos de R$ 150",
+      "description": "Achadinhos de Inverno por menos de R$ 150",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/Q8jDUnyhqbTk"
+    },
+    {
+      "id": "6a285c00a97551aec9211835",
+      "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
+      "brandName": "Mondial",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
+      "name": "AFILIADOS AIR FRYER [R$ 150,00 OFF] - 06.26",
+      "description": "AFILIADOS AIR FRYER [R$ 150,00 OFF] - 06.26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/vZMB0XP-a7t0"
+    },
+    {
+      "id": "6a285f39a97551aec9211d68",
+      "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
+      "brandName": "Mondial",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
+      "name": "AFILIADOS AQUECEDOR [15%] - 06.26",
+      "description": "AFILIADOS AQUECEDOR [15%] - 06.26",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/UQ2p-mxxQR1n"
     }
   ]
 }
