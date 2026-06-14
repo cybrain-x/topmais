@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T07:39:49.094Z",
+  "lastUpdated": "2026-06-14T08:09:06.163Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -3403,20 +3403,6 @@
       "affiliateUrl": "https://lmdee.link/kqguuJg-Z2bB"
     },
     {
-      "id": "6a2725f4a97551aec91fd9a9",
-      "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
-      "brandName": "Mondial",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7/logo",
-      "code": "AMOR20",
-      "description": "DIA DOS NAMORADOS [20%]",
-      "docType": "code",
-      "categories": [
-        "promotions"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/vRsOyfYY5WNy"
-    },
-    {
       "id": "6a2736a0a97551aec91ff590",
       "brandId": "169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1",
       "brandName": "Iodice",
@@ -3534,22 +3520,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/A5Opn-2RmfTV"
-    },
-    {
-      "id": "6a2c4177a97551aec9247c8f",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "BRASIL",
-      "description": "FRETE GRÁTIS acima de R$ 99 em todo site",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping",
-        "wellness"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fs4OSXWV1YzM"
     },
     {
       "id": "6a2c41b1a97551aec9247d6e",
@@ -5369,18 +5339,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/AckEcZRNvbfh"
-    },
-    {
-      "id": "6a1889003802c70c2485ff29",
-      "brandId": "cda2b486-0ba6-4be9-8944-5d5096735e03",
-      "brandName": "Buddha SPA",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/cda2b486-0ba6-4be9-8944-5d5096735e03/logo",
-      "name": "Campanha dia dos namorados - MATCH PERFEITO   (Compre e ganhe)",
-      "description": "Campanha dia dos namorados - MATCH PERFEITO   (Compre e ganhe)",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/xn6PRzj936C0"
     },
     {
       "id": "6a18a2353802c70c24860bab",
