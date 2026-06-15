@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T08:09:06.163Z",
+  "lastUpdated": "2026-06-15T09:52:13.892Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -3373,21 +3373,6 @@
       "affiliateUrl": "https://lmdee.link/M8bKM3Ytvybe"
     },
     {
-      "id": "6a26c3dca97551aec91f3c48",
-      "brandId": "bbe8757f-7781-436c-a63d-aa86495a6a81",
-      "brandName": "Rovitex",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/bbe8757f-7781-436c-a63d-aa86495a6a81/logo",
-      "code": "PROGRESSIVO30",
-      "description": "CUPOM DE 15% OFF ACIMA DE R$ 199 ; e 30% OFF ACIMA DE R$ 349",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "beauty"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/CV8z2n0WBdkk"
-    },
-    {
       "id": "6a270cd4a97551aec91fb05a",
       "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
       "brandName": "Morena Rosa",
@@ -3447,21 +3432,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "6a273c1aa97551aec9200504",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "ENFIM20",
-      "description": "20% OFF em selecionados de moda",
-      "docType": "code",
-      "categories": [
-        "wellness",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/AK1yccW9JF-I"
-    },
-    {
       "id": "6a2831bba97551aec920c2f7",
       "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
       "brandName": "Morena Rosa",
@@ -3505,36 +3475,6 @@
       ],
       "isHighlight": false,
       "affiliateUrl": null
-    },
-    {
-      "id": "6a2c4129a97551aec9247b87",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "PIJAMAS",
-      "description": "15% OFF em pijamas infantis",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "wellness"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/A5Opn-2RmfTV"
-    },
-    {
-      "id": "6a2c41b1a97551aec9247d6e",
-      "brandId": "c364d4e3-56e2-4da9-a6ea-195716da559a",
-      "brandName": "Malwee",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c364d4e3-56e2-4da9-a6ea-195716da559a/logo",
-      "code": "PROMO15",
-      "description": "15% OFF em selecionados de moda",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/1jcB4EWofwlB"
     },
     {
       "id": "6a2c617ca97551aec924bde7",
@@ -5843,18 +5783,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/Ks9YNSSQrOvg"
-    },
-    {
-      "id": "6a29b623a97551aec9226bb3",
-      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
-      "brandName": "Camisaria Colombo",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
-      "name": "Black Weekend",
-      "description": "Black Weekend",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/xpyEOCI2CMxv"
     },
     {
       "id": "6a2aac06a97551aec9230bf0",
