@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T09:17:28.258Z",
+  "lastUpdated": "2026-06-17T08:53:44.140Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2453,21 +2453,6 @@
       "affiliateUrl": "https://lmdee.link/JIr5QJ5CWlSk"
     },
     {
-      "id": "6941b7402415075058869af4",
-      "brandId": "64e0d5de-f8c7-4823-ab4e-072f0fd767de",
-      "brandName": "Shopclub",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/64e0d5de-f8c7-4823-ab4e-072f0fd767de/logo",
-      "code": "GANHE5",
-      "description": "5% de desconto em produtos selecionados",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration",
-        "shopping"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/L3nkfx5UGFsa"
-    },
-    {
       "id": "696a51b024150750588e5674",
       "brandId": "b3d8f33b-dfc0-4091-a8e3-5b1f335114e0",
       "brandName": "Casa das Alianças",
@@ -3041,21 +3026,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "6a15cbad3802c70c24852f1e",
-      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
-      "brandName": "Brinox",
-      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
-      "code": "APAIXONADOS",
-      "description": "15% OFF nos produtos selecionados do link",
-      "docType": "code",
-      "categories": [
-        "shopping",
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/xtvncMHPdVBl"
-    },
-    {
       "id": "6a15ccca3802c70c24853011",
       "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
       "brandName": "Brinox",
@@ -3425,20 +3395,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "6a2c617ca97551aec924bde7",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "code": "namorados10",
-      "description": "Namorados 10 ",
-      "docType": "code",
-      "categories": [
-        "home-and-decoration"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/3ulCIeFL25W1"
-    },
-    {
       "id": "6a305dbdbe63ec4a58f7eed2",
       "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
       "brandName": "Guess Brasil",
@@ -3453,6 +3409,21 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/7vAEYczU13nF"
+    },
+    {
+      "id": "6a314d42be63ec4a58f886c6",
+      "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
+      "brandName": "Brinox",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/4464383f-18f6-4fce-a364-2fc1b9894632/logo/brinox-1-1.png",
+      "code": "NOVIDADE15",
+      "description": "Cupom de 15% de desconto para produtos no link selecionado",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/rF1qEgKrqk11"
     }
   ],
   "offers": [
@@ -5809,30 +5780,6 @@
       "affiliateUrl": "https://lmdee.link/RJfU0pzMXdKS"
     },
     {
-      "id": "6a304a5dbe63ec4a58f7d02a",
-      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
-      "brandName": "Camisaria Colombo",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
-      "name": "Ofertas camisa polo: 1 por R$ 59,90 e 2 por R$ 99,99",
-      "description": "Ofertas camisa polo: 1 por R$ 59,90 e 2 por R$ 99,99",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/yijBPcnbYCGy"
-    },
-    {
-      "id": "6a304a9fbe63ec4a58f7d0d8",
-      "brandId": "6b5363cb-94b8-42ee-8938-b71a1234eb08",
-      "brandName": "Camisaria Colombo",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/6b5363cb-94b8-42ee-8938-b71a1234eb08/logo",
-      "name": "Lançamento Terno Salvatore Botto: De: R$ 999,99 por R$ 599,99",
-      "description": "Lançamento Terno Salvatore Botto: De: R$ 999,99 por R$ 599,99",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/9N2euvfWqLE1"
-    },
-    {
       "id": "6a305d66be63ec4a58f7eea3",
       "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
       "brandName": "Guess Brasil",
@@ -5843,6 +5790,42 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/fXMQoTNwQHBw"
+    },
+    {
+      "id": "6a314bc1be63ec4a58f88405",
+      "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
+      "brandName": "Ortope",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7/logo",
+      "name": "Combo DNA Flex: 2 Tênis por R$ 159,90",
+      "description": "Combo DNA Flex: 2 Tênis por R$ 159,90",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/dPtArPx3WxXE"
+    },
+    {
+      "id": "6a318126be63ec4a58f8d369",
+      "brandId": "3ac8822c-900d-46f3-ae72-67c155a3ba99",
+      "brandName": "Openbox2",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/e2fa694d-566d-4af9-9fa7-dc4f29387eec/logo/transferir%20%281%29.jpeg",
+      "name": "Pânico de Ofertas Openbox2",
+      "description": "Pânico de Ofertas Openbox2",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/-zKv-Rn4yMAm"
+    },
+    {
+      "id": "6a318c4dbe63ec4a58f8df8f",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "name": "Oferta de eletros com até 44% OFF",
+      "description": "Oferta de eletros com até 44% OFF",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/W0146QEZhTZF"
     }
   ]
 }
