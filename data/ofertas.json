@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T08:53:44.140Z",
+  "lastUpdated": "2026-06-18T08:37:35.195Z",
   "brands": [
     {
       "id": "038925ab-7cd8-462d-9c27-1266f14ee3b2",
@@ -2774,6 +2774,20 @@
       "affiliateUrl": "https://lmdee.link/i3VxWyICWvpS"
     },
     {
+      "id": "69d7a5ba768c8f2da45cd5e6",
+      "brandId": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
+      "brandName": "Concórdia Informática ",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/6d568a33-7292-4219-b9e0-4217900b3d11/logo/02.png",
+      "code": "CADEIRAROSA",
+      "description": "CUPOM DE 5% NA CADEIRA ROSA CONCÓRDIA",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
       "id": "69e0f306768c8f2da45f0ec5",
       "brandId": "c43edf8e-c151-474a-83e8-d52ec3e13a24",
       "brandName": "FOM",
@@ -3395,22 +3409,6 @@
       "affiliateUrl": null
     },
     {
-      "id": "6a305dbdbe63ec4a58f7eed2",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "code": "NOITE15",
-      "description": "Cupom de 15% de desconto ",
-      "docType": "code",
-      "categories": [
-        "beauty",
-        "shopping",
-        "wellness"
-      ],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/7vAEYczU13nF"
-    },
-    {
       "id": "6a314d42be63ec4a58f886c6",
       "brandId": "24e709ab-e640-445b-864a-41223d9eab2e",
       "brandName": "Brinox",
@@ -3424,6 +3422,118 @@
       ],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/rF1qEgKrqk11"
+    },
+    {
+      "id": "6a32ce27be63ec4a58f9dfc0",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "BOLSASALON",
+      "description": "Compre o Kit Salon Line Creme De Pentear 5 Em 1 Tratamento Prolongado 1Kg + Gelatina #todecacho Super Definição 1kg + Óleo Capilar SOS Super óleos 100ml e ganhe uma bolsa exclusiva!",
+      "docType": "code",
+      "categories": [
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/v2VaKRpiLqGb"
+    },
+    {
+      "id": "6a32ce6ebe63ec4a58f9e036",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "ESCOVAKOL",
+      "description": "Compre o Kit Koleston Condicionador De Tratamento + Óleo Capilar  Utilize o cupom ESCOVAKOL e ganhe uma escova de cabelo",
+      "docType": "code",
+      "categories": [
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/kdrG13dsmQ8L"
+    },
+    {
+      "id": "6a32ce9fbe63ec4a58f9e0f2",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "LOLADOCE",
+      "description": "Compre R$ 69,90 em Lola e ganhe necessaire",
+      "docType": "code",
+      "categories": [
+        "beauty"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/PXqf32sxn2SI"
+    },
+    {
+      "id": "6a32cedbbe63ec4a58f9e16c",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "code": "WELLABRILL",
+      "description": "Compre uma Máscara Capilar Wella Invigo Color Brilliance 500ml e ganhe um Shampoo Wella Invigo Color Brilliance 250ml ",
+      "docType": "code",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/spyVrUe-0JJd"
+    },
+    {
+      "id": "6a32f6e1abad9f7c83b64d18",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "batebola10",
+      "description": "Bate bola 10",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/WJyqGIbngmr4"
+    },
+    {
+      "id": "6a32f7e7abad9f7c83b64e04",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "code": "Balacopa2026",
+      "description": "Bala copa 2026",
+      "docType": "code",
+      "categories": [
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7h-w2OupH65D"
+    },
+    {
+      "id": "6a33082aabad9f7c83b65dac",
+      "brandId": "33118c59-a426-4e13-b4b4-55269d3ee516",
+      "brandName": "Kappesberg",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/33118c59-a426-4e13-b4b4-55269d3ee516/logo",
+      "code": "SONHOS",
+      "description": "Cupom de até 20% de desconto em produtos selecionados",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/7974iu9Yp4LQ"
+    },
+    {
+      "id": "6a330866abad9f7c83b65dfe",
+      "brandId": "33118c59-a426-4e13-b4b4-55269d3ee516",
+      "brandName": "Kappesberg",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/33118c59-a426-4e13-b4b4-55269d3ee516/logo",
+      "code": "CAMPEAO",
+      "description": "Cupom de até 12% OFF",
+      "docType": "code",
+      "categories": [
+        "shopping",
+        "home-and-decoration"
+      ],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/yj8HgW-FvRd2"
     }
   ],
   "offers": [
@@ -5552,18 +5662,6 @@
       "affiliateUrl": "https://lmdee.link/fGAVdQRMMCVe"
     },
     {
-      "id": "6a28351ca97551aec920c88b",
-      "brandId": "c0e3dfb9-f402-4267-940d-ae2c4f06b421",
-      "brandName": "Zinco",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c0e3dfb9-f402-4267-940d-ae2c4f06b421/logo",
-      "name": "Sale 50% OFF em todo Outlet por tempo limitado",
-      "description": "Sale 50% OFF em todo Outlet por tempo limitado",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
       "id": "6a285c00a97551aec9211835",
       "brandId": "dd63a240-cb9d-42d6-bfc9-2310c7fbd0d7",
       "brandName": "Mondial",
@@ -5660,78 +5758,6 @@
       "affiliateUrl": "https://lmdee.link/PG4pE6gpN4ea"
     },
     {
-      "id": "6a2b1d71a97551aec9239e4b",
-      "brandId": "169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1",
-      "brandName": "Iodice",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1/logo",
-      "name": "Começou a SALE: Tudo 30% OFF na seleção de Inverno & 50% OFF no Outlet 💥",
-      "description": "Começou a SALE: Tudo 30% OFF na seleção de Inverno & 50% OFF no Outlet 💥",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "6a2b1ebca97551aec9239fea",
-      "brandId": "169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1",
-      "brandName": "Iodice",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1/logo",
-      "name": "Sale - 30% OFF nas seleções especiais de Inverno ",
-      "description": "Sale - 30% OFF nas seleções especiais de Inverno ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
-      "id": "6a2c168da97551aec924421d",
-      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
-      "brandName": "BALAROTI",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
-      "name": "Chuveiros e Duchas Balaroti ",
-      "description": "Chuveiros e Duchas Balaroti ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/ibDMNaOZXnVy"
-    },
-    {
-      "id": "6a2c1de2a97551aec92450dd",
-      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
-      "brandName": "Morena Rosa",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
-      "name": "Sale Tudo 50% OFF - Por tempo limitado",
-      "description": "Sale Tudo 50% OFF - Por tempo limitado",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/OEmfauZMKZsT"
-    },
-    {
-      "id": "6a2c3c24a97551aec924731d",
-      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
-      "brandName": "Morena Rosa",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
-      "name": "Sale - Tudo 30% OFF na seleção de inverno ",
-      "description": "Sale - Tudo 30% OFF na seleção de inverno ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/wVhMUm452rrP"
-    },
-    {
-      "id": "6a2c3dc6a97551aec924769d",
-      "brandId": "c0e3dfb9-f402-4267-940d-ae2c4f06b421",
-      "brandName": "Zinco",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/c0e3dfb9-f402-4267-940d-ae2c4f06b421/logo",
-      "name": "Sale - Tudo 30% OFF na seleção de inverno ",
-      "description": "Sale - Tudo 30% OFF na seleção de inverno ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": null
-    },
-    {
       "id": "6a2c52d8a97551aec9249c7c",
       "brandId": "a6bb78df-7055-4184-bd84-51a4cb831bf6",
       "brandName": "Maria Valentina",
@@ -5742,18 +5768,6 @@
       "categories": [],
       "isHighlight": false,
       "affiliateUrl": "https://lmdee.link/L4PmPfPDQTL1"
-    },
-    {
-      "id": "6a2c53cea97551aec9249e53",
-      "brandId": "a6bb78df-7055-4184-bd84-51a4cb831bf6",
-      "brandName": "Maria Valentina",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/a6bb78df-7055-4184-bd84-51a4cb831bf6/logo",
-      "name": "Sale Tudo 50% OFF no Outlet + 30% OFF seleção de Inverno ",
-      "description": "Sale Tudo 50% OFF no Outlet + 30% OFF seleção de Inverno ",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/cXP8D4yylyf-"
     },
     {
       "id": "6a301a38be63ec4a58f7936f",
@@ -5780,18 +5794,6 @@
       "affiliateUrl": "https://lmdee.link/RJfU0pzMXdKS"
     },
     {
-      "id": "6a305d66be63ec4a58f7eea3",
-      "brandId": "836cf386-910f-4065-a9d5-bfb1d18731d6",
-      "brandName": "Guess Brasil",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/836cf386-910f-4065-a9d5-bfb1d18731d6/logo",
-      "name": "Madrugadão Guess com 15% OFF",
-      "description": "Madrugadão Guess com 15% OFF",
-      "docType": "offer",
-      "categories": [],
-      "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/fXMQoTNwQHBw"
-    },
-    {
       "id": "6a314bc1be63ec4a58f88405",
       "brandId": "9aad28fe-dddf-4b4e-81c7-cdfaf5f00ee7",
       "brandName": "Ortope",
@@ -5816,16 +5818,88 @@
       "affiliateUrl": "https://lmdee.link/-zKv-Rn4yMAm"
     },
     {
-      "id": "6a318c4dbe63ec4a58f8df8f",
-      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
-      "brandName": "Lojas REDE",
-      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
-      "name": "Oferta de eletros com até 44% OFF",
-      "description": "Oferta de eletros com até 44% OFF",
+      "id": "6a319d73be63ec4a58f8f915",
+      "brandId": "c0e3dfb9-f402-4267-940d-ae2c4f06b421",
+      "brandName": "Zinco",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/c0e3dfb9-f402-4267-940d-ae2c4f06b421/logo",
+      "name": "Novidades no Outlet: Até 60% OFF + Frete Grátis Por tempo limitado",
+      "description": "Novidades no Outlet: Até 60% OFF + Frete Grátis Por tempo limitado",
       "docType": "offer",
       "categories": [],
       "isHighlight": false,
-      "affiliateUrl": "https://lmdee.link/W0146QEZhTZF"
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a32aae6be63ec4a58f9bbc4",
+      "brandId": "0be8654f-50a4-4b87-9a2f-21d6d1d32d6c",
+      "brandName": "Concórdia Informática ",
+      "brandLogo": "https://cdn.lomadee.com.br/domain/6d568a33-7292-4219-b9e0-4217900b3d11/logo/02.png",
+      "name": "Monitores Gamer Concórdia com os melhores preços! ",
+      "description": "Monitores Gamer Concórdia com os melhores preços! ",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a32cf2ebe63ec4a58f9e1a4",
+      "brandId": "06a294e8-956f-46ce-bb56-8f0fb6c09233",
+      "brandName": "Lojas REDE",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/06a294e8-956f-46ce-bb56-8f0fb6c09233/logo",
+      "name": "Sérum Hidratante Corporal Dove ( DE: R$ 49,99 POR: R$ 33,99)",
+      "description": "Sérum Hidratante Corporal Dove ( DE: R$ 49,99 POR: R$ 33,99)",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/aJxGvclCwfZb"
+    },
+    {
+      "id": "6a32f4b7abad9f7c83b64a93",
+      "brandId": "9ece9607-ed88-4c25-80e5-1d079f2b444c",
+      "brandName": "BALAROTI",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/9ece9607-ed88-4c25-80e5-1d079f2b444c/logo",
+      "name": "Seleção de ofertas campeãs.",
+      "description": "Seleção de ofertas campeãs.",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/tVFN2qThMYpZ"
+    },
+    {
+      "id": "6a331491abad9f7c83b672ec",
+      "brandId": "20ead81f-493b-45a7-8ab6-5f523d4df803",
+      "brandName": "Morena Rosa",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/20ead81f-493b-45a7-8ab6-5f523d4df803/logo",
+      "name": "Novidades no Outlet: Até 60% OFF + Frete Grátis Por tempo limitado",
+      "description": "Novidades no Outlet: Até 60% OFF + Frete Grátis Por tempo limitado",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/UqOF6oO6mizC"
+    },
+    {
+      "id": "6a331617abad9f7c83b67693",
+      "brandId": "169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1",
+      "brandName": "Iodice",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/169cbcdb-6f8c-412a-b903-5e5f7d4e1ca1/logo",
+      "name": "Novidades no Outlet: Até 60% OFF + Frete Grátis Por tempo limitado",
+      "description": "Novidades no Outlet: Até 60% OFF + Frete Grátis Por tempo limitado",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": null
+    },
+    {
+      "id": "6a331726abad9f7c83b6798b",
+      "brandId": "a6bb78df-7055-4184-bd84-51a4cb831bf6",
+      "brandName": "Maria Valentina",
+      "brandLogo": "https://cdn.lomadee.com.br/logos/a6bb78df-7055-4184-bd84-51a4cb831bf6/logo",
+      "name": "Novidades no Outlet: Até 60% OFF + Frete Grátis Por tempo limitado",
+      "description": "Novidades no Outlet: Até 60% OFF + Frete Grátis Por tempo limitado",
+      "docType": "offer",
+      "categories": [],
+      "isHighlight": false,
+      "affiliateUrl": "https://lmdee.link/3oeNYiYTv9N2"
     }
   ]
 }
